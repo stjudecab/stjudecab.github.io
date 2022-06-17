@@ -10,9 +10,9 @@ Thank you for your interest in joining the St. Jude.
 
 ### Open positions
 
-- [46617 : Structural Biology : Senior Bioinformatics Analyst - Cancer Genetics](https://careers-stjude.icims.com/jobs/8764/sr-bioinformatics-analyst/job){:target="_blank"}
-- [45020 : Structural Biology : Senior Bioinformatics Analyst- Computational Human Geneticist](https://careers-stjude.icims.com/jobs/8135/sr-bioinformatics-analyst/job){:target="_blank"}
-- [46522 : CAB : Bioinformatics Research Scientist Transcriptomics](http://myjob.io/csfwh){:target="_blank"}
+- [F1437 : CAB : Bioinformatics Research Scientist - Epigenetics Group](https://myjob.io/1ziq2b9ibbg){:target="_blank"}
+- [45020 : Structural Biology : Senior Bioinformatics Analyst- Computational Human Geneticist](https://myjob.io/0vywue01sqt){:target="_blank"}
+- [48495 : Pathology : Bioinformatics Research Scientist](https://myjob.io/ms8v1ci5fig){:target="_blank"}
 
 <iframe src="https://jobs-stjude.icims.com/jobs/search?mode=redo&pr=0&schemaId=%24T%7BJob%7D.%24T%7BJobContent2013%7D.%24F%7BTitle%7D&o=D&searchRadius=20&searchCategory=50638" title="St. Jude Bioinformatics Jobs" width="100%" height="800"></iframe>
 
