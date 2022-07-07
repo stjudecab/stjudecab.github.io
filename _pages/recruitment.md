@@ -11,6 +11,7 @@ Thank you for your interest in joining the St. Jude.
 ### Open positions
 
 - [F1437 : CAB : Bioinformatics Research Scientist - Epigenetics Group](https://myjob.io/1ziq2b9ibbg){:target="_blank"}
+- [48831 : CAB : Sr Bioinformatics Research Scientist](https://myjob.io/xe2s7ovxus){:target="_blank"}
 - [45020 : Structural Biology : Senior Bioinformatics Analyst- Computational Human Geneticist](https://myjob.io/0vywue01sqt){:target="_blank"}
 - [48495 : Pathology : Bioinformatics Research Scientist](https://myjob.io/ms8v1ci5fig){:target="_blank"}
 
