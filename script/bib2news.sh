@@ -9,7 +9,7 @@
 
 if [ $# -lt 1 ]
 then
-echo "Usage: bib2news.sh new.bib 2022"
+echo "Usage: bib2news.sh new.bib beisi|2022 "
 exit
 fi
 
@@ -20,4 +20,14 @@ suftmp=tmp.bib2news.sh.$(date +%Y%m%d-%H%M%S-%N).tmp
 ff=$1
 year=$2
 
-cat $ff | grep @article | sed "s/@article{//;s/,//;s/_/ /g" | grep $year | while read l m n; do nn=$(echo $n | capital.sh); echo "[${nn} et al. $year; $m](/publications/#${l}_${m}_${n}){:target=\\\"_blank\\\"}"; done | tr "\n" "; "
+if [[ $year =~ beisi ]]
+then
+    cat $ff >> ../_bibliography/tm_beisi.bib
+    cat $ff >> ../_bibliography/grp_Epigenetics.clean.bib
+    cat $ff >> ../_bibliography/papers.clean.bib
+fi
+
+if [[ $year =~ 20 ]]
+then
+    cat $ff | grep @article | sed "s/@article{//;s/,//;s/_/ /g" | egrep "$year" | while read l m n; do nn=$(echo $n | capital.sh); echo "[${nn} et al. $year; $m](/publications/#${l}_${m}_${n}){:target=\\\"_blank\\\"}"; done | tr "\n" "; "
+fi

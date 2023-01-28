@@ -12,7 +12,7 @@ stjude: h/yawei-hui
 orcid: 0000-0001-6397-3086
 linkedin: yaweihui
 bibfile: tm_yawei.bib
-years: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
+years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 scholar_first_names_underline: Yawei
 scholar_first_name_bold: Yawei
 ---
@@ -38,43 +38,3 @@ Time        | Position                   | PI/Supervisor   | Institution        
 2000-2008   | Grad. Res. Assistant       | Julian Krolik   | The Johns Hopkins University          |
 1997-2000   | Grad. Res. Assistant       | Jinming Dong    | Nanjing University                    |
 {:.custom-table}
-
-<!--more-->
-
-# Publications
-
-For a [full list (GEO\|SRA\|Browser\|Code) see below](#full-list)
-{% if page.googlescholar %}, or [Google Scholar](https://scholar.google.com/citations?user={{page.googlescholar}}){:target="_blank"}
-{% endif %} {% if page.myncbi %}, or [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/{{page.myncbi}}/bibliography/public/){:target="_blank"}{% endif %}
-
-
-<div class="row">
-  {% capture npaper %}
-    {% bibliography_count -f {{ page.bibfile }} -q @*[highlight] %}
-  {% endcapture %}
-  {% assign npaper = npaper | plus: 0 %}
-  {% if npaper > 0 %}
-## Featured
-
-<div class="publications_highlight">
-  {% bibliography -f {{ page.bibfile }} --template bib_highlight -q @*[highlight] %}
-</div>
-{% endif %}
-
-</div>
-
-## Full List
-
-<nobr><em>*</em>denotes equal contribution</nobr>
-<div class="publications">
-{% for y in page.years %}
-  {% capture npaper %}
-    {% bibliography_count -f {{ page.bibfile }} -q @*[year={{y}}]* %}
-  {% endcapture %}
-  {% assign npaper = npaper | plus: 0 %}
-  {% if npaper > 0 %}
-  <h2 class="year">{{y}}:{{npaper}}</h2>
-  {% bibliography -f {{ page.bibfile }} -q @*[year={{y}}]* %}
-  {% endif %}
-{% endfor %}
-</div>

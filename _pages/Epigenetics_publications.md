@@ -4,10 +4,10 @@ layout: gridlay
 excerpt: "- Publications"
 sitemap: true
 permalink: /Epigenetics_publications/
-years: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
+years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 group: Epigenetics
 groupcolor: "#8D0034"
-scholar_first_names_underline: Beisi;Wojciech;Nadhir
+scholar_first_names_underline: Beisi;Wojciech;Nadhir;Wenjie
 scholar_first_name_bold: Beisi
 ---
 

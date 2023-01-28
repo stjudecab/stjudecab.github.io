@@ -310,6 +310,12 @@ $background-color: #fdfdfd;
     list-style: none;
     padding: 0;
     margin-top: 0;
+    nobr > em {
+      border-bottom: 0px solid;
+    }
+    em {
+      border-bottom: 1px solid;
+    }
   }
 }
 

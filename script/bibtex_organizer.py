@@ -36,10 +36,13 @@ dbsamptext = """@article{2019_NatNeurosci_yang,
   pmid = {30718900}
 }"""
 
-user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36'
+user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
 headers = {'User-Agent': user_agent}
 apiurl_jabref = "https://abbreviso.toolforge.org/a/"
 apiurl_pmc = "https://www.ncbi.nlm.nih.gov/pmc/articles/"
+
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 def journal2abbr_jabref(journal):
     url = apiurl_jabref + urllib.parse.quote(journal)
@@ -51,6 +54,7 @@ def journal2abbr_jabref(journal):
 def getPMCFig1(entry):
     url = apiurl_pmc + entry['pmcid']
     req = urllib.request.Request(url, headers=headers)
+    #import pdb; pdb.set_trace()
     try:
         with urllib.request.urlopen(req) as response:
             page = response.read()
@@ -71,7 +75,6 @@ def getPMCFig1(entry):
                 entry['fig1'] = newname
                 break
             url = re.sub("/pmc/.*","",apiurl_pmc) + tag['src']
-            #import ipdb; ipdb.set_trace()
             try:
                 req = urllib.request.Request(url, headers=headers)
                 with urllib.request.urlopen(req) as response:

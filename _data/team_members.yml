@@ -40,13 +40,6 @@
   posgroup: 1
   group: Genetics
  
-- name: Yawei Hui
-  photo: tm_yawei.jpg
-  info: Manager (DevOps)
-  url: yawei
-  posgroup: 0
-  group: DevOps
- 
 - name: Hongjian Jin
   photo: tm_hongjian.jpg
   info: Sr. Bioinformatics Research Scientist
@@ -81,13 +74,6 @@
   url: chelsea
   posgroup: 1
   group: DevOps
-
-- name: Shibiao Wan
-  photo: tm_shibiao.jpg
-  info: Bioinformatics Research Scientist
-  url: shibiao
-  posgroup: 1
-  group: Transcriptomics
 
 - name: Beisi Xu
   photo: tm_beisi.jpg
@@ -130,6 +116,8 @@
   url: dale
   posgroup: 2
   group: Alumni
+  newurl: https://www.linkedin.com/in/dale-hedges-4b22996
+  newplace: Principal Scientist at M2Gen
 
 - name: Patrick Schreiner
   photo: tm_patrick.jpg
@@ -137,3 +125,32 @@
   url:  patrick
   posgroup: 2
   group: Alumni
+  newurl: https://www.linkedin.com/in/patrick-schreiner-phd-91a6b142
+  newplace: Senior Bioinformatician at Booz Allen Hamilton
+
+- name: Yawei Hui
+  photo: tm_yawei.jpg
+  info: Manager (DevOps)
+  url: yawei
+  posgroup: 2
+  group: Alumni
+  newurl: https://www.stjude.org/directory/h/yawei-hui.html
+  newplace: Sr Mgr-High Performance Computing at St. Jude
+
+- name: Shibiao Wan
+  photo: tm_shibiao.jpg
+  info: Bioinformatics Research Scientist
+  url: shibiao
+  posgroup: 2
+  group: Alumni
+  newurl: https://www.unmc.edu/genetics/faculty/bios/wan.html
+  newplace: AP and Assistant Director for Bioinformatics and Systems Biology Core at UNMC
+
+- name: Bahadur Badsha
+  photo: tm_bahadur.jpg
+  info: Bioinformatics Research Scientist
+  url: bahadur
+  posgroup: 2
+  group: Alumni
+  newurl: 
+  newplace: Lead Bioinformatics Scientist

@@ -13,6 +13,9 @@
       link: /DevOps/
 - link: /team/
   name: Team
+  sublinks:
+    - name: Alumni
+      link: /alumni/
 - link: /research/
   name: Research
 - link: /publications/
