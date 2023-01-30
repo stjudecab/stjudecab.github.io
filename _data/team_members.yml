@@ -33,13 +33,6 @@
   posgroup: -2
   group: Transcriptomics
  
-- name: Bahadur Badsha
-  photo: tm_bahadur.jpg
-  info: Bioinformatics Research Scientist
-  url: bahadur
-  posgroup: 1
-  group: Genetics
- 
 - name: Hongjian Jin
   photo: tm_hongjian.jpg
   info: Sr. Bioinformatics Research Scientist
@@ -110,15 +103,6 @@
   posgroup: 1
   group: DevOps
 
-- name: Dale Hedges
-  photo: tm_dale.jpg
-  info: Sr. Bioinformatics Research Scientist
-  url: dale
-  posgroup: 2
-  group: Alumni
-  newurl: https://www.linkedin.com/in/dale-hedges-4b22996
-  newplace: Principal Scientist at M2Gen
-
 - name: Patrick Schreiner
   photo: tm_patrick.jpg
   info: Bioinformatics Research Scientist
@@ -128,14 +112,14 @@
   newurl: https://www.linkedin.com/in/patrick-schreiner-phd-91a6b142
   newplace: Senior Bioinformatician at Booz Allen Hamilton
 
-- name: Yawei Hui
-  photo: tm_yawei.jpg
-  info: Manager (DevOps)
-  url: yawei
+- name: Dale Hedges
+  photo: tm_dale.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: dale
   posgroup: 2
   group: Alumni
-  newurl: https://www.stjude.org/directory/h/yawei-hui.html
-  newplace: Sr Mgr-High Performance Computing at St. Jude
+  newurl: https://www.linkedin.com/in/dale-hedges-4b22996
+  newplace: Principal Scientist at M2Gen
 
 - name: Shibiao Wan
   photo: tm_shibiao.jpg
@@ -146,11 +130,21 @@
   newurl: https://www.unmc.edu/genetics/faculty/bios/wan.html
   newplace: AP and Assistant Director for Bioinformatics and Systems Biology Core at UNMC
 
+- name: Yawei Hui
+  photo: tm_yawei.jpg
+  info: Manager (DevOps)
+  url: yawei
+  posgroup: 2
+  group: Alumni
+  newurl: https://www.stjude.org/directory/h/yawei-hui.html
+  newplace: Sr Mgr-High Performance Computing at St. Jude
+
 - name: Bahadur Badsha
   photo: tm_bahadur.jpg
   info: Bioinformatics Research Scientist
   url: bahadur
   posgroup: 2
   group: Alumni
-  newurl: 
+  newurl: https://scholar.google.com/citations?user=atiu2RUAAAAJ&hl=en
   newplace: Lead Bioinformatics Scientist
+

@@ -11,11 +11,10 @@
       link: /Genetics/
     - name: DevOps
       link: /DevOps/
-- link: /team/
-  name: Team
-  sublinks:
     - name: Alumni
       link: /alumni/
+- link: /team/
+  name: Team
 - link: /research/
   name: Research
 - link: /publications/
