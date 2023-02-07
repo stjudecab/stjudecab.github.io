@@ -14,7 +14,7 @@
   
 - name: Mohamed Nadhir Djekidel
   photo: tm_nadhir.jpg
-  info: Bioinformatics Research Scientist
+  info: Sr. Bioinformatics Research Scientist
   url: nadhir
   posgroup: 1
   group: Epigenetics
@@ -33,9 +33,16 @@
   posgroup: -2
   group: Transcriptomics
 
+- name: Hongjian Jin
+  photo: tm_hongjian.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: hongjian
+  posgroup: 1
+  group: Transcriptomics
+
 - name: Lei Li
   photo: tm_lei.jpg
-  info: Bioinformatics Research Scientist
+  info: Sr. Bioinformatics Research Scientist
   url: lei
   posgroup: 1
   group: Transcriptomics
