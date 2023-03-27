@@ -16,9 +16,7 @@ Thank you for your interest in joining the St. Jude.
 - [Developmental Neurobiology : Sr. Bioinformatics Research Scientist](https://myjob.io/mqDkNLJ){:target="_blank"}
 - [Biostat : Biostatistician](https://myjob.io/m8RUJzj){:target="_blank"}
 
-<iframe src="https://talent.stjude.org/careers/jobs?keywords=bioinformatics&sortBy=relevance&page=1" title="St. Jude Bioinformatics Jobs" width="100%" height="800"></iframe>
-
-Or search at [St. Jude Career Page](https://talent.stjude.org/careers/jobs?keywords=bioinformatics&sortBy=relevance&page=1){:target="_blank"} for more opening. 
+Search at [St. Jude Career Page](https://talent.stjude.org/careers/jobs?keywords=bioinformatics&sortBy=relevance&page=1){:target="_blank"} for more opening. 
 
 ---
 
