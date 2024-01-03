@@ -12,7 +12,7 @@ stjude: x/chelsea-trotter
 orcid: 0000-0002-8788-8043
 linkedin:
 bibfile: tm_chelsea.bib
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
+years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 scholar_first_names_underline: Chelsea
 scholar_first_name_bold: Xiaoqi
 ---

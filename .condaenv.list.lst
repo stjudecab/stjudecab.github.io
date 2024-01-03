@@ -1,0 +1,44 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
+https://repo.anaconda.com/pkgs/main/linux-64/ca-certificates-2021.1.19-h06a4308_0.conda#c73203541f779cf79629e9dbe62f5e0b
+https://conda.anaconda.org/conda-forge/noarch/kernel-headers_linux-64-2.6.32-he073ed8_16.conda#7ca122655873935e02c91279c5b03c8c
+https://conda.anaconda.org/conda-forge/linux-64/ld_impl_linux-64-2.40-h41732ed_0.conda#7aca3059a1729aa76c597603f10b0dd3
+https://conda.anaconda.org/conda-forge/noarch/libgcc-devel_linux-64-13.2.0-ha9c7c90_103.conda#db8cd1a871a07404d94f7dcc78c21a61
+https://conda.anaconda.org/conda-forge/noarch/libstdcxx-devel_linux-64-13.2.0-ha9c7c90_103.conda#46947f93254fdedc5ae0725b11ca3610
+https://conda.anaconda.org/conda-forge/linux-64/libstdcxx-ng-13.2.0-h7e041cc_3.conda#937eaed008f6bf2191c5fe76f87755e9
+https://repo.anaconda.com/pkgs/main/linux-64/pandoc-2.11-hb0f4dca_0.conda#bec1a1eba342745f23ac4f392444c5c7
+https://repo.anaconda.com/pkgs/main/linux-64/yaml-0.1.7-had09818_2.conda#e5f9ce5f2d1a8d17a4fade8a546b43aa
+https://conda.anaconda.org/conda-forge/linux-64/libgomp-13.2.0-h807b86a_3.conda#7124cbb46b13d395bdde68f2d215c989
+https://conda.anaconda.org/conda-forge/noarch/sysroot_linux-64-2.12-he073ed8_16.conda#071ea8dceff4d30ac511f4a2f8437cd1
+https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-2_gnu.tar.bz2#73aaf86a425cc6e73fcf236a5a46396d
+https://conda.anaconda.org/conda-forge/linux-64/binutils_impl_linux-64-2.40-hf600244_0.conda#33084421a8c0af6aef1b439707f7662a
+https://conda.anaconda.org/conda-forge/linux-64/libgcc-ng-13.2.0-h807b86a_3.conda#23fdf1fef05baeb7eadc2aed5fb0011f
+https://conda.anaconda.org/conda-forge/linux-64/binutils_linux-64-2.40-hbdbef99_2.conda#adfebae9fdc63a598495dfe3b006973a
+https://repo.anaconda.com/pkgs/main/linux-64/zlib-1.2.11-h7b6447c_3.conda#50aa4407424985d56ec8ae2f94626aa9
+https://repo.anaconda.com/pkgs/main/linux-64/xz-5.2.5-h7b6447c_0.conda#73a16ea8ba890175a1ce94a3a87c8f68
+https://repo.anaconda.com/pkgs/main/linux-64/openssl-1.1.1j-h27cfd23_0.conda#57de76d761383015d047da134e4b7946
+https://repo.anaconda.com/pkgs/main/linux-64/ncurses-6.2-he6710b0_1.conda#b7ddf5ee3934b7f54620e8f6c0ee8a95
+https://conda.anaconda.org/conda-forge/linux-64/libsanitizer-13.2.0-h7e041cc_3.conda#c63848839569bb82a3eff11f01e5de00
+https://repo.anaconda.com/pkgs/main/linux-64/libffi-3.2.1-hf484d3e_1007.conda#ef4c7b437f50a1ab4920dc313d8ebc28
+https://repo.anaconda.com/pkgs/main/linux-64/gmp-6.2.1-h2531618_2.conda#2e73d31066d9abc951ad4fe55e70cb98
+https://repo.anaconda.com/pkgs/main/linux-64/tk-8.6.10-hbc83047_0.conda#9ba14aaba4818a66c820f85f5bf34ca0
+https://repo.anaconda.com/pkgs/main/linux-64/readline-8.1-h27cfd23_0.conda#715789a38d447bc0cccc936209ac78c0
+https://repo.anaconda.com/pkgs/main/linux-64/libedit-3.1.20191231-h14c3975_1.conda#a900fd130232e0189f071fabbc6025d9
+https://conda.anaconda.org/conda-forge/linux-64/gcc_impl_linux-64-13.2.0-h338b0a0_3.conda#79ae2d39f23e568b18be949973e9a025
+https://conda.anaconda.org/conda-forge/linux-64/gdbm-1.18-h0a1914f_2.tar.bz2#b77bc399b07a19c00fe12fdc95ee0297
+https://repo.anaconda.com/pkgs/main/linux-64/sqlite-3.33.0-h62c20be_0.conda#c4d7dd5cb9eca27fdf96764c1f706cb5
+https://conda.anaconda.org/conda-forge/linux-64/gxx_impl_linux-64-13.2.0-h338b0a0_3.conda#a5e463121f06f300e5462f98b82d0709
+https://conda.anaconda.org/conda-forge/linux-64/gcc_linux-64-13.2.0-h112eaf3_2.conda#7f77e02a151daf27b4a0e1b6c12f68b9
+https://conda.anaconda.org/conda-forge/linux-64/ruby-2.6.3-hda29b87_0.tar.bz2#e77966f228ed9bb0d1197734c8c6a7a9
+https://repo.anaconda.com/pkgs/main/linux-64/python-3.8.2-hcf32534_0.conda#63612f84e3a0f1605d9d53421e8aa36b
+https://repo.anaconda.com/pkgs/main/noarch/wheel-0.36.2-pyhd3eb1b0_0.conda#31029affc034e8c7203202417cebd157
+https://conda.anaconda.org/conda-forge/linux-64/gxx_linux-64-13.2.0-hc53e3bf_2.conda#7b8c35963707337e5f363c36f9bb5088
+https://conda.anaconda.org/conda-forge/linux-64/rb-eventmachine-1.2.7-h07ebd69_2.tar.bz2#a9f53673ea5f335aea8d92058fefdb41
+https://repo.anaconda.com/pkgs/main/linux-64/certifi-2020.12.5-py38h06a4308_0.conda#a0284d282349498e5e88dd3be1a4b61d
+https://repo.anaconda.com/pkgs/main/linux-64/setuptools-52.0.0-py38h06a4308_0.conda#28b5368307cefee1c0940ff14064ed9c
+https://repo.anaconda.com/pkgs/main/linux-64/pip-21.0.1-py38h06a4308_0.conda#294c4e999e656e8d2fbbb7955869703b
+https://repo.anaconda.com/pkgs/main/noarch/beautifulsoup4-4.9.3-pyha847dfd_0.tar.bz2#d8bbc79b4e5b52c1ea2876cf659ab251
+https://repo.anaconda.com/pkgs/main/noarch/soupsieve-2.1-pyhd3eb1b0_0.conda#a65dee706b85af42088f5b4f7575fa2d

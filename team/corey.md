@@ -10,7 +10,7 @@ photo: tm_coreyxu.jpg
 stjude: x/ke-xu
 orcid: 0000-0002-8130-1109
 linkedin: coreyxu
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017]
+years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
 scholar_first_names_underline: Corey
 scholar_first_name_bold: Corey
 ---

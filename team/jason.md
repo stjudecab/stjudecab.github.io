@@ -12,7 +12,7 @@ stjude:
 orcid: 
 linkedin: 
 bibfile: tm_jason
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013,2012,2011,2010]
+years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013,2012,2011,2010]
 scholar_first_names_underline: Jason
 scholar_first_name_bold: Jason
 scholar_last_name_bold: Myers
