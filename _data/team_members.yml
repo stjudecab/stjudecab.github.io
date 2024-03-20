@@ -4,28 +4,14 @@
   url: ticheng
   posgroup: 0
   group: Genomics
-  
-- name: Wenan Chen
-  photo: tm_wenan.jpg
-  info: Lead-Bioinformatics Research Scientist
-  url: wenan
-  posgroup: 1
-  group: R&D
-  
-- name: Mohamed Nadhir Djekidel
-  photo: tm_nadhir.jpg
-  info: Sr. Bioinformatics Research Scientist
-  url: nadhir
-  posgroup: 1
-  group: Epigenetics
- 
+
 - name: Gang Wu
   photo: tm_gang.jpg
   info: Director
   url: gang
   posgroup: -1
-  group: 
- 
+  group:
+
 - name: Yiping Fan
   photo: tm_yiping.jpg
   info: Director-Bioinformatics Research(Transcriptomics)
@@ -40,6 +26,14 @@
   posgroup: 1
   group: Transcriptomics
 
+- name: Yogesh Kumar
+  #photo: tm_yogesh.jpg
+  photo: blank.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: yogesh
+  posgroup: 1
+  group: Genomics
+
 - name: Lei Li
   photo: tm_lei.jpg
   info: Lead-Bioinformatics Research Scientist
@@ -49,10 +43,10 @@
 
 - name: Jason Myers
   photo: tm_jason.jpg
-  info: Bioinformatics Research Scientist
+  info: Manager of Software Engineering
   url: jason
-  posgroup: 1
-  group: Genetics
+  posgroup: 0
+  group: DevOps
 
 - name: Daniel Estevez Prado
   photo: tm_daniel.jpg
@@ -82,6 +76,20 @@
   posgroup: 1
   group: Epigenetics
 
+- name: Surbhi Sona
+  photo: tm_surbhi.jpg
+  info: Bioinformatics Research Scientist
+  url: surbhi
+  posgroup: 1
+  group: Transcriptomics
+
+- name: Karol Szlachta
+  photo: tm_karol.jpg
+  info: Lead-Bioinformatics Research Scientist
+  url: karol
+  posgroup: 1
+  group: R&D
+
 - name: Chelsea Trotter
   photo: tm_chelsea.jpg
   info: Sr. Scientific Computing Engineer
@@ -95,14 +103,22 @@
   url: beisi
   posgroup: 0
   group: Epigenetics
- 
-- name: Ke (Corey) Xu
-  photo: tm_coreyxu.jpg
-  info: Sr. Bioinformatics Research Scientist
-  url: corey
-  posgroup: 1
-  group: Genomics
 
+- name: Guang Yang
+  #photo: tm_guang.jpg
+  photo: blank.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: guang
+  posgroup: 1
+  group: Genetics
+
+- name: Qiong Zhang
+  photo: tm_qiong.jpg
+  info: Bioinformatics Research Scientist
+  url: qiong
+  posgroup: 1
+  group: Epigenetics
+ 
 - name: Wenchao Zhang
   photo: tm_wenchao.png
   info: Sr. Scientific Computing Engineer
@@ -169,3 +185,29 @@
   newurl: https://scholar.google.com/citations?user=atiu2RUAAAAJ&hl=en
   newplace: Lead Bioinformatics Scientist
 
+- name: Wenan Chen
+  photo: tm_wenan.jpg
+  info: Lead-Bioinformatics Research Scientist
+  url: wenan
+  posgroup: 2
+  group: R&D
+  newurl: https://www.mayo.edu/research/faculty/chen-wenan-ph-d/bio-20560783
+  newplace: Senior Associate Consultant at Mayo Clinic
+  
+- name: Mohamed Nadhir Djekidel
+  photo: tm_nadhir.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: nadhir
+  posgroup: 2
+  group: Epigenetics
+  newurl: https://scholar.google.com/citations?user=M2b_x_8AAAAJ&hl=en
+  newplace: Staff Scientist at Sidra Medicine
+
+- name: Ke (Corey) Xu
+  photo: tm_coreyxu.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: corey
+  posgroup: 2
+  group: Genomics
+  newurl: https://scholar.google.com/citations?user=eA2R-ZkAAAAJ
+  newplace: Associate Director of Bioinformatics at Acrivon Therapeutics, Inc
