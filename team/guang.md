@@ -7,7 +7,7 @@ email: guang.yang@stjude.org
 twitter:
 github: stjudecab
 googlescholar: sh83_9kAAAAJ
-photo: tm_guang
+photo: tm_guang.jpg
 linkedin: guang-yang-b0b175123
 years:
 scholar_first_names_underline: Guang
