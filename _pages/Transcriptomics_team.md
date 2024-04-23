@@ -21,7 +21,7 @@ groupspec: [ "team/" ]
 {% for member in grpmember %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if member.posgroup == -2 %}
+{% if member.posgroup == 0 %}
 
 {% if even_odd == 0 %}
 <div class="row">

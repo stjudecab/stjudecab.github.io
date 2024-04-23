@@ -5,6 +5,13 @@
   posgroup: 0
   group: Genomics
 
+- name: Zhongshan Cheng
+  photo: tm_zhongshan.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: zhongshan
+  posgroup: 1
+  group: Genomics
+
 - name: Gang Wu
   photo: tm_gang.jpg
   info: Director
@@ -14,16 +21,16 @@
 
 - name: Yiping Fan
   photo: tm_yiping.jpg
-  info: Director-Bioinformatics Research(Transcriptomics)
+  info: Director-Bioinformatics Research
   url: yiping
   posgroup: -2
-  group: Transcriptomics
+  group:
 
 - name: Hongjian Jin
   photo: tm_hongjian.jpg
-  info: Lead-Bioinformatics Research Scientist
+  info: Principal Bioinformatics Research Scientist(Transcriptomics)
   url: hongjian
-  posgroup: 1
+  posgroup: 0
   group: Transcriptomics
 
 - name: Yogesh Kumar
@@ -105,8 +112,7 @@
   group: Epigenetics
 
 - name: Guang Yang
-  #photo: tm_guang.jpg
-  photo: blank.jpg
+  photo: tm_guang.jpg
   info: Sr. Bioinformatics Research Scientist
   url: guang
   posgroup: 1
@@ -121,24 +127,17 @@
  
 - name: Wenchao Zhang
   photo: tm_wenchao.png
-  info: Sr. Scientific Computing Engineer
+  info: Sr. Computational Research Scientist
   url: wenchao
   posgroup: 1
   group: DevOps
- 
-- name: Zhongshan Zheng
-  photo: tm_zhongshan.jpg
-  info: Sr. Bioinformatics Research Scientist
-  url: zhongshan
-  posgroup: 1
-  group: Genomics
- 
+
 - name: Xun Zhu
   photo: tm_xun.jpg
-  info: Staff Software Engineer
+  info: Manager of Software Engineering
   url: xun
-  posgroup: 1
-  group: DevOps
+  posgroup: 0
+  group: DIVIA
 
 - name: Patrick Schreiner
   photo: tm_patrick.jpg
