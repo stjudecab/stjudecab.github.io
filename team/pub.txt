@@ -1,0 +1,38 @@
+
+# Publications
+
+For a [full list (GEO\|SRA\|Browser\|Code) see below](#full-list)
+{% if page.googlescholar %}, or [Google Scholar](https://scholar.google.com/citations?user={{page.googlescholar}}){:target="_blank"}
+{% endif %} {% if page.myncbi %}, or [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/{{page.myncbi}}/bibliography/public/){:target="_blank"}{% endif %}
+
+
+<div class="row">
+  {% capture npaper %}
+    {% bibliography_count -f {{ page.bibfile }} -q @*[highlight] %}
+  {% endcapture %}
+  {% assign npaper = npaper | plus: 0 %}
+  {% if npaper > 0 %}
+## Featured
+
+<div class="publications_highlight">
+  {% bibliography -f {{ page.bibfile }} --template bib_highlight -q @*[highlight] %}
+</div>
+{% endif %}
+
+</div>
+
+## Full List
+
+<nobr><em>*</em>denotes equal contribution, <em>#</em>denotes corresponding</nobr>
+<div class="publications">
+{% for y in page.years %}
+  {% capture npaper %}
+    {% bibliography_count -f {{ page.bibfile }} -q @*[year={{y}}]* %}
+  {% endcapture %}
+  {% assign npaper = npaper | plus: 0 %}
+  {% if npaper > 0 %}
+  <h2 class="year">{{y}}:{{npaper}}</h2>
+  {% bibliography -f {{ page.bibfile }} -q @*[year={{y}}]* %}
+  {% endif %}
+{% endfor %}
+</div>
