@@ -3,7 +3,7 @@ layout: member
 title: Dr. Evadnie Rampersaud
 position: Principal Bioinformatics Research Scientist(Genetics)
 handle: evadnie
-email: evadnie.rampersauds@stjude.org
+email: evadnie.rampersaud@stjude.org
 twitter:
 github: stjudecab
 googlescholar:

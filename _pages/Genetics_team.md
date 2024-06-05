@@ -86,5 +86,5 @@ groupspec: [ "team/" ]
 ---
 
 ### Contact
-Please contact our group lead, <a href="mailto:evadnie.rampersauds#stjude.org">Dr. Evadnie Rampersaud</a>.
+Please contact our group lead, <a href="mailto:evadnie.rampersaud#stjude.org">Dr. Evadnie Rampersaud</a>.
 
