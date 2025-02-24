@@ -55,20 +55,7 @@
   posgroup: 0
   group: DevOps
 
-- name: Daniel Estevez Prado
-  photo: tm_daniel.jpg
-  info: Sr. Bioinformatics Research Scientist
-  url: daniel
-  posgroup: 1
-  group: Transcriptomics
 
-- name: Wenjie Qi
-  photo: tm_wenjie.jpg
-  info: Bioinformatics Research Scientist
-  url: wenjie
-  posgroup: 1
-  group: Epigenetics
- 
 - name: Evadnie Rampersaud
   photo: tm_evadnie.jpg
   info: Principal Bioinformatics Research Scientist(Genetics)
@@ -78,7 +65,7 @@
  
 - name: Wojciech Rosikiewicz
   photo: tm_wojciech.jpg
-  info: Sr. Bioinformatics Research Scientist
+  info: Lead-Bioinformatics Research Scientist
   url: wojciech
   posgroup: 1
   group: Epigenetics
@@ -210,3 +197,22 @@
   group: Genomics
   newurl: https://scholar.google.com/citations?user=eA2R-ZkAAAAJ
   newplace: Associate Director of Bioinformatics at Acrivon Therapeutics, Inc
+
+- name: Daniel Estevez Prado
+  photo: tm_daniel.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: daniel
+  posgroup: 2
+  group: Transcriptomics
+  newurl: https://www.stjude.org/research/labs/durbin-lab/durbin-lab-team.html
+  newplace: Durbin lab at St. Jude
+
+- name: Wenjie Qi
+  photo: tm_wenjie.jpg
+  info: Bioinformatics Research Scientist
+  url: wenjie
+  posgroup: 2
+  group: Epigenetics
+  newurl: https://www.stjude.org/research/labs/orr-lab/orr-lab-team.html
+  newplace: Orr Lab at St. Jude
+ 
