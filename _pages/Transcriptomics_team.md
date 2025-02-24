@@ -86,5 +86,5 @@ groupspec: [ "team/" ]
 ---
 
 ### Contact
-Please contact our group lead, <a href="mailto:yiping.fan#stjude.org">Yiping Fan</a>.
+Please contact our group lead, <a href="mailto:hongjian.jin#stjude.org">Hongjian Jin</a>.
 
