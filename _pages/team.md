@@ -30,7 +30,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
-  <i>Associate Director</i>
+  <i>Associate Director</i><br>
   <i>{{ member.info }}</i>
 </div>
 
