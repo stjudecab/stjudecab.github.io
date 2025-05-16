@@ -11,7 +11,7 @@ photo: tm_yawei.jpg
 stjude: h/yawei-hui
 orcid: 0000-0001-6397-3086
 linkedin: yaweihui
-bibfile: tm_yawei.bib
+bibfile: tm_yawei
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 scholar_first_names_underline: Yawei
 scholar_first_name_bold: Yawei
@@ -38,3 +38,24 @@ Time        | Position                   | PI/Supervisor   | Institution        
 2000-2008   | Grad. Res. Assistant       | Julian Krolik   | The Johns Hopkins University          |
 1997-2000   | Grad. Res. Assistant       | Jinming Dong    | Nanjing University                    |
 {:.custom-table}
+
+
+<div class="publications">
+{% assign start_year = page.years | last %}
+{% assign current_year = site.time | date: "%Y" | plus: 0 %}
+{%- assign years_string = "" -%}
+{% for year in (start_year..current_year) %}
+    {%- assign year_string = year_string | append: year | append: "," -%}
+{%- endfor -%}
+{%- assign year_array = year_string | split: "," | reverse -%}
+{% for y in year_array %}
+  {% capture npaper %}
+    {% bibliography_count -f {{ page.bibfile }} -q @*[year={{y}}]* %}
+  {% endcapture %}
+  {% assign npaper = npaper | plus: 0 %}
+  {% if npaper > 0 %}
+  <h2 class="year">{{y}}:{{npaper}}</h2>
+  {% bibliography -f {{ page.bibfile }} -q @*[year={{y}}]* %}
+  {% endif %}
+{% endfor %}
+</div>

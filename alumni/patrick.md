@@ -41,3 +41,23 @@ Time        | Position                   | PI/Supervisor    | Institution       
             | Research Scientist         | Yiping Fan       |                                               |
 {:.custom-table}
 
+
+<div class="publications">
+{% assign start_year = page.years | last %}
+{% assign current_year = site.time | date: "%Y" | plus: 0 %}
+{%- assign years_string = "" -%}
+{% for year in (start_year..current_year) %}
+    {%- assign year_string = year_string | append: year | append: "," -%}
+{%- endfor -%}
+{%- assign year_array = year_string | split: "," | reverse -%}
+{% for y in year_array %}
+  {% capture npaper %}
+    {% bibliography_count -f {{ page.bibfile }} -q @*[year={{y}}]* %}
+  {% endcapture %}
+  {% assign npaper = npaper | plus: 0 %}
+  {% if npaper > 0 %}
+  <h2 class="year">{{y}}:{{npaper}}</h2>
+  {% bibliography -f {{ page.bibfile }} -q @*[year={{y}}]* %}
+  {% endif %}
+{% endfor %}
+</div>

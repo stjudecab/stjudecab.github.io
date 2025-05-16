@@ -12,7 +12,7 @@ stjude:
 orcid:
 linkedin:
 bibfile: tm_evadnie
-years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998]
+years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998]
 scholar_first_names_underline: Evadnie
 scholar_first_name_bold: Evadnie
 ---
@@ -64,9 +64,17 @@ For a [full list (GEO\|SRA\|Browser\|Code) see below](#full-list)
 
 ## Full List
 
-<nobr><em>*</em>denotes equal contribution</nobr>
+<nobr><em>*</em>denotes equal contribution, <em>#</em>denotes corresponding</nobr>
+
 <div class="publications">
-{% for y in page.years %}
+{% assign start_year = page.years | last %}
+{% assign current_year = site.time | date: "%Y" | plus: 0 %}
+{%- assign years_string = "" -%}
+{% for year in (start_year..current_year) %}
+    {%- assign year_string = year_string | append: year | append: "," -%}
+{%- endfor -%}
+{%- assign year_array = year_string | split: "," | reverse -%}
+{% for y in year_array %}
   {% capture npaper %}
     {% bibliography_count -f {{ page.bibfile }} -q @*[year={{y}}]* %}
   {% endcapture %}

@@ -54,7 +54,6 @@ def journal2abbr_jabref(journal):
 def getPMCFig1(entry):
     url = apiurl_pmc + entry['pmcid']
     req = urllib.request.Request(url, headers=headers)
-    #import pdb; pdb.set_trace()
     try:
         with urllib.request.urlopen(req) as response:
             page = response.read()
@@ -66,7 +65,9 @@ def getPMCFig1(entry):
     tags = soup.findAll('img')
     igot = 0
     for tag in tags:
-        if re.search("/bin/",tag['src']):
+        #if re.search("/bin/",tag['src']):
+        if re.search("/cdn.ncbi.nlm.nih.gov/pmc/blobs",tag['src']):
+            #import pdb; pdb.set_trace()
             igot += 1
             suf = tag['src'].split(".")[-1]
             newname = ".".join([ "Highlight", entry['ID'], "fig1", suf])
@@ -74,7 +75,8 @@ def getPMCFig1(entry):
                 sys.stderr.write("getPMCFig1: Skip Figure %s\n" % (newname))
                 entry['fig1'] = newname
                 break
-            url = re.sub("/pmc/.*","",apiurl_pmc) + tag['src']
+            #url = re.sub("/pmc/.*","",apiurl_pmc) + tag['src']
+            url = tag['src']
             try:
                 req = urllib.request.Request(url, headers=headers)
                 with urllib.request.urlopen(req) as response:

@@ -10,7 +10,7 @@ photo: tm_yiping.jpg
 stjude: y/yiping-fan
 linkedin: yipingfan 
 bibfile: tm_yiping 
-years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
+years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
 scholar_first_names_underline: Yiping 
 scholar_first_name_bold: Yiping
 ---
@@ -59,11 +59,18 @@ For a [full list (GEO\|SRA\|Browser\|Code) see below](#full-list)
 </div>
 
 ## Full List
-{% assign paperyear = (1995..2021) %}
 
-<nobr><em>*</em>denotes equal contribution</nobr>
+<nobr><em>*</em>denotes equal contribution, <em>#</em>denotes corresponding</nobr>
+
 <div class="publications">
-{% for y in paperyear reversed  %}
+{% assign start_year = page.years | last %}
+{% assign current_year = site.time | date: "%Y" | plus: 0 %}
+{%- assign years_string = "" -%}
+{% for year in (start_year..current_year) %}
+    {%- assign year_string = year_string | append: year | append: "," -%}
+{%- endfor -%}
+{%- assign year_array = year_string | split: "," | reverse -%}
+{% for y in year_array %}
   {% capture npaper %}
     {% bibliography_count -f {{ page.bibfile }} -q @*[year={{y}}]* %}
   {% endcapture %}
