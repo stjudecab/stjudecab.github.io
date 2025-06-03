@@ -26,12 +26,28 @@
   posgroup: -2
   group:
 
+- name: Mohammad Shabbir Hasan
+  #photo: tm_mohammadshabbir.jpg
+  photo: blank.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: mohammadshabbir
+  posgroup: 1
+  group: Genetics
+
 - name: Hongjian Jin
   photo: tm_hongjian.jpg
   info: Principal Bioinformatics Research Scientist(Transcriptomics)
   url: hongjian
   posgroup: 0
   group: Transcriptomics
+
+- name: Hee Kim
+  #photo: tm_hee.jpg
+  photo: blank.jpg
+  info: Bioinformatics Software Engineer
+  url: hee
+  posgroup: 1
+  group: DevOps
 
 - name: Yogesh Kumar
   #photo: tm_yogesh.jpg
@@ -55,6 +71,12 @@
   posgroup: 0
   group: DevOps
 
+- name: Beifang Niu
+  photo: tm_beifang.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: beifang
+  posgroup: 1
+  group: Genomics
 
 - name: Evadnie Rampersaud
   photo: tm_evadnie.jpg
@@ -84,6 +106,14 @@
   posgroup: 1
   group: R&D
 
+- name: Saima Sultana Tithi
+  #photo: tm_saimasultana.jpg
+  photo: blank.jpg
+  info: Sr. Bioinformatics Analyst
+  url: saimasultana
+  posgroup: 1
+  group: R&D
+
 - name: Chelsea Trotter
   photo: tm_chelsea.jpg
   info: Sr. Scientific Computing Engineer
@@ -104,6 +134,13 @@
   url: guang
   posgroup: 1
   group: Genetics
+
+- name: Haidong Yi
+  photo: tm_haidong.jpg
+  info: Staff Software Engineer
+  url: haidong
+  posgroup: 1
+  group: DevOps
 
 - name: Qiong Zhang
   photo: tm_qiong.jpg
