@@ -21,7 +21,7 @@ permalink: /code/
 
 my-deeptools is a deeptools variety with several customized additional options:
 1. [Move Legend to outside of figure](https://github.com/deeptools/deepTools/pull/1078)
-2. [Fix y-axis inward when using different ymax so the profiles have same width to heatmap)[https://github.com/deeptools/deepTools/pull/1078)
+2. [Fix y-axis inward when using different ymax so the profiles have same width to heatmap](https://github.com/deeptools/deepTools/pull/1078)
 3. [Add --repgrplist option to combine replicates for plotProfile](https://github.com/xubeisi/deepTools/commit/e793e4840e500c811cf4258e407bd60e76d5d359)
 4. [Limit title character to 15 and auto break into multiple lines](https://github.com/xubeisi/deepTools/commit/1b85c00c8c0efa1b10f724ff4ae338aec651e5d1)
 
