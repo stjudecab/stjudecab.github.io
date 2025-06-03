@@ -54,7 +54,7 @@ Time        | Position                   | PI/Supervisor    | Institution       
 
 - **HotSpot3D** 
   A tool for identifying spatial variant hotspots (clusters), functionally important cancer mutations using protein 3D structure.  
-  👉 [Paper (PMID: 25837912)](https://www.ncbi.nlm.nih.gov/pubmed/25837912) \| [GitHub](https://github.com/ding-lab/hotspot3d)
+  👉 [Paper (PMID: 27294619)](https://www.ncbi.nlm.nih.gov/pubmed/27294619) \| [GitHub](https://github.com/ding-lab/hotspot3d)
 
 - **HotSpot3D Web Server**  
   An interactive web platform for visualizing and analyzing spatial clusters of somatic mutations in protein 3D structures.  
