@@ -33,7 +33,7 @@ Time        | Position                   | PI/Supervisor    | Institution       
 2025-       | Senior Bioinformatics Research Scientist      | Gang Wu /Ti-Cheng Chang | St. Jude Children's Research Hospital, Memphis, TN, USA                |
 2015-2025   | Professor                  | -                | Computer Network Information Center, Chinese Acedemy of Sciences, Beijing, China                 |
 2012-2015   | Staff Research Scientist   | Li Ding          | McDonnell Genome Institute, Washington University in St. Louis, MO, USA                          |
-2009-2012   | Postdoctoral Fellow        | Weizhong Li      | Center for Research in Biological Systems, University of California San Diego, CA, USA           |
+2009-2012   | Postdoctoral Associate     | Weizhong Li      | Center for Research in Biological Systems, University of California San Diego, CA, USA           |
 
 {:.custom-table}
 
@@ -101,3 +101,12 @@ For a full list -
   {% endif %}
 {% endfor %}
 </div>
+
+### Awards/Presentations/Posters
+
+**2015 Top 10** Clinical Research Achievement Awards of the United States
+International symposium on clinical and translational medicine 2016, Shanghai, China. Invited speaker
+International Workshop on CO-DESIGN 2016, Xian, China. Invited speaker
+**Genome Informatics 2013**, Cold Spring Harbor, NY, USA, Oct 31-Nov 2, 2013. Poster
+International Human Microbiome Congress (**IHMC**), Vancouver, Canada, March 9-11, 2011. Poster
+
