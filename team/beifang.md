@@ -104,13 +104,8 @@ For a full list -
 
 ### Awards/Presentations/Posters
 
-**2015 Top 10** Clinical Research Achievement Awards of the United States
-
-International symposium on clinical and translational medicine 2016, Shanghai, China. Invited speaker
-
-International Workshop on CO-DESIGN 2016, Xian, China. Invited speaker
-
-**Genome Informatics 2013**, Cold Spring Harbor, NY, USA, Oct 31-Nov 2, 2013. Poster
-
-International Human Microbiome Congress (**IHMC**), Vancouver, Canada, March 9-11, 2011. Poster
-
+**2015 Top 10** Clinical Research Achievement Awards of the United States  
+International symposium on clinical and translational medicine 2016, Shanghai, China. Invited speaker  
+International Workshop on CO-DESIGN 2016, Xian, China. Invited speaker  
+**Genome Informatics 2013**, Cold Spring Harbor, NY, USA, Oct 31-Nov 2, 2013. Poster  
+International Human Microbiome Congress (**IHMC**), Vancouver, Canada, March 9-11, 2011. Poster  
