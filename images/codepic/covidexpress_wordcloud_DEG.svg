@@ -1,0 +1,1004 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1097">
+<style>text{font-family:'Palatino';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(221,668)" font-size="225" style="fill:#D9534F">IFNB1</text>
+<text transform="translate(595,183)" font-size="219" style="fill:#D9534F">IFIT2</text>
+<text transform="translate(260,462)" font-size="216" style="fill:#D9534F">CXCL10</text>
+<text transform="translate(534,827)" font-size="215" style="fill:#65737E">IFIT3</text>
+<text transform="translate(201,822) rotate(-90)" font-size="215" style="fill:#A7ADBA">IFNL1</text>
+<text transform="translate(35,218)" font-size="198" style="fill:#65737E">IFNL3</text>
+<text transform="translate(684,300)" font-size="167" style="fill:#65737E">IFNL2</text>
+<text transform="translate(1159,833) rotate(-90)" font-size="165" style="fill:#A7ADBA">IFIT1</text>
+<text transform="translate(418,1060)" font-size="132" style="fill:#65737E">OASL</text>
+<text transform="translate(247,302)" font-size="112" style="fill:#65737E">RSAD2</text>
+<text transform="translate(202,774)" font-size="96" style="fill:#A7ADBA">CXCL11</text>
+<text transform="translate(240,859)" font-size="95" style="fill:#65737E">EGR1</text>
+<text transform="translate(234,76)" font-size="78" style="fill:#65737E">CMPK2</text>
+<text transform="translate(672,506)" font-size="60" style="fill:#65737E">AL669918.1</text>
+<text transform="translate(879,621)" font-size="60" style="fill:#A7ADBA">XAF1</text>
+<text transform="translate(1153,454) rotate(-90)" font-size="60" style="fill:#A7ADBA">GBP4</text>
+<text transform="translate(843,573)" font-size="60" style="fill:#D23833">CCL5</text>
+<text transform="translate(571,922)" font-size="60" style="fill:#D9534F">IL6</text>
+<text transform="translate(372,507)" font-size="60" style="fill:#A7ADBA">SAMD9L</text>
+<text transform="translate(133,401) rotate(-90)" font-size="60" style="fill:#65737E">MX2</text>
+<text transform="translate(598,870)" font-size="59" style="fill:#65737E">TNFAIP3</text>
+<text transform="translate(844,670)" font-size="59" style="fill:#A7ADBA">IFI44L</text>
+<text transform="translate(248,506) rotate(-90)" font-size="59" style="fill:#A7ADBA">ATF3</text>
+<text transform="translate(295,410)" font-size="59" style="fill:#A7ADBA">OAS2</text>
+<text transform="translate(46,75)" font-size="55" style="fill:#65737E">CH25H</text>
+<text transform="translate(80,766)" font-size="55" style="fill:#D9534F">TNF</text>
+<text transform="translate(851,869)" font-size="51" style="fill:#65737E">AC000120.3</text>
+<text transform="translate(113,856)" font-size="51" style="fill:#A7ADBA">GBP5</text>
+<text transform="translate(517,961)" font-size="48" style="fill:#D9534F">LAMP3</text>
+<text transform="translate(599,414)" font-size="48" style="fill:#65737E">FOSB</text>
+<text transform="translate(241,702)" font-size="46" style="fill:#65737E">AL591806.3</text>
+<text transform="translate(83,460)" font-size="46" style="fill:#D9534F">IL1A</text>
+<text transform="translate(743,1028)" font-size="46" style="fill:#D23833">MX1</text>
+<text transform="translate(772,379)" font-size="46" style="fill:#65737E">GBP1</text>
+<text transform="translate(35,245)" font-size="30" style="fill:#A7ADBA">AC008581.2</text>
+<text transform="translate(101,641)" font-size="30" style="fill:#65737E">ETV7</text>
+<text transform="translate(490,850)" font-size="30" style="fill:#A7ADBA">HERC5</text>
+<text transform="translate(1090,464) rotate(-90)" font-size="30" style="fill:#65737E">CXCL8</text>
+<text transform="translate(960,109)" font-size="30" style="fill:#D9534F">CCL20</text>
+<text transform="translate(610,268)" font-size="30" style="fill:#65737E">BATF2</text>
+<text transform="translate(826,527)" font-size="26" style="fill:#A7ADBA">POC1B-GALNT4</text>
+<text transform="translate(1033,260)" font-size="26" style="fill:#D23833">IDO1</text>
+<text transform="translate(616,377)" font-size="26" style="fill:#D9534F">ISG15</text>
+<text transform="translate(148,322)" font-size="26" style="fill:#A7ADBA">AL136295.1</text>
+<text transform="translate(840,116)" font-size="26" style="fill:#65737E">USP18</text>
+<text transform="translate(1057,611)" font-size="26" style="fill:#D9534F">CXCL2</text>
+<text transform="translate(263,501)" font-size="26" style="fill:#A7ADBA">SAMD9</text>
+<text transform="translate(159,548)" font-size="26" style="fill:#A7ADBA">IFITM1</text>
+<text transform="translate(318,430)" font-size="26" style="fill:#A7ADBA">TRIM22</text>
+<text transform="translate(1090,542)" font-size="26" style="fill:#D9534F">CD274</text>
+<text transform="translate(504,68)" font-size="26" style="fill:#65737E">INHBA</text>
+<text transform="translate(424,177)" font-size="26" style="fill:#A7ADBA">AC019257.8</text>
+<text transform="translate(49,702) rotate(-90)" font-size="26" style="fill:#A7ADBA">RAB4B-EGLN2</text>
+<text transform="translate(600,212)" font-size="26" style="fill:#A7ADBA">IFI27</text>
+<text transform="translate(717,153)" font-size="26" style="fill:#65737E">UTP14C</text>
+<text transform="translate(622,769) rotate(-90)" font-size="26" style="fill:#A7ADBA">EGR2</text>
+<text transform="translate(486,534)" font-size="26" style="fill:#65737E">BST2</text>
+<text transform="translate(615,233)" font-size="26" style="fill:#D9534F">IFIH1</text>
+<text transform="translate(49,482) rotate(-90)" font-size="26" style="fill:#65737E">BLOC1S5-TXNDC5</text>
+<text transform="translate(802,408)" font-size="26" style="fill:#A7ADBA">EPSTI1</text>
+<text transform="translate(1084,512)" font-size="26" style="fill:#65737E">IFI44</text>
+<text transform="translate(619,439)" font-size="26" style="fill:#A7ADBA">SLC15A3</text>
+<text transform="translate(891,789)" font-size="26" style="fill:#65737E">TNFRSF9</text>
+<text transform="translate(1082,154)" font-size="26" style="fill:#D9534F">IRF7</text>
+<text transform="translate(505,692) rotate(-90)" font-size="26" style="fill:#D23833">CCL2</text>
+<text transform="translate(940,444) rotate(-90)" font-size="26" style="fill:#65737E">AC002996.1</text>
+<text transform="translate(507,44)" font-size="26" style="fill:#A7ADBA">NLRC5</text>
+<text transform="translate(1096,95)" font-size="26" style="fill:#A7ADBA">PTX3</text>
+<text transform="translate(685,171) rotate(-90)" font-size="26" style="fill:#A7ADBA">HELZ2</text>
+<text transform="translate(592,289)" font-size="26" style="fill:#65737E">ARRDC3</text>
+<text transform="translate(320,1017)" font-size="26" style="fill:#65737E">CXCL3</text>
+<text transform="translate(606,670) rotate(-90)" font-size="26" style="fill:#A7ADBA">AC126283.2</text>
+<text transform="translate(383,789)" font-size="20" style="fill:#65737E">TMEM189-UBE2V1</text>
+<text transform="translate(875,744)" font-size="20" style="fill:#65737E">AC011511.4</text>
+<text transform="translate(103,589)" font-size="20" style="fill:#A7ADBA">TRANK1</text>
+<text transform="translate(552,436) rotate(-90)" font-size="20" style="fill:#65737E">AC010422.6</text>
+<text transform="translate(66,815)" font-size="20" style="fill:#65737E">AL022238.4</text>
+<text transform="translate(780,322)" font-size="20" style="fill:#A7ADBA">TMEM140</text>
+<text transform="translate(420,113)" font-size="20" style="fill:#65737E">DHX58</text>
+<text transform="translate(1010,238)" font-size="20" style="fill:#65737E">AC116366.3</text>
+<text transform="translate(980,499)" font-size="20" style="fill:#65737E">ZBP1</text>
+<text transform="translate(437,136)" font-size="20" style="fill:#A7ADBA">AL136295.4</text>
+<text transform="translate(1041,649) rotate(-90)" font-size="20" style="fill:#A7ADBA">COMMD3-BMI1</text>
+<text transform="translate(1072,634)" font-size="20" style="fill:#D9534F">ICAM1</text>
+<text transform="translate(1061,775)" font-size="20" style="fill:#D23833">NFKBIA</text>
+<text transform="translate(946,126)" font-size="20" style="fill:#65737E">PPP1R15A</text>
+<text transform="translate(494,868)" font-size="20" style="fill:#65737E">AC242842.3</text>
+<text transform="translate(776,793)" font-size="20" style="fill:#D23833">CXCL1</text>
+<text transform="translate(276,106)" font-size="20" style="fill:#A7ADBA">TRAF1</text>
+<text transform="translate(205,636)" font-size="20" style="fill:#D9534F">FOS</text>
+<text transform="translate(167,202)" font-size="20" style="fill:#D9534F">DDX58</text>
+<text transform="translate(604,353)" font-size="20" style="fill:#A7ADBA">HSPA6</text>
+<text transform="translate(136,568)" font-size="20" style="fill:#65737E">AC005943.1</text>
+<text transform="translate(309,351)" font-size="20" style="fill:#A7ADBA">PARP10</text>
+<text transform="translate(420,154)" font-size="20" style="fill:#A7ADBA">AC004551.1</text>
+<text transform="translate(726,990)" font-size="20" style="fill:#A7ADBA">AP002748.4</text>
+<text transform="translate(1080,566)" font-size="20" style="fill:#65737E">APOL6</text>
+<text transform="translate(835,655) rotate(-90)" font-size="20" style="fill:#A7ADBA">HSPE1-MOB4</text>
+<text transform="translate(86,501)" font-size="20" style="fill:#65737E">DDX60</text>
+<text transform="translate(731,568)" font-size="20" style="fill:#A7ADBA">SAA2</text>
+<text transform="translate(1162,253) rotate(-90)" font-size="20" style="fill:#65737E">AC004922.1</text>
+<text transform="translate(350,652)" font-size="20" style="fill:#65737E">RASGRP3</text>
+<text transform="translate(955,153)" font-size="20" style="fill:#A7ADBA">CDRT4</text>
+<text transform="translate(147,672)" font-size="20" style="fill:#A7ADBA">USP41</text>
+<text transform="translate(846,150)" font-size="20" style="fill:#65737E">CHAC1</text>
+<text transform="translate(166,653)" font-size="20" style="fill:#A7ADBA">DDX60L</text>
+<text transform="translate(676,792)" font-size="20" style="fill:#65737E">NR4A3</text>
+<text transform="translate(809,123) rotate(-90)" font-size="20" style="fill:#65737E">IGF2</text>
+<text transform="translate(437,1021)" font-size="20" style="fill:#65737E">OAS3</text>
+<text transform="translate(146,377)" font-size="20" style="fill:#65737E">IFI6</text>
+<text transform="translate(661,150) rotate(-90)" font-size="20" style="fill:#A7ADBA">AC073896.1</text>
+<text transform="translate(485,807)" font-size="20" style="fill:#A7ADBA">BBC3</text>
+<text transform="translate(61,835)" font-size="20" style="fill:#D9534F">IRF1</text>
+<text transform="translate(859,88)" font-size="20" style="fill:#65737E">ISG20</text>
+<text transform="translate(614,168) rotate(-90)" font-size="20" style="fill:#65737E">AC015813.2</text>
+<text transform="translate(1052,684)" font-size="20" style="fill:#A7ADBA">THEMIS2</text>
+<text transform="translate(977,300) rotate(-90)" font-size="20" style="fill:#A7ADBA">AC098582.1</text>
+<text transform="translate(1005,432) rotate(-90)" font-size="20" style="fill:#A7ADBA">AL035078.4</text>
+<text transform="translate(61,518)" font-size="20" style="fill:#A7ADBA">RTP4</text>
+<text transform="translate(1088,113)" font-size="20" style="fill:#A7ADBA">SCN3A</text>
+<text transform="translate(1061,364)" font-size="20" style="fill:#D9534F">CSF1</text>
+<text transform="translate(630,639) rotate(-90)" font-size="20" style="fill:#65737E">TNFSF13B</text>
+<text transform="translate(773,753)" font-size="20" style="fill:#A7ADBA">ZNF709</text>
+<text transform="translate(463,459)" font-size="20" style="fill:#65737E">IFI35</text>
+<text transform="translate(596,810) rotate(-90)" font-size="20" style="fill:#65737E">AL034430.1</text>
+<text transform="translate(880,761)" font-size="20" style="fill:#65737E">CYP1A1</text>
+<text transform="translate(735,169)" font-size="20" style="fill:#A7ADBA">SLC1A3</text>
+<text transform="translate(862,132)" font-size="20" style="fill:#65737E">BIRC3</text>
+<text transform="translate(317,625) rotate(-90)" font-size="20" style="fill:#65737E">AL132780.3</text>
+<text transform="translate(1077,129)" font-size="20" style="fill:#65737E">NUAK2</text>
+<text transform="translate(350,621)" font-size="20" style="fill:#65737E">IFI16</text>
+<text transform="translate(378,212) rotate(-90)" font-size="20" style="fill:#A7ADBA">AC131160.1</text>
+<text transform="translate(104,196) rotate(-90)" font-size="20" style="fill:#A7ADBA">AC008012.1</text>
+<text transform="translate(761,439)" font-size="20" style="fill:#65737E">ZEB2</text>
+<text transform="translate(300,659) rotate(-90)" font-size="20" style="fill:#65737E">SYS1-DBNDD2</text>
+<text transform="translate(1049,325)" font-size="20" style="fill:#A7ADBA">KLF4</text>
+<text transform="translate(49,835) rotate(-90)" font-size="20" style="fill:#A7ADBA">PPAN-P2RY11</text>
+<text transform="translate(83,872)" font-size="19" style="fill:#65737E">TVP23C-CDRT4</text>
+<text transform="translate(206,790)" font-size="19" style="fill:#65737E">AC034102.3</text>
+<text transform="translate(774,770)" font-size="19" style="fill:#A7ADBA">HSH2D</text>
+<text transform="translate(343,1034)" font-size="19" style="fill:#65737E">SEC16B</text>
+<text transform="translate(655,807)" font-size="19" style="fill:#65737E">PLA2G4C</text>
+<text transform="translate(765,343)" font-size="19" style="fill:#65737E">DNAH17</text>
+<text transform="translate(54,542)" font-size="19" style="fill:#D23833">TLR3</text>
+<text transform="translate(607,484)" font-size="19" style="fill:#A7ADBA">GMPR</text>
+<text transform="translate(214,342)" font-size="19" style="fill:#A7ADBA">DUSP1</text>
+<text transform="translate(315,363)" font-size="15" style="fill:#A7ADBA">C1QTNF3-AMACR</text>
+<text transform="translate(507,546)" font-size="15" style="fill:#A7ADBA">RSC1A1</text>
+<text transform="translate(1033,736) rotate(-90)" font-size="15" style="fill:#65737E">AL163636.2</text>
+<text transform="translate(735,587)" font-size="15" style="fill:#A7ADBA">APOL3</text>
+<text transform="translate(513,981)" font-size="15" style="fill:#A7ADBA">HERC6</text>
+<text transform="translate(817,282)" font-size="15" style="fill:#A7ADBA">JUN</text>
+<text transform="translate(226,121) rotate(-90)" font-size="15" style="fill:#65737E">CFB</text>
+<text transform="translate(353,561)" font-size="15" style="fill:#A7ADBA">ZFP91-CNTF</text>
+<text transform="translate(1060,827)" font-size="15" style="fill:#A7ADBA">AC006486.1</text>
+<text transform="translate(1015,206)" font-size="15" style="fill:#A7ADBA">Z83844.3</text>
+<text transform="translate(142,33)" font-size="15" style="fill:#65737E">DHRS2</text>
+<text transform="translate(663,717)" font-size="15" style="fill:#65737E">UBA7</text>
+<text transform="translate(885,204)" font-size="15" style="fill:#A7ADBA">PARP14</text>
+<text transform="translate(55,184) rotate(-90)" font-size="15" style="fill:#A7ADBA">AC138811.2</text>
+<text transform="translate(274,872)" font-size="15" style="fill:#65737E">AL139011.2</text>
+<text transform="translate(1072,794)" font-size="15" style="fill:#D23833">TNFSF10</text>
+<text transform="translate(221,741)" font-size="15" style="fill:#D23833">GDF15</text>
+<text transform="translate(249,473)" font-size="15" style="fill:#A7ADBA">TNFAIP2</text>
+<text transform="translate(453,1003)" font-size="15" style="fill:#A7ADBA">MT2A</text>
+<text transform="translate(855,168)" font-size="15" style="fill:#65737E">IFIT5</text>
+<text transform="translate(1019,414) rotate(-90)" font-size="15" style="fill:#D9534F">SAA1</text>
+<text transform="translate(91,617)" font-size="15" style="fill:#65737E">ZC3H12A</text>
+<text transform="translate(341,994)" font-size="15" style="fill:#65737E">CSRNP1</text>
+<text transform="translate(1044,475)" font-size="15" style="fill:#A7ADBA">AL121594.1</text>
+<text transform="translate(846,449)" font-size="15" style="fill:#A7ADBA">TAP1</text>
+<text transform="translate(779,1041)" font-size="15" style="fill:#65737E">SECTM1</text>
+<text transform="translate(356,633)" font-size="15" style="fill:#65737E">AC004832.3</text>
+<text transform="translate(1078,37)" font-size="15" style="fill:#65737E">RIPOR2</text>
+<text transform="translate(266,213)" font-size="15" style="fill:#A7ADBA">HLA-F</text>
+<text transform="translate(462,314)" font-size="15" style="fill:#65737E">DUOX1</text>
+<text transform="translate(780,420)" font-size="15" style="fill:#A7ADBA">AL035461.3</text>
+<text transform="translate(69,472)" font-size="15" style="fill:#A7ADBA">TGIF2-RAB5IF</text>
+<text transform="translate(395,871)" font-size="15" style="fill:#65737E">HIST1H2BG</text>
+<text transform="translate(1108,59)" font-size="15" style="fill:#D9534F">CXCL9</text>
+<text transform="translate(542,1074)" font-size="15" style="fill:#A7ADBA">INO80B-WBP1</text>
+<text transform="translate(341,174) rotate(-90)" font-size="15" style="fill:#65737E">ADM2</text>
+<text transform="translate(1010,276)" font-size="15" style="fill:#65737E">SOCS1</text>
+<text transform="translate(719,78)" font-size="15" style="fill:#A7ADBA">AC129492.1</text>
+<text transform="translate(622,1045) rotate(-90)" font-size="15" style="fill:#A7ADBA">SERPINB2</text>
+<text transform="translate(481,704)" font-size="15" style="fill:#A7ADBA">NEURL3</text>
+<text transform="translate(80,391) rotate(-90)" font-size="15" style="fill:#A7ADBA">AL441992.2</text>
+<text transform="translate(441,88)" font-size="15" style="fill:#D9534F">SERPINE1</text>
+<text transform="translate(145,185)" font-size="15" style="fill:#A7ADBA">APOBEC3G</text>
+<text transform="translate(262,199)" font-size="15" style="fill:#65737E">RND1</text>
+<text transform="translate(226,755)" font-size="15" style="fill:#65737E">PMAIP1</text>
+<text transform="translate(1062,646)" font-size="15" style="fill:#A7ADBA">AL358113.1</text>
+<text transform="translate(953,438) rotate(-90)" font-size="15" style="fill:#A7ADBA">LRRN3</text>
+<text transform="translate(292,122)" font-size="15" style="fill:#A7ADBA">NR1D1</text>
+<text transform="translate(117,180) rotate(-90)" font-size="15" style="fill:#A7ADBA">AC138696.1</text>
+<text transform="translate(246,54)" font-size="15" style="fill:#D23833">PTGS2</text>
+<text transform="translate(956,84)" font-size="15" style="fill:#65737E">TYMP</text>
+<text transform="translate(787,732)" font-size="15" style="fill:#A7ADBA">MAP3K8</text>
+<text transform="translate(1166,410) rotate(-90)" font-size="15" style="fill:#A7ADBA">RPL36A-HNRNPH2</text>
+<text transform="translate(718,124)" font-size="15" style="fill:#A7ADBA">JUNB</text>
+<text transform="translate(65,381) rotate(-90)" font-size="15" style="fill:#65737E">AC006064.6</text>
+<text transform="translate(733,770) rotate(-90)" font-size="15" style="fill:#65737E">AC135050.2</text>
+<text transform="translate(728,418) rotate(-90)" font-size="15" style="fill:#65737E">AC104472.3</text>
+<text transform="translate(211,589)" font-size="15" style="fill:#65737E">FAP</text>
+<text transform="translate(204,275)" font-size="15" style="fill:#65737E">PSMB9</text>
+<text transform="translate(732,280) rotate(-90)" font-size="15" style="fill:#65737E">AL157935.2</text>
+<text transform="translate(474,291) rotate(-90)" font-size="15" style="fill:#A7ADBA">NT5C3A</text>
+<text transform="translate(466,623)" font-size="15" style="fill:#65737E">SP110</text>
+<text transform="translate(350,544)" font-size="15" style="fill:#65737E">PLAUR</text>
+<text transform="translate(987,482)" font-size="15" style="fill:#A7ADBA">IL32</text>
+<text transform="translate(714,672)" font-size="15" style="fill:#D23833">CSF3</text>
+<text transform="translate(1065,440) rotate(-90)" font-size="15" style="fill:#65737E">CX3CL1</text>
+<text transform="translate(408,575)" font-size="15" style="fill:#A7ADBA">STC2</text>
+<text transform="translate(321,442)" font-size="15" style="fill:#A7ADBA">NFKBIZ</text>
+<text transform="translate(838,1014)" font-size="15" style="fill:#A7ADBA">ZFP36</text>
+<text transform="translate(722,63)" font-size="15" style="fill:#A7ADBA">LMO2</text>
+<text transform="translate(756,275) rotate(-90)" font-size="15" style="fill:#A7ADBA">AL049629.2</text>
+<text transform="translate(396,203) rotate(-90)" font-size="15" style="fill:#A7ADBA">AC093884.1</text>
+<text transform="translate(1046,342)" font-size="15" style="fill:#A7ADBA">TENT5A</text>
+<text transform="translate(282,649) rotate(-90)" font-size="15" style="fill:#65737E">NPHP3-ACAD11</text>
+<text transform="translate(863,269)" font-size="15" style="fill:#A7ADBA">RTL9</text>
+<text transform="translate(657,646)" font-size="15" style="fill:#65737E">MAFF</text>
+<text transform="translate(475,826)" font-size="15" style="fill:#65737E">UBE2L6</text>
+<text transform="translate(1107,448) rotate(-90)" font-size="15" style="fill:#A7ADBA">AC079594.2</text>
+<text transform="translate(748,776) rotate(-90)" font-size="15" style="fill:#A7ADBA">HIST2H2BF</text>
+<text transform="translate(773,806)" font-size="15" style="fill:#A7ADBA">CEACAM1</text>
+<text transform="translate(1023,218)" font-size="15" style="fill:#65737E">IL10RA</text>
+<text transform="translate(349,1046)" font-size="15" style="fill:#A7ADBA">PLEKHA4</text>
+<text transform="translate(134,391)" font-size="15" style="fill:#A7ADBA">DUSP8</text>
+<text transform="translate(246,183)" font-size="15" style="fill:#65737E">PPM1K</text>
+<text transform="translate(968,312)" font-size="15" style="fill:#A7ADBA">LIF</text>
+<text transform="translate(1041,819) rotate(-90)" font-size="15" style="fill:#A7ADBA">HIST1H2BE</text>
+<text transform="translate(517,566)" font-size="15" style="fill:#D23833">CASP1</text>
+<text transform="translate(202,354)" font-size="15" style="fill:#A7ADBA">C19orf66</text>
+<text transform="translate(459,604)" font-size="15" style="fill:#D23833">CD68</text>
+<text transform="translate(919,367) rotate(-90)" font-size="15" style="fill:#A7ADBA">AL662899.2</text>
+<text transform="translate(759,677) rotate(-90)" font-size="15" style="fill:#65737E">ST20-MTHFS</text>
+<text transform="translate(50,560)" font-size="15" style="fill:#D9534F">IL1B</text>
+<text transform="translate(989,284) rotate(-90)" font-size="15" style="fill:#A7ADBA">AC004997.1</text>
+<text transform="translate(318,480)" font-size="15" style="fill:#65737E">OTUD1</text>
+<text transform="translate(882,817)" font-size="15" style="fill:#65737E">PARP9</text>
+<text transform="translate(355,754)" font-size="15" style="fill:#A7ADBA">NKX3-1</text>
+<text transform="translate(64,678)" font-size="15" style="fill:#65737E">NCOA7</text>
+<text transform="translate(596,155) rotate(-90)" font-size="15" style="fill:#A7ADBA">AC008758.1</text>
+<text transform="translate(663,540)" font-size="15" style="fill:#A7ADBA">IL11</text>
+<text transform="translate(706,1042) rotate(-90)" font-size="15" style="fill:#65737E">NPTX1</text>
+<text transform="translate(261,447) rotate(-90)" font-size="15" style="fill:#65737E">AC068946.2</text>
+<text transform="translate(615,243)" font-size="13" style="fill:#A7ADBA">NEDD8-MDP1</text>
+<text transform="translate(725,519)" font-size="13" style="fill:#65737E">ANGPTL4</text>
+<text transform="translate(308,787)" font-size="13" style="fill:#A7ADBA">AL139300.1</text>
+<text transform="translate(425,735)" font-size="13" style="fill:#65737E">MAP6D1</text>
+<text transform="translate(135,683)" font-size="13" style="fill:#65737E">LGALS9</text>
+<text transform="translate(717,93)" font-size="13" style="fill:#65737E">PDZD2</text>
+<text transform="translate(910,28)" font-size="10" style="fill:#A7ADBA">SYNJ2BP-COX16</text>
+<text transform="translate(143,358) rotate(-90)" font-size="10" style="fill:#A7ADBA">RNASEK-C17orf49</text>
+<text transform="translate(760,403)" font-size="10" style="fill:#A7ADBA">NCALD</text>
+<text transform="translate(626,300)" font-size="10" style="fill:#65737E">SAMHD1</text>
+<text transform="translate(1102,170)" font-size="10" style="fill:#A7ADBA">SLFN5</text>
+<text transform="translate(85,692)" font-size="10" style="fill:#65737E">CREB5</text>
+<text transform="translate(1094,67)" font-size="10" style="fill:#65737E">AL031777.3</text>
+<text transform="translate(775,1050)" font-size="10" style="fill:#65737E">KLHDC7B</text>
+<text transform="translate(504,281) rotate(-90)" font-size="10" style="fill:#A7ADBA">COL11A2</text>
+<text transform="translate(539,922)" font-size="10" style="fill:#A7ADBA">MMP1</text>
+<text transform="translate(695,309)" font-size="10" style="fill:#65737E">SLC16A6</text>
+<text transform="translate(486,1068)" font-size="10" style="fill:#A7ADBA">AP000295.1</text>
+<text transform="translate(158,694)" font-size="10" style="fill:#A7ADBA">NOCT</text>
+<text transform="translate(263,166)" font-size="10" style="fill:#A7ADBA">IER3</text>
+<text transform="translate(665,205)" font-size="10" style="fill:#D23833">IFITM3</text>
+<text transform="translate(210,235)" font-size="10" style="fill:#A7ADBA">PPP4R4</text>
+<text transform="translate(490,738)" font-size="10" style="fill:#A7ADBA">TXNIP</text>
+<text transform="translate(79,33)" font-size="10" style="fill:#65737E">SLCO4C1</text>
+<text transform="translate(950,135)" font-size="10" style="fill:#65737E">HIST1H4H</text>
+<text transform="translate(990,161)" font-size="10" style="fill:#65737E">LTB</text>
+<text transform="translate(1034,67)" font-size="10" style="fill:#65737E">ACHE</text>
+<text transform="translate(435,202)" font-size="10" style="fill:#A7ADBA">UPK3BL1</text>
+<text transform="translate(204,293)" font-size="10" style="fill:#65737E">AL358472.7</text>
+<text transform="translate(536,911)" font-size="10" style="fill:#A7ADBA">MXD1</text>
+<text transform="translate(327,825)" font-size="10" style="fill:#A7ADBA">SOCS3</text>
+<text transform="translate(381,228)" font-size="10" style="fill:#A7ADBA">BMP2</text>
+<text transform="translate(341,251)" font-size="10" style="fill:#A7ADBA">ALDH1L2</text>
+<text transform="translate(894,214)" font-size="10" style="fill:#65737E">HIST1H3H</text>
+<text transform="translate(783,643) rotate(-90)" font-size="10" style="fill:#65737E">BHLHE41</text>
+<text transform="translate(1030,83)" font-size="10" style="fill:#65737E">FGFBP1</text>
+<text transform="translate(640,28)" font-size="10" style="fill:#A7ADBA">AC005520.1</text>
+<text transform="translate(1117,719)" font-size="10" style="fill:#D9534F">STAT2</text>
+<text transform="translate(209,171) rotate(-90)" font-size="10" style="fill:#A7ADBA">HIST3H2BB</text>
+<text transform="translate(883,801)" font-size="10" style="fill:#A7ADBA">APOL4</text>
+<text transform="translate(620,334)" font-size="10" style="fill:#A7ADBA">AC104452.1</text>
+<text transform="translate(598,59)" font-size="10" style="fill:#65737E">ID3</text>
+<text transform="translate(553,311)" font-size="10" style="fill:#65737E">ZNFX1</text>
+<text transform="translate(677,624)" font-size="10" style="fill:#A7ADBA">STEAP4</text>
+<text transform="translate(330,851)" font-size="10" style="fill:#A7ADBA">REL</text>
+<text transform="translate(530,188)" font-size="10" style="fill:#65737E">NR4A1</text>
+<text transform="translate(636,1040)" font-size="10" style="fill:#65737E">LUZP6</text>
+<text transform="translate(527,113)" font-size="10" style="fill:#65737E">G0S2</text>
+<text transform="translate(662,566)" font-size="10" style="fill:#65737E">DTX3L</text>
+<text transform="translate(516,683) rotate(-90)" font-size="10" style="fill:#65737E">AL358472.6</text>
+<text transform="translate(886,722)" font-size="10" style="fill:#D9534F">ZC3HAV1</text>
+<text transform="translate(461,53)" font-size="10" style="fill:#65737E">C1S</text>
+<text transform="translate(965,176)" font-size="10" style="fill:#65737E">RAB43</text>
+<text transform="translate(725,1039)" font-size="10" style="fill:#65737E">PARP12</text>
+<text transform="translate(963,715)" font-size="10" style="fill:#D23833">DDIT3</text>
+<text transform="translate(204,260)" font-size="10" style="fill:#A7ADBA">AC068580.4</text>
+<text transform="translate(1092,220)" font-size="10" style="fill:#65737E">IRAK2</text>
+<text transform="translate(562,612) rotate(-90)" font-size="10" style="fill:#A7ADBA">ODF3B</text>
+<text transform="translate(773,28)" font-size="10" style="fill:#65737E">AC068631.2</text>
+<text transform="translate(950,92) rotate(-90)" font-size="10" style="fill:#65737E">PDE4B</text>
+<text transform="translate(844,610)" font-size="10" style="fill:#D23833">STAT1</text>
+<text transform="translate(1107,730)" font-size="10" style="fill:#65737E">SEMA7A</text>
+<text transform="translate(525,408) rotate(-90)" font-size="10" style="fill:#65737E">CDC42EP2</text>
+<text transform="translate(1105,520)" font-size="10" style="fill:#A7ADBA">AL121900.2</text>
+<text transform="translate(859,428)" font-size="10" style="fill:#65737E">RELB</text>
+<text transform="translate(885,708)" font-size="10" style="fill:#A7ADBA">TNC</text>
+<text transform="translate(677,551)" font-size="10" style="fill:#A7ADBA">UBD</text>
+<text transform="translate(421,187)" font-size="10" style="fill:#A7ADBA">TNFSF9</text>
+<text transform="translate(519,895)" font-size="10" style="fill:#65737E">AC012184.2</text>
+<text transform="translate(146,122)" font-size="10" style="fill:#A7ADBA">AC124319.1</text>
+<text transform="translate(223,870)" font-size="10" style="fill:#A7ADBA">GEM</text>
+<text transform="translate(210,603)" font-size="10" style="fill:#65737E">LRP2</text>
+<text transform="translate(778,280)" font-size="10" style="fill:#D9534F">CSF2</text>
+<text transform="translate(512,77)" font-size="10" style="fill:#65737E">AD000671.1</text>
+<text transform="translate(179,471)" font-size="10" style="fill:#A7ADBA">SLC7A11</text>
+<text transform="translate(854,593)" font-size="10" style="fill:#65737E">GRIP2</text>
+<text transform="translate(51,845)" font-size="10" style="fill:#65737E">AC013489.1</text>
+<text transform="translate(423,423)" font-size="10" style="fill:#D9534F">TF</text>
+<text transform="translate(843,58)" font-size="10" style="fill:#65737E">BCL3</text>
+<text transform="translate(665,912) rotate(-90)" font-size="10" style="fill:#A7ADBA">IFITM2</text>
+<text transform="translate(320,334)" font-size="10" style="fill:#65737E">AC087289.4</text>
+<text transform="translate(386,979)" font-size="10" style="fill:#A7ADBA">BCL2L14</text>
+<text transform="translate(916,437) rotate(-90)" font-size="10" style="fill:#65737E">HSD17B14</text>
+<text transform="translate(627,507)" font-size="10" style="fill:#A7ADBA">APOL1</text>
+<text transform="translate(163,350)" font-size="10" style="fill:#A7ADBA">GBP3</text>
+<text transform="translate(445,1040)" font-size="10" style="fill:#A7ADBA">C15orf48</text>
+<text transform="translate(164,111)" font-size="10" style="fill:#65737E">DUSP5</text>
+<text transform="translate(524,1048) rotate(-90)" font-size="10" style="fill:#A7ADBA">C4B</text>
+<text transform="translate(847,94) rotate(-90)" font-size="10" style="fill:#A7ADBA">STX11</text>
+<text transform="translate(198,27)" font-size="10" style="fill:#65737E">TDRD7</text>
+<text transform="translate(1123,702)" font-size="10" style="fill:#65737E">HK2</text>
+<text transform="translate(354,737)" font-size="10" style="fill:#A7ADBA">AC117378.1</text>
+<text transform="translate(702,467)" font-size="10" style="fill:#D9534F">C3</text>
+<text transform="translate(783,259)" font-size="10" style="fill:#65737E">PML</text>
+<text transform="translate(210,683)" font-size="10" style="fill:#A7ADBA">KRT6A</text>
+<text transform="translate(72,662)" font-size="10" style="fill:#65737E">PHLDA2</text>
+<text transform="translate(377,439)" font-size="10" style="fill:#A7ADBA">CEACAM6</text>
+<text transform="translate(692,817)" font-size="10" style="fill:#A7ADBA">AC009133.6</text>
+<text transform="translate(782,220)" font-size="10" style="fill:#A7ADBA">AC005832.4</text>
+<text transform="translate(949,801)" font-size="10" style="fill:#65737E">CASTOR1</text>
+<text transform="translate(147,139)" font-size="10" style="fill:#65737E">CD83</text>
+<text transform="translate(204,703)" font-size="10" style="fill:#D9534F">ASPM</text>
+<text transform="translate(1013,829)" font-size="10" style="fill:#D9534F">APOE</text>
+<text transform="translate(349,575)" font-size="10" style="fill:#65737E">TENT5C</text>
+<text transform="translate(492,752)" font-size="10" style="fill:#D23833">IL4I1</text>
+<text transform="translate(996,28)" font-size="10" style="fill:#65737E">ANKRD33B</text>
+<text transform="translate(517,661)" font-size="10" style="fill:#A7ADBA">C4A</text>
+<text transform="translate(154,164)" font-size="10" style="fill:#A7ADBA">KMO</text>
+<text transform="translate(659,610)" font-size="10" style="fill:#A7ADBA">BTN3A1</text>
+<text transform="translate(382,63)" font-size="10" style="fill:#65737E">HMMR</text>
+<text transform="translate(306,270)" font-size="10" style="fill:#D23833">SELE</text>
+<text transform="translate(655,728)" font-size="10" style="fill:#A7ADBA">IRF9</text>
+<text transform="translate(776,705)" font-size="10" style="fill:#D23833">CD38</text>
+<text transform="translate(466,323)" font-size="10" style="fill:#A7ADBA">RASGEF1B</text>
+<text transform="translate(537,1017) rotate(-90)" font-size="10" style="fill:#A7ADBA">TRIM14</text>
+<text transform="translate(882,61)" font-size="10" style="fill:#65737E">HDAC9</text>
+<text transform="translate(957,164)" font-size="10" style="fill:#A7ADBA">TREX1</text>
+<text transform="translate(295,86)" font-size="10" style="fill:#65737E">MYL9</text>
+<text transform="translate(866,279)" font-size="10" style="fill:#65737E">FOSL1</text>
+<text transform="translate(590,969)" font-size="10" style="fill:#A7ADBA">TRIM21</text>
+<text transform="translate(742,291) rotate(-90)" font-size="10" style="fill:#A7ADBA">ARMCX5-GPRASP2</text>
+<text transform="translate(555,1048)" font-size="10" style="fill:#D23833">ITGAM</text>
+<text transform="translate(207,811)" font-size="10" style="fill:#A7ADBA">TRIM69</text>
+<text transform="translate(1012,284)" font-size="10" style="fill:#65737E">NUPR1</text>
+<text transform="translate(879,288)" font-size="10" style="fill:#65737E">TCIM</text>
+<text transform="translate(423,751)" font-size="10" style="fill:#65737E">AC027644.4</text>
+<text transform="translate(847,239) rotate(-90)" font-size="10" style="fill:#65737E">GBP2</text>
+<text transform="translate(522,881)" font-size="10" style="fill:#A7ADBA">NDRG1</text>
+<text transform="translate(652,492)" font-size="10" style="fill:#D9534F">IL7R</text>
+<text transform="translate(812,816)" font-size="10" style="fill:#A7ADBA">MT1G</text>
+<text transform="translate(682,1069)" font-size="10" style="fill:#A7ADBA">AC022384.1</text>
+<text transform="translate(369,663)" font-size="10" style="fill:#65737E">AL136295.5</text>
+<text transform="translate(144,290)" font-size="10" style="fill:#65737E">SERPINA3</text>
+<text transform="translate(826,28)" font-size="10" style="fill:#65737E">BORCS8-MEF2B</text>
+<text transform="translate(817,704)" font-size="10" style="fill:#65737E">HBEGF</text>
+<text transform="translate(460,440)" font-size="10" style="fill:#A7ADBA">IL22RA1</text>
+<text transform="translate(558,322)" font-size="10" style="fill:#65737E">RASD1</text>
+<text transform="translate(174,219)" font-size="10" style="fill:#A7ADBA">CEMIP</text>
+<text transform="translate(717,28)" font-size="10" style="fill:#A7ADBA">AC118553.2</text>
+<text transform="translate(41,202) rotate(-90)" font-size="10" style="fill:#65737E">ATP6V1G2-DDX39B</text>
+<text transform="translate(388,1055)" font-size="10" style="fill:#65737E">RNASE4</text>
+<text transform="translate(185,517)" font-size="10" style="fill:#A7ADBA">MEF2B</text>
+<text transform="translate(757,448)" font-size="10" style="fill:#65737E">CHKB-CPT1B</text>
+<text transform="translate(879,307)" font-size="10" style="fill:#D23833">ADM</text>
+<text transform="translate(947,57)" font-size="10" style="fill:#65737E">GPNMB</text>
+<text transform="translate(152,298)" font-size="10" style="fill:#65737E">MB21D2</text>
+<text transform="translate(135,400)" font-size="10" style="fill:#A7ADBA">AC008764.4</text>
+<text transform="translate(522,197)" font-size="10" style="fill:#A7ADBA">DNAJB4</text>
+<text transform="translate(1098,461)" font-size="10" style="fill:#65737E">AC022400.7</text>
+<text transform="translate(949,724)" font-size="10" style="fill:#65737E">DEPP1</text>
+<text transform="translate(319,812)" font-size="10" style="fill:#65737E">ESCO2</text>
+<text transform="translate(791,207)" font-size="10" style="fill:#A7ADBA">VNN1</text>
+<text transform="translate(755,178)" font-size="10" style="fill:#A7ADBA">WFDC5</text>
+<text transform="translate(668,701)" font-size="10" style="fill:#65737E">CCNE2</text>
+<text transform="translate(806,293)" font-size="10" style="fill:#65737E">TRIB3</text>
+<text transform="translate(1103,180)" font-size="10" style="fill:#65737E">SPOCD1</text>
+<text transform="translate(997,310)" font-size="10" style="fill:#A7ADBA">HAS2</text>
+<text transform="translate(653,775)" font-size="10" style="fill:#A7ADBA">HIST1H4E</text>
+<text transform="translate(524,674)" font-size="10" style="fill:#65737E">HIVEP2</text>
+<text transform="translate(249,459)" font-size="10" style="fill:#65737E">SLC16A9</text>
+<text transform="translate(625,816) rotate(-90)" font-size="10" style="fill:#A7ADBA">SH3TC1</text>
+<text transform="translate(652,1002)" font-size="10" style="fill:#65737E">HSPB8</text>
+<text transform="translate(406,605)" font-size="10" style="fill:#D9534F">TICAM1</text>
+<text transform="translate(453,984)" font-size="10" style="fill:#D23833">ACE2</text>
+<text transform="translate(838,1023)" font-size="10" style="fill:#A7ADBA">KIF20A</text>
+<text transform="translate(70,855)" font-size="10" style="fill:#A7ADBA">CFAP54</text>
+<text transform="translate(202,245)" font-size="10" style="fill:#65737E">AC139530.3</text>
+<text transform="translate(949,369) rotate(-90)" font-size="10" style="fill:#A7ADBA">AC068547.1</text>
+<text transform="translate(1067,730)" font-size="10" style="fill:#65737E">RRM2</text>
+<text transform="translate(987,429) rotate(-90)" font-size="10" style="fill:#65737E">CHURC1-FNTB</text>
+<text transform="translate(380,237)" font-size="10" style="fill:#A7ADBA">STC1</text>
+<text transform="translate(610,493)" font-size="10" style="fill:#A7ADBA">SIPA1L2</text>
+<text transform="translate(416,834)" font-size="10" style="fill:#D9534F">HLA-B</text>
+<text transform="translate(435,721)" font-size="10" style="fill:#A7ADBA">OXTR</text>
+<text transform="translate(598,530)" font-size="10" style="fill:#A7ADBA">CCN3</text>
+<text transform="translate(589,698)" font-size="10" style="fill:#A7ADBA">BDKRB2</text>
+<text transform="translate(676,924) rotate(-90)" font-size="10" style="fill:#65737E">PRDM1</text>
+<text transform="translate(298,137)" font-size="10" style="fill:#65737E">S100P</text>
+<text transform="translate(767,653)" font-size="10" style="fill:#65737E">PIM3</text>
+<text transform="translate(593,27)" font-size="10" style="fill:#65737E">AKAP12</text>
+<text transform="translate(177,526)" font-size="10" style="fill:#65737E">FAM129A</text>
+<text transform="translate(907,229)" font-size="10" style="fill:#65737E">ZNF442</text>
+<text transform="translate(549,598) rotate(-90)" font-size="10" style="fill:#65737E">REC8</text>
+<text transform="translate(647,985)" font-size="10" style="fill:#65737E">EGR3</text>
+<text transform="translate(84,204)" font-size="10" style="fill:#65737E">ITGA2</text>
+<text transform="translate(675,826)" font-size="10" style="fill:#65737E">HIST2H4A</text>
+<text transform="translate(347,604)" font-size="10" style="fill:#65737E">CCDC103</text>
+<text transform="translate(414,587)" font-size="10" style="fill:#A7ADBA">KLF6</text>
+<text transform="translate(1069,714)" font-size="10" style="fill:#A7ADBA">BCL6</text>
+<text transform="translate(933,461)" font-size="10" style="fill:#65737E">C1R</text>
+<text transform="translate(67,627)" font-size="10" style="fill:#65737E">BCAS1</text>
+<text transform="translate(1132,269)" font-size="10" style="fill:#65737E">BACH2</text>
+<text transform="translate(1120,837)" font-size="10" style="fill:#A7ADBA">TIPARP</text>
+<text transform="translate(269,87)" font-size="10" style="fill:#65737E">FAS</text>
+<text transform="translate(400,346)" font-size="10" style="fill:#A7ADBA">BHLHE40</text>
+<text transform="translate(1108,281)" font-size="10" style="fill:#A7ADBA">TM7SF2</text>
+<text transform="translate(773,389)" font-size="10" style="fill:#A7ADBA">SP100</text>
+<text transform="translate(645,1072)" font-size="10" style="fill:#A7ADBA">FILIP1L</text>
+<text transform="translate(86,177) rotate(-90)" font-size="10" style="fill:#A7ADBA">RPL17-C18orf32</text>
+<text transform="translate(1049,156)" font-size="10" style="fill:#65737E">CPEB3</text>
+<text transform="translate(986,440)" font-size="10" style="fill:#65737E">TRIM38</text>
+<text transform="translate(328,510)" font-size="10" style="fill:#65737E">CXCL5</text>
+<text transform="translate(203,612)" font-size="10" style="fill:#A7ADBA">DLGAP5</text>
+<text transform="translate(1036,458)" font-size="10" style="fill:#65737E">HES4</text>
+<text transform="translate(202,507)" font-size="10" style="fill:#65737E">SLC2A6</text>
+<text transform="translate(205,692)" font-size="10" style="fill:#A7ADBA">CREBRF</text>
+<text transform="translate(787,132) rotate(-90)" font-size="10" style="fill:#A7ADBA">AC092647.5</text>
+<text transform="translate(742,973)" font-size="10" style="fill:#A7ADBA">CENPE</text>
+<text transform="translate(306,279)" font-size="10" style="fill:#A7ADBA">AC087721.2</text>
+<text transform="translate(657,737)" font-size="10" style="fill:#A7ADBA">PTGER4</text>
+<text transform="translate(953,810)" font-size="10" style="fill:#65737E">FAM111B</text>
+<text transform="translate(459,273) rotate(-90)" font-size="10" style="fill:#A7ADBA">CYP1B1</text>
+<text transform="translate(839,621)" font-size="10" style="fill:#65737E">TOP2A</text>
+<text transform="translate(733,536)" font-size="10" style="fill:#A7ADBA">TTK</text>
+<text transform="translate(1016,577) rotate(-90)" font-size="10" style="fill:#A7ADBA">TNFSF15</text>
+<text transform="translate(431,228)" font-size="10" style="fill:#D23833">FLT3LG</text>
+<text transform="translate(707,453)" font-size="10" style="fill:#D23833">CFI</text>
+<text transform="translate(1025,192)" font-size="10" style="fill:#65737E">AC114490.2</text>
+<text transform="translate(1148,641) rotate(-90)" font-size="10" style="fill:#65737E">AC120057.2</text>
+<text transform="translate(512,289) rotate(-90)" font-size="10" style="fill:#A7ADBA">AP003419.1</text>
+<text transform="translate(577,221)" font-size="10" style="fill:#65737E">PCLAF</text>
+<text transform="translate(678,964)" font-size="10" style="fill:#65737E">AHNAK2</text>
+<text transform="translate(475,332)" font-size="10" style="fill:#A7ADBA">TAGLN</text>
+<text transform="translate(551,760) rotate(-90)" font-size="10" style="fill:#A7ADBA">AL358075.4</text>
+<text transform="translate(888,70)" font-size="10" style="fill:#A7ADBA">PCSK9</text>
+<text transform="translate(900,560)" font-size="10" style="fill:#65737E">GCNT4</text>
+<text transform="translate(719,768) rotate(-90)" font-size="10" style="fill:#A7ADBA">HIST1H2AG</text>
+<text transform="translate(789,270)" font-size="10" style="fill:#65737E">SOD2</text>
+<text transform="translate(995,647)" font-size="10" style="fill:#A7ADBA">ASNS</text>
+<text transform="translate(822,259)" font-size="10" style="fill:#65737E">FBN2</text>
+<text transform="translate(1002,577) rotate(-90)" font-size="10" style="fill:#A7ADBA">COL4A1</text>
+<text transform="translate(410,294)" font-size="10" style="fill:#A7ADBA">MMP7</text>
+<text transform="translate(558,877)" font-size="10" style="fill:#65737E">PLA2G4B</text>
+<text transform="translate(605,811) rotate(-90)" font-size="10" style="fill:#65737E">IL15RA</text>
+<text transform="translate(416,618)" font-size="10" style="fill:#65737E">LCN2</text>
+<text transform="translate(554,462)" font-size="10" style="fill:#65737E">DEPDC1</text>
+<text transform="translate(860,178)" font-size="10" style="fill:#65737E">ACKR4</text>
+<text transform="translate(1072,693)" font-size="10" style="fill:#65737E">RASGRP1</text>
+<text transform="translate(525,289) rotate(-90)" font-size="10" style="fill:#A7ADBA">AC006978.2</text>
+<text transform="translate(1081,547) rotate(-90)" font-size="10" style="fill:#65737E">HIST2H2BE</text>
+<text transform="translate(770,644) rotate(-90)" font-size="10" style="fill:#65737E">AL513165.2</text>
+<text transform="translate(357,104)" font-size="10" style="fill:#65737E">B3GNT7</text>
+<text transform="translate(1042,735) rotate(-90)" font-size="10" style="fill:#65737E">AC091959.3</text>
+<text transform="translate(471,835) rotate(-90)" font-size="10" style="fill:#65737E">ASDURF</text>
+<text transform="translate(690,81) rotate(-90)" font-size="10" style="fill:#A7ADBA">ALDOC</text>
+<text transform="translate(321,257) rotate(-90)" font-size="10" style="fill:#65737E">HIST1H2BF</text>
+<text transform="translate(913,825)" font-size="10" style="fill:#D23833">JAK2</text>
+<text transform="translate(355,870)" font-size="10" style="fill:#A7ADBA">CXorf49</text>
+<text transform="translate(147,360)" font-size="10" style="fill:#65737E">SULT1C2</text>
+<text transform="translate(62,758)" font-size="10" style="fill:#A7ADBA">N4BP3</text>
+<text transform="translate(800,302)" font-size="10" style="fill:#A7ADBA">TPPP3</text>
+<text transform="translate(713,377) rotate(-90)" font-size="10" style="fill:#A7ADBA">HIST1H2BN</text>
+<text transform="translate(359,725)" font-size="10" style="fill:#A7ADBA">NUF2</text>
+<text transform="translate(813,717)" font-size="10" style="fill:#A7ADBA">ANXA8</text>
+<text transform="translate(1135,140)" font-size="10" style="fill:#65737E">PNPT1</text>
+<text transform="translate(644,448)" font-size="10" style="fill:#A7ADBA">CENPA</text>
+<text transform="translate(534,425) rotate(-90)" font-size="10" style="fill:#A7ADBA">C21orf59-TCP10L</text>
+<text transform="translate(611,882)" font-size="10" style="fill:#A7ADBA">CFH</text>
+<text transform="translate(662,599)" font-size="10" style="fill:#65737E">DCHS1</text>
+<text transform="translate(542,446)" font-size="10" style="fill:#65737E">ZBTB20</text>
+<text transform="translate(415,541)" font-size="10" style="fill:#A7ADBA">THBS1</text>
+<text transform="translate(279,311)" font-size="10" style="fill:#65737E">STARD5</text>
+<text transform="translate(58,64)" font-size="10" style="fill:#A7ADBA">MAP2</text>
+<text transform="translate(218,457)" font-size="10" style="fill:#65737E">SHC2</text>
+<text transform="translate(253,65)" font-size="10" style="fill:#65737E">GIMAP2</text>
+<text transform="translate(146,99)" font-size="10" style="fill:#D23833">EIF2AK2</text>
+<text transform="translate(376,854) rotate(-90)" font-size="10" style="fill:#65737E">HIST2H3PS2</text>
+<text transform="translate(417,1033) rotate(-90)" font-size="10" style="fill:#A7ADBA">AC068831.7</text>
+<text transform="translate(1100,308)" font-size="10" style="fill:#65737E">EFNA1</text>
+<text transform="translate(839,999)" font-size="10" style="fill:#65737E">ERRFI1</text>
+<text transform="translate(726,1048)" font-size="10" style="fill:#A7ADBA">IGFBP3</text>
+<text transform="translate(623,1028)" font-size="10" style="fill:#D23833">PLXNA2</text>
+<text transform="translate(532,811)" font-size="10" style="fill:#65737E">NMI</text>
+<text transform="translate(599,191)" font-size="9" style="fill:#65737E">AC017083.3</text>
+<text transform="translate(86,700)" font-size="9" style="fill:#A7ADBA">DDIT4</text>
+<text transform="translate(204,301)" font-size="9" style="fill:#A7ADBA">TGM2</text>
+<text transform="translate(755,551)" font-size="9" style="fill:#65737E">SNAI1</text>
+<text transform="translate(1118,438)" font-size="9" style="fill:#A7ADBA">SNPH</text>
+<text transform="translate(387,285) rotate(-90)" font-size="9" style="fill:#A7ADBA">TNS4</text>
+<text transform="translate(338,291)" font-size="9" style="fill:#65737E">XRN1</text>
+<text transform="translate(359,762)" font-size="9" style="fill:#65737E">ANKRD1</text>
+<text transform="translate(1111,738)" font-size="9" style="fill:#A7ADBA">CEBPD</text>
+<text transform="translate(465,96)" font-size="9" style="fill:#A7ADBA">GADD45B</text>
+<text transform="translate(456,400) rotate(-90)" font-size="9" style="fill:#A7ADBA">MFSD2A</text>
+<text transform="translate(777,230)" font-size="9" style="fill:#A7ADBA">BMF</text>
+<text transform="translate(1021,362) rotate(-90)" font-size="9" style="fill:#D9534F">PLAU</text>
+<text transform="translate(658,632)" font-size="9" style="fill:#A7ADBA">IFITM10</text>
+<text transform="translate(478,344)" font-size="9" style="fill:#65737E">KIF14</text>
+<text transform="translate(942,551)" font-size="9" style="fill:#65737E">LDLR</text>
+<text transform="translate(251,167) rotate(-90)" font-size="9" style="fill:#A7ADBA">HIST1H2BJ</text>
+<text transform="translate(202,801)" font-size="9" style="fill:#65737E">AKR1C1</text>
+<text transform="translate(249,509)" font-size="9" style="fill:#65737E">ZNF625-ZNF20</text>
+<text transform="translate(1111,45)" font-size="9" style="fill:#65737E">PIK3AP1</text>
+<text transform="translate(776,816)" font-size="9" style="fill:#A7ADBA">NR4A2</text>
+<text transform="translate(836,581)" font-size="9" style="fill:#D23833">PLAT</text>
+<text transform="translate(606,1007) rotate(-90)" font-size="9" style="fill:#65737E">ACTN2</text>
+<text transform="translate(677,225)" font-size="9" style="fill:#65737E">IQCN</text>
+<text transform="translate(794,826)" font-size="9" style="fill:#A7ADBA">SLC6A9</text>
+<text transform="translate(1000,135)" font-size="9" style="fill:#65737E">NCAPG</text>
+<text transform="translate(1027,308)" font-size="9" style="fill:#A7ADBA">B4GALNT2</text>
+<text transform="translate(556,1037)" font-size="9" style="fill:#A7ADBA">FCGBP</text>
+<text transform="translate(1167,777) rotate(-90)" font-size="9" style="fill:#65737E">BCL2L2-PABPN1</text>
+<text transform="translate(859,564)" font-size="9" style="fill:#65737E">MST1</text>
+<text transform="translate(441,1029)" font-size="9" style="fill:#A7ADBA">HIST2H2AA4</text>
+<text transform="translate(1003,633)" font-size="9" style="fill:#D23833">FN1</text>
+<text transform="translate(67,746)" font-size="9" style="fill:#65737E">EREG</text>
+<text transform="translate(1167,673) rotate(-90)" font-size="9" style="fill:#65737E">ARPC4-TTLL3</text>
+<text transform="translate(557,258)" font-size="9" style="fill:#65737E">PDGFD</text>
+<text transform="translate(596,392) rotate(-90)" font-size="9" style="fill:#65737E">CEP55</text>
+<text transform="translate(98,347)" font-size="9" style="fill:#65737E">MKI67</text>
+<text transform="translate(776,1059)" font-size="9" style="fill:#65737E">GINS2</text>
+<text transform="translate(850,387)" font-size="9" style="fill:#A7ADBA">PLAAT4</text>
+<text transform="translate(860,252)" font-size="9" style="fill:#A7ADBA">NFKB2</text>
+<text transform="translate(204,283)" font-size="9" style="fill:#A7ADBA">AC019117.3</text>
+<text transform="translate(899,854)" font-size="9" style="fill:#65737E">SSTR2</text>
+<text transform="translate(1056,268)" font-size="9" style="fill:#A7ADBA">AKR1C2</text>
+<text transform="translate(614,817) rotate(-90)" font-size="9" style="fill:#65737E">AC027796.3</text>
+<text transform="translate(463,588)" font-size="9" style="fill:#A7ADBA">IER2</text>
+<text transform="translate(852,552)" font-size="9" style="fill:#65737E">NDC80</text>
+<text transform="translate(1119,692)" font-size="9" style="fill:#A7ADBA">RTN4R</text>
+<text transform="translate(737,309)" font-size="9" style="fill:#A7ADBA">LSMEM1</text>
+<text transform="translate(433,710)" font-size="9" style="fill:#A7ADBA">TRIM31</text>
+<text transform="translate(420,121)" font-size="9" style="fill:#A7ADBA">GJB2</text>
+<text transform="translate(268,221)" font-size="9" style="fill:#65737E">PDZK1IP1</text>
+<text transform="translate(495,765)" font-size="9" style="fill:#A7ADBA">DHRS3</text>
+<text transform="translate(784,61)" font-size="9" style="fill:#65737E">BAAT</text>
+<text transform="translate(1060,738)" font-size="9" style="fill:#65737E">SYNPO2</text>
+<text transform="translate(386,310)" font-size="9" style="fill:#65737E">HSD17B2</text>
+<text transform="translate(838,1033)" font-size="9" style="fill:#A7ADBA">NFKBIE</text>
+<text transform="translate(468,426)" font-size="9" style="fill:#65737E">RARB</text>
+<text transform="translate(490,728)" font-size="9" style="fill:#A7ADBA">ANXA13</text>
+<text transform="translate(1167,570) rotate(-90)" font-size="9" style="fill:#65737E">FLNC</text>
+<text transform="translate(804,387)" font-size="9" style="fill:#65737E">ABCA1</text>
+<text transform="translate(160,616)" font-size="9" style="fill:#65737E">CPEB2</text>
+<text transform="translate(224,172) rotate(-90)" font-size="9" style="fill:#65737E">AC011462.1</text>
+<text transform="translate(332,763) rotate(-90)" font-size="9" style="fill:#A7ADBA">AP001267.5</text>
+<text transform="translate(61,497)" font-size="9" style="fill:#A7ADBA">BRIP1</text>
+<text transform="translate(791,642) rotate(-90)" font-size="9" style="fill:#65737E">PMF1-BGLAP</text>
+<text transform="translate(876,697)" font-size="9" style="fill:#A7ADBA">PTP4A3</text>
+<text transform="translate(1167,503) rotate(-90)" font-size="9" style="fill:#A7ADBA">AC002310.4</text>
+<text transform="translate(106,509)" font-size="9" style="fill:#65737E">TCP11L2</text>
+<text transform="translate(952,65)" font-size="9" style="fill:#A7ADBA">PCDH9</text>
+<text transform="translate(456,1050)" font-size="9" style="fill:#A7ADBA">FBXO6</text>
+<text transform="translate(1167,829) rotate(-90)" font-size="9" style="fill:#65737E">AC013394.1</text>
+<text transform="translate(252,155)" font-size="9" style="fill:#A7ADBA">EXO1</text>
+<text transform="translate(88,380) rotate(-90)" font-size="9" style="fill:#65737E">NME1-NME2</text>
+<text transform="translate(1095,210)" font-size="9" style="fill:#65737E">VIPR1</text>
+<text transform="translate(477,964)" font-size="9" style="fill:#A7ADBA">FAM43A</text>
+<text transform="translate(960,264) rotate(-90)" font-size="9" style="fill:#A7ADBA">TMEM229B</text>
+<text transform="translate(515,310)" font-size="9" style="fill:#65737E">KCNT2</text>
+<text transform="translate(425,759)" font-size="9" style="fill:#65737E">MAFB</text>
+<text transform="translate(957,355) rotate(-90)" font-size="9" style="fill:#65737E">MTRNR2L8</text>
+<text transform="translate(570,617) rotate(-90)" font-size="9" style="fill:#A7ADBA">AC008695.1</text>
+<text transform="translate(365,63) rotate(-90)" font-size="9" style="fill:#65737E">FASN</text>
+<text transform="translate(467,844)" font-size="9" style="fill:#A7ADBA">PLK3</text>
+<text transform="translate(1027,422) rotate(-90)" font-size="9" style="fill:#65737E">TEN1-CDK3</text>
+<text transform="translate(1118,846)" font-size="9" style="fill:#65737E">TTC39B</text>
+<text transform="translate(625,676)" font-size="9" style="fill:#65737E">BUB1</text>
+<text transform="translate(224,725)" font-size="9" style="fill:#65737E">MUC20</text>
+<text transform="translate(723,132)" font-size="9" style="fill:#A7ADBA">DEPDC1B</text>
+<text transform="translate(650,191)" font-size="9" style="fill:#D9534F">HMOX1</text>
+<text transform="translate(875,768)" font-size="8" style="fill:#65737E">ABHD14A-ACY1</text>
+<text transform="translate(261,846)" font-size="8" style="fill:#65737E">MVD</text>
+<text transform="translate(539,930)" font-size="8" style="fill:#65737E">CA12</text>
+<text transform="translate(656,654)" font-size="8" style="fill:#65737E">CAPS</text>
+<text transform="translate(145,171)" font-size="8" style="fill:#65737E">AP001273.2</text>
+<text transform="translate(892,190)" font-size="8" style="fill:#A7ADBA">MCM10</text>
+<text transform="translate(909,447)" font-size="8" style="fill:#65737E">SYTL5</text>
+<text transform="translate(172,635)" font-size="8" style="fill:#65737E">PRKD2</text>
+<text transform="translate(656,787)" font-size="8" style="fill:#A7ADBA">CBSL</text>
+<text transform="translate(68,525)" font-size="8" style="fill:#A7ADBA">AC093512.2</text>
+<text transform="translate(62,616)" font-size="8" style="fill:#D23833">IL23A</text>
+<text transform="translate(730,1018) rotate(-90)" font-size="8" style="fill:#A7ADBA">IER5L</text>
+<text transform="translate(1104,74)" font-size="8" style="fill:#D9534F">RRAD</text>
+<text transform="translate(661,815)" font-size="8" style="fill:#A7ADBA">NR2F1</text>
+<text transform="translate(536,799)" font-size="8" style="fill:#D9534F">EDN1</text>
+<text transform="translate(748,805) rotate(-90)" font-size="8" style="fill:#65737E">OGFR</text>
+<text transform="translate(717,49)" font-size="8" style="fill:#65737E">AL031708.1</text>
+<text transform="translate(889,162)" font-size="8" style="fill:#A7ADBA">SORBS2</text>
+<text transform="translate(374,259)" font-size="8" style="fill:#A7ADBA">WARS</text>
+<text transform="translate(458,646)" font-size="8" style="fill:#A7ADBA">ANK2</text>
+<text transform="translate(361,530)" font-size="8" style="fill:#65737E">CYLD</text>
+<text transform="translate(929,677)" font-size="8" style="fill:#65737E">SERPING1</text>
+<text transform="translate(787,675)" font-size="8" style="fill:#65737E">BAHCC1</text>
+<text transform="translate(748,488) rotate(-90)" font-size="8" style="fill:#A7ADBA">LRRN1</text>
+<text transform="translate(431,822)" font-size="8" style="fill:#A7ADBA">KLF2</text>
+<text transform="translate(341,449)" font-size="8" style="fill:#A7ADBA">KCNJ15</text>
+<text transform="translate(217,575)" font-size="8" style="fill:#A7ADBA">ZNF503</text>
+<text transform="translate(63,443)" font-size="8" style="fill:#65737E">NAV2</text>
+<text transform="translate(675,675)" font-size="8" style="fill:#65737E">BTN3A3</text>
+<text transform="translate(683,857) rotate(-90)" font-size="8" style="fill:#65737E">ITGB6</text>
+<text transform="translate(251,38)" font-size="8" style="fill:#A7ADBA">RAMP1</text>
+<text transform="translate(120,252)" font-size="8" style="fill:#65737E">ARHGAP11B</text>
+<text transform="translate(32,521)" font-size="8" style="fill:#65737E">IGFBP1</text>
+<text transform="translate(676,724)" font-size="8" style="fill:#65737E">HSPA1B</text>
+<text transform="translate(938,488)" font-size="8" style="fill:#A7ADBA">MLKL</text>
+<text transform="translate(39,510) rotate(-90)" font-size="8" style="fill:#65737E">CDCA2</text>
+<text transform="translate(306,391)" font-size="8" style="fill:#A7ADBA">SH2D5</text>
+<text transform="translate(656,618)" font-size="8" style="fill:#D9534F">PER2</text>
+<text transform="translate(238,762)" font-size="8" style="fill:#65737E">TNFRSF25</text>
+<text transform="translate(84,252)" font-size="8" style="fill:#65737E">ICOSLG</text>
+<text transform="translate(314,837)" font-size="8" style="fill:#A7ADBA">TRIM5</text>
+<text transform="translate(899,170)" font-size="8" style="fill:#A7ADBA">MAF</text>
+<text transform="translate(124,838)" font-size="8" style="fill:#65737E">MMP14</text>
+<text transform="translate(655,212)" font-size="8" style="fill:#A7ADBA">AC018630.2</text>
+<text transform="translate(261,807)" font-size="8" style="fill:#65737E">PSAT1</text>
+<text transform="translate(514,393) rotate(-90)" font-size="8" style="fill:#A7ADBA">SPHK1</text>
+<text transform="translate(670,765)" font-size="8" style="fill:#65737E">PNRC1</text>
+<text transform="translate(913,238)" font-size="8" style="fill:#65737E">ZNF608</text>
+<text transform="translate(388,70)" font-size="8" style="fill:#A7ADBA">SPC25</text>
+<text transform="translate(134,700)" font-size="8" style="fill:#65737E">PCK2</text>
+<text transform="translate(415,1063)" font-size="8" style="fill:#65737E">TAP2</text>
+<text transform="translate(44,252)" font-size="8" style="fill:#65737E">THSD8</text>
+<text transform="translate(638,1048)" font-size="8" style="fill:#A7ADBA">C12orf74</text>
+<text transform="translate(522,206)" font-size="8" style="fill:#65737E">ZNF107</text>
+<text transform="translate(507,689)" font-size="8" style="fill:#D23833">IL1R1</text>
+<text transform="translate(557,1059)" font-size="8" style="fill:#A7ADBA">CCBE1</text>
+<text transform="translate(404,332)" font-size="8" style="fill:#65737E">HJURP</text>
+<text transform="translate(1127,549)" font-size="8" style="fill:#65737E">APOL2</text>
+<text transform="translate(762,675)" font-size="8" style="fill:#65737E">PRR15</text>
+<text transform="translate(1041,680) rotate(-90)" font-size="8" style="fill:#D23833">MME</text>
+<text transform="translate(989,449)" font-size="8" style="fill:#65737E">S100A2</text>
+<text transform="translate(606,889)" font-size="8" style="fill:#65737E">MT1F</text>
+<text transform="translate(552,331)" font-size="8" style="fill:#A7ADBA">EGLN3</text>
+<text transform="translate(238,361)" font-size="8" style="fill:#A7ADBA">EPHA4</text>
+<text transform="translate(291,771)" font-size="8" style="fill:#D23833">DBP</text>
+<text transform="translate(629,772) rotate(-90)" font-size="8" style="fill:#65737E">PDGFB</text>
+<text transform="translate(967,766)" font-size="8" style="fill:#65737E">KRT17</text>
+<text transform="translate(838,435)" font-size="8" style="fill:#A7ADBA">HIST1H3G</text>
+<text transform="translate(663,744)" font-size="8" style="fill:#A7ADBA">MT1E</text>
+<text transform="translate(1090,245)" font-size="8" style="fill:#A7ADBA">SYNPO</text>
+<text transform="translate(1055,555)" font-size="8" style="fill:#65737E">PSMB8</text>
+<text transform="translate(657,554)" font-size="8" style="fill:#A7ADBA">BEX2</text>
+<text transform="translate(428,96)" font-size="8" style="fill:#65737E">COL16A1</text>
+<text transform="translate(731,550)" font-size="8" style="fill:#A7ADBA">ID1</text>
+<text transform="translate(1123,470)" font-size="8" style="fill:#D9534F">AGER</text>
+<text transform="translate(788,50)" font-size="8" style="fill:#A7ADBA">CDK1</text>
+<text transform="translate(459,636)" font-size="8" style="fill:#A7ADBA">PLCG2</text>
+<text transform="translate(1043,525)" font-size="8" style="fill:#65737E">BTBD19</text>
+<text transform="translate(605,898)" font-size="8" style="fill:#65737E">HRH1</text>
+<text transform="translate(55,53)" font-size="8" style="fill:#65737E">CCNA2</text>
+<text transform="translate(458,192)" font-size="8" style="fill:#A7ADBA">VASN</text>
+<text transform="translate(874,835)" font-size="8" style="fill:#A7ADBA">NEK2</text>
+<text transform="translate(861,418)" font-size="8" style="fill:#65737E">HDX</text>
+<text transform="translate(883,50)" font-size="8" style="fill:#A7ADBA">THSD1</text>
+<text transform="translate(1124,709)" font-size="8" style="fill:#A7ADBA">UAP1L1</text>
+<text transform="translate(876,95)" font-size="8" style="fill:#65737E">AC093668.2</text>
+<text transform="translate(607,649)" font-size="8" style="fill:#D23833">NT5E</text>
+<text transform="translate(634,877)" font-size="8" style="fill:#65737E">TMEM158</text>
+<text transform="translate(848,600)" font-size="8" style="fill:#65737E">APOBEC3F</text>
+<text transform="translate(991,677)" font-size="8" style="fill:#65737E">ZNF296</text>
+<text transform="translate(822,248)" font-size="8" style="fill:#65737E">CEBPB</text>
+<text transform="translate(1031,496) rotate(-90)" font-size="8" style="fill:#65737E">CDC25C</text>
+<text transform="translate(994,654)" font-size="8" style="fill:#65737E">AURKB</text>
+<text transform="translate(1130,257)" font-size="8" style="fill:#A7ADBA">HABP2</text>
+<text transform="translate(181,209)" font-size="8" style="fill:#A7ADBA">AC020915.5</text>
+<text transform="translate(999,37)" font-size="8" style="fill:#65737E">RGS2</text>
+<text transform="translate(1137,74)" font-size="8" style="fill:#A7ADBA">SPRY4</text>
+<text transform="translate(731,526)" font-size="8" style="fill:#65737E">PRUNE2</text>
+<text transform="translate(697,27)" font-size="8" style="fill:#65737E">SLPI</text>
+<text transform="translate(1148,784) rotate(-90)" font-size="8" style="fill:#65737E">PHF11</text>
+<text transform="translate(897,549)" font-size="8" style="fill:#65737E">NEDD9</text>
+<text transform="translate(678,85) rotate(-90)" font-size="8" style="fill:#A7ADBA">ADAMTS15</text>
+<text transform="translate(1166,450) rotate(-90)" font-size="8" style="fill:#A7ADBA">SEMA3D</text>
+<text transform="translate(309,27)" font-size="8" style="fill:#A7ADBA">ABCG1</text>
+<text transform="translate(203,225)" font-size="8" style="fill:#65737E">AC092143.1</text>
+<text transform="translate(214,435)" font-size="8" style="fill:#65737E">VTCN1</text>
+<text transform="translate(522,1026)" font-size="8" style="fill:#65737E">PIF1</text>
+<text transform="translate(776,713)" font-size="8" style="fill:#A7ADBA">LAP3</text>
+<text transform="translate(361,183) rotate(-90)" font-size="8" style="fill:#65737E">HIST1H2BH</text>
+<text transform="translate(1053,145)" font-size="8" style="fill:#65737E">RTKN2</text>
+<text transform="translate(405,594)" font-size="8" style="fill:#A7ADBA">ZC3H12C</text>
+<text transform="translate(990,506)" font-size="8" style="fill:#65737E">MYBL2</text>
+<text transform="translate(1116,370)" font-size="8" style="fill:#A7ADBA">GLCCI1</text>
+<text transform="translate(590,309)" font-size="8" style="fill:#65737E">HAPLN3</text>
+<text transform="translate(613,637) rotate(-90)" font-size="8" style="fill:#65737E">HIST2H3C</text>
+<text transform="translate(454,1069)" font-size="8" style="fill:#65737E">CDK18</text>
+<text transform="translate(768,383) rotate(-90)" font-size="8" style="fill:#A7ADBA">ZSWIM4</text>
+<text transform="translate(904,861)" font-size="8" style="fill:#A7ADBA">IKZF3</text>
+<text transform="translate(843,834)" font-size="8" style="fill:#65737E">PELI1</text>
+<text transform="translate(568,246)" font-size="8" style="fill:#A7ADBA">CBS</text>
+<text transform="translate(692,164) rotate(-90)" font-size="8" style="fill:#65737E">STIMATE-MUSTN1</text>
+<text transform="translate(356,218)" font-size="8" style="fill:#A7ADBA">STARD4</text>
+<text transform="translate(844,47)" font-size="8" style="fill:#A7ADBA">PBK</text>
+<text transform="translate(66,634)" font-size="8" style="fill:#65737E">HIST4H4</text>
+<text transform="translate(423,843)" font-size="8" style="fill:#65737E">MAOA</text>
+<text transform="translate(945,653) rotate(-90)" font-size="8" style="fill:#A7ADBA">AC008770.4</text>
+<text transform="translate(406,284)" font-size="8" style="fill:#65737E">EMP1</text>
+<text transform="translate(791,577) rotate(-90)" font-size="8" style="fill:#A7ADBA">HIST1H3E</text>
+<text transform="translate(848,776) rotate(-90)" font-size="8" style="fill:#A7ADBA">GATM</text>
+<text transform="translate(934,710) rotate(-90)" font-size="8" style="fill:#A7ADBA">ULBP1</text>
+<text transform="translate(495,711)" font-size="8" style="fill:#A7ADBA">BUB1B</text>
+<text transform="translate(529,941)" font-size="8" style="fill:#A7ADBA">TPGS1</text>
+<text transform="translate(938,496)" font-size="8" style="fill:#A7ADBA">FBXO2</text>
+<text transform="translate(1024,601) rotate(-90)" font-size="8" style="fill:#65737E">PTGES3L-AARSD1</text>
+<text transform="translate(62,768)" font-size="8" style="fill:#A7ADBA">IL12A</text>
+<text transform="translate(152,280)" font-size="8" style="fill:#A7ADBA">MMP10</text>
+<text transform="translate(997,84)" font-size="8" style="fill:#A7ADBA">CDKN3</text>
+<text transform="translate(155,129)" font-size="8" style="fill:#65737E">MED12L</text>
+<text transform="translate(961,704)" font-size="8" style="fill:#A7ADBA">GATA3</text>
+<text transform="translate(517,649)" font-size="8" style="fill:#65737E">BIRC5</text>
+<text transform="translate(95,401)" font-size="8" style="fill:#A7ADBA">HSPA1A</text>
+<text transform="translate(236,484)" font-size="8" style="fill:#A7ADBA">SPC24</text>
+<text transform="translate(560,265)" font-size="8" style="fill:#A7ADBA">KLF10</text>
+<text transform="translate(779,363)" font-size="8" style="fill:#65737E">PROX1</text>
+<text transform="translate(745,655) rotate(-90)" font-size="8" style="fill:#A7ADBA">NDUFC2-KCTD14</text>
+<text transform="translate(816,268)" font-size="8" style="fill:#A7ADBA">THSD7A</text>
+<text transform="translate(981,615)" font-size="8" style="fill:#65737E">CCNB2</text>
+<text transform="translate(510,186)" font-size="8" style="fill:#65737E">ELF3</text>
+<text transform="translate(409,483) rotate(-90)" font-size="8" style="fill:#A7ADBA">AKR1B10</text>
+<text transform="translate(669,86) rotate(-90)" font-size="8" style="fill:#A7ADBA">FP565260.3</text>
+<text transform="translate(876,297)" font-size="8" style="fill:#A7ADBA">PIK3IP1</text>
+<text transform="translate(797,857)" font-size="8" style="fill:#65737E">ADRB2</text>
+<text transform="translate(842,656) rotate(-90)" font-size="8" style="fill:#65737E">KLHL24</text>
+<text transform="translate(69,652)" font-size="8" style="fill:#A7ADBA">RAET1L</text>
+<text transform="translate(88,321) rotate(-90)" font-size="8" style="fill:#65737E">NDUFA4L2</text>
+<text transform="translate(295,838) rotate(-90)" font-size="8" style="fill:#65737E">ZNF292</text>
+<text transform="translate(177,444)" font-size="8" style="fill:#A7ADBA">ZNF433</text>
+<text transform="translate(645,162)" font-size="8" style="fill:#65737E">KSR1</text>
+<text transform="translate(231,168) rotate(-90)" font-size="8" style="fill:#65737E">AC069288.1</text>
+<text transform="translate(522,481)" font-size="8" style="fill:#A7ADBA">OLR1</text>
+<text transform="translate(109,516)" font-size="8" style="fill:#65737E">SP140L</text>
+<text transform="translate(759,411)" font-size="8" style="fill:#D23833">CAV1</text>
+<text transform="translate(780,290)" font-size="8" style="fill:#A7ADBA">SESN2</text>
+<text transform="translate(685,359)" font-size="8" style="fill:#65737E">ASS1</text>
+<text transform="translate(63,452)" font-size="8" style="fill:#65737E">IKZF2</text>
+<text transform="translate(656,573)" font-size="8" style="fill:#A7ADBA">SPTBN5</text>
+<text transform="translate(942,559)" font-size="8" style="fill:#A7ADBA">ARAP2</text>
+<text transform="translate(869,186)" font-size="8" style="fill:#65737E">SGK1</text>
+<text transform="translate(720,859) rotate(-90)" font-size="8" style="fill:#65737E">DKK1</text>
+<text transform="translate(337,241)" font-size="8" style="fill:#65737E">CENPF</text>
+<text transform="translate(162,761) rotate(-90)" font-size="8" style="fill:#A7ADBA">RHEBL1</text>
+<text transform="translate(593,911) rotate(-90)" font-size="8" style="fill:#65737E">PAQR5</text>
+<text transform="translate(173,761)" font-size="8" style="fill:#65737E">HES1</text>
+<text transform="translate(610,864) rotate(-90)" font-size="8" style="fill:#65737E">SHCBP1</text>
+<text transform="translate(952,169) rotate(-90)" font-size="8" style="fill:#65737E">ARRDC4</text>
+<text transform="translate(559,436) rotate(-90)" font-size="8" style="fill:#65737E">AP000944.2</text>
+<text transform="translate(934,450)" font-size="8" style="fill:#65737E">ZNF441</text>
+<text transform="translate(1132,148)" font-size="8" style="fill:#A7ADBA">TIMP3</text>
+<text transform="translate(1162,127) rotate(-90)" font-size="8" style="fill:#A7ADBA">C2CD4A</text>
+<text transform="translate(1011,249)" font-size="8" style="fill:#A7ADBA">TFPI2</text>
+<text transform="translate(406,446)" font-size="8" style="fill:#A7ADBA">KNL1</text>
+<text transform="translate(250,866)" font-size="8" style="fill:#65737E">MXD4</text>
+<text transform="translate(217,425)" font-size="8" style="fill:#A7ADBA">NAT8L</text>
+<text transform="translate(542,120)" font-size="8" style="fill:#A7ADBA">PIGZ</text>
+<text transform="translate(1027,863) rotate(-90)" font-size="8" style="fill:#A7ADBA">PMEPA1</text>
+<text transform="translate(311,653) rotate(-90)" font-size="8" style="fill:#A7ADBA">POU2F2</text>
+<text transform="translate(1133,342)" font-size="8" style="fill:#65737E">SOX6</text>
+<text transform="translate(934,479)" font-size="8" style="fill:#A7ADBA">IGFBP4</text>
+<text transform="translate(61,397)" font-size="8" style="fill:#65737E">ARL5B</text>
+<text transform="translate(288,480)" font-size="8" style="fill:#65737E">ABCA5</text>
+<text transform="translate(1115,428)" font-size="8" style="fill:#A7ADBA">FZD4</text>
+<text transform="translate(245,851) rotate(-90)" font-size="8" style="fill:#65737E">CDKN2B</text>
+<text transform="translate(459,654)" font-size="8" style="fill:#A7ADBA">DAPP1</text>
+<text transform="translate(924,607) rotate(-90)" font-size="8" style="fill:#A7ADBA">ZBTB10</text>
+<text transform="translate(646,915) rotate(-90)" font-size="8" style="fill:#A7ADBA">C5</text>
+<text transform="translate(1120,855)" font-size="8" style="fill:#A7ADBA">KIF15</text>
+<text transform="translate(885,369) rotate(-90)" font-size="8" style="fill:#65737E">SLC40A1</text>
+<text transform="translate(613,586) rotate(-90)" font-size="8" style="fill:#65737E">MTRNR2L12</text>
+<text transform="translate(387,246)" font-size="8" style="fill:#A7ADBA">BEST1</text>
+<text transform="translate(834,457)" font-size="8" style="fill:#65737E">CDC45</text>
+<text transform="translate(46,512) rotate(-90)" font-size="8" style="fill:#A7ADBA">ZNF627</text>
+<text transform="translate(782,865) rotate(-90)" font-size="8" style="fill:#65737E">FAM72C</text>
+<text transform="translate(1050,27)" font-size="8" style="fill:#65737E">UBE2C</text>
+<text transform="translate(1083,549)" font-size="8" style="fill:#65737E">PLSCR1</text>
+<text transform="translate(937,768)" font-size="8" style="fill:#A7ADBA">PTTG1</text>
+<text transform="translate(309,401)" font-size="8" style="fill:#65737E">LIFR</text>
+<text transform="translate(589,49)" font-size="8" style="fill:#A7ADBA">CCNB1</text>
+<text transform="translate(964,610) rotate(-90)" font-size="8" style="fill:#A7ADBA">CCDC78</text>
+<text transform="translate(596,212) rotate(-90)" font-size="8" style="fill:#65737E">PTPRZ1</text>
+<text transform="translate(100,748)" font-size="8" style="fill:#A7ADBA">HRK</text>
+<text transform="translate(548,1011) rotate(-90)" font-size="8" style="fill:#A7ADBA">KDM6B</text>
+<text transform="translate(1051,789)" font-size="8" style="fill:#D9534F">TLR2</text>
+<text transform="translate(856,96) rotate(-90)" font-size="8" style="fill:#65737E">RAD54B</text>
+<text transform="translate(737,1023) rotate(-90)" font-size="8" style="fill:#65737E">MCTS2P</text>
+<text transform="translate(203,362)" font-size="8" style="fill:#A7ADBA">ERAP2</text>
+<text transform="translate(532,280) rotate(-90)" font-size="8" style="fill:#65737E">FAM122C</text>
+<text transform="translate(1038,498) rotate(-90)" font-size="8" style="fill:#65737E">OSGIN1</text>
+<text transform="translate(526,1012) rotate(-90)" font-size="8" style="fill:#D9534F">BCL2A1</text>
+<text transform="translate(665,307)" font-size="8" style="fill:#A7ADBA">RCAN1</text>
+<text transform="translate(273,252)" font-size="8" style="fill:#A7ADBA">E2F8</text>
+<text transform="translate(272,243)" font-size="8" style="fill:#A7ADBA">REEP1</text>
+<text transform="translate(845,371)" font-size="8" style="fill:#65737E">MAOB</text>
+<text transform="translate(778,694)" font-size="8" style="fill:#65737E">CCR1</text>
+<text transform="translate(765,865) rotate(-90)" font-size="8" style="fill:#65737E">KDM7A</text>
+<text transform="translate(464,119)" font-size="6" style="fill:#A7ADBA">PPT2-EGFL8</text>
+<text transform="translate(191,33)" font-size="6" style="fill:#65737E">HIST2H2AA3</text>
+<text transform="translate(188,387) rotate(-90)" font-size="6" style="fill:#A7ADBA">PCDH1</text>
+<text transform="translate(523,901)" font-size="6" style="fill:#A7ADBA">FAM72B</text>
+<text transform="translate(646,170)" font-size="6" style="fill:#65737E">GIPR</text>
+<text transform="translate(157,772)" font-size="6" style="fill:#65737E">COL1A1</text>
+<text transform="translate(1054,565)" font-size="6" style="fill:#65737E">FNDC10</text>
+<text transform="translate(557,756) rotate(-90)" font-size="6" style="fill:#A7ADBA">SLC25A28</text>
+<text transform="translate(838,988)" font-size="6" style="fill:#65737E">VAV3</text>
+<text transform="translate(524,967)" font-size="6" style="fill:#A7ADBA">AL445423.2</text>
+<text transform="translate(778,973)" font-size="6" style="fill:#65737E">SDC1</text>
+<text transform="translate(502,552)" font-size="6" style="fill:#65737E">STX16-NPEPL1</text>
+<text transform="translate(196,845)" font-size="6" style="fill:#A7ADBA">TP53INP1</text>
+<text transform="translate(753,468)" font-size="6" style="fill:#D9534F">IL15</text>
+<text transform="translate(327,1024)" font-size="6" style="fill:#D23833">SPP1</text>
+<text transform="translate(110,443)" font-size="6" style="fill:#65737E">ERCC6L</text>
+<text transform="translate(604,904)" font-size="6" style="fill:#65737E">GNG11</text>
+<text transform="translate(1114,160)" font-size="6" style="fill:#65737E">RAD54L</text>
+<text transform="translate(397,723)" font-size="6" style="fill:#A7ADBA">SCD</text>
+<text transform="translate(458,767)" font-size="6" style="fill:#65737E">ABTB2</text>
+<text transform="translate(92,772)" font-size="6" style="fill:#A7ADBA">TRIM6-TRIM34</text>
+<text transform="translate(636,866) rotate(-90)" font-size="6" style="fill:#A7ADBA">RICTOR</text>
+<text transform="translate(1085,43)" font-size="6" style="fill:#A7ADBA">ORC1</text>
+<text transform="translate(1035,162)" font-size="6" style="fill:#A7ADBA">DUSP4</text>
+<text transform="translate(526,576)" font-size="6" style="fill:#D9534F">AGT</text>
+<text transform="translate(384,393) rotate(-90)" font-size="6" style="fill:#65737E">PLEKHG5</text>
+<text transform="translate(458,575)" font-size="6" style="fill:#A7ADBA">KIF4A</text>
+<text transform="translate(477,860)" font-size="6" style="fill:#A7ADBA">YOD1</text>
+<text transform="translate(791,129)" font-size="6" style="fill:#A7ADBA">IQGAP3</text>
+<text transform="translate(1042,73)" font-size="6" style="fill:#A7ADBA">CDKN1A</text>
+<text transform="translate(300,424)" font-size="6" style="fill:#65737E">PLCH1</text>
+<text transform="translate(414,429)" font-size="6" style="fill:#65737E">COL6A1</text>
+<text transform="translate(829,676)" font-size="6" style="fill:#65737E">SLC25A25</text>
+<text transform="translate(451,502) rotate(-90)" font-size="6" style="fill:#65737E">PPARGC1A</text>
+<text transform="translate(627,967)" font-size="6" style="fill:#A7ADBA">ECM1</text>
+<text transform="translate(208,817)" font-size="6" style="fill:#65737E">SLC16A3</text>
+<text transform="translate(90,375)" font-size="6" style="fill:#A7ADBA">ADAP1</text>
+<text transform="translate(1143,699)" font-size="6" style="fill:#65737E">DNAJB5</text>
+<text transform="translate(446,41)" font-size="6" style="fill:#A7ADBA">RAB26</text>
+<text transform="translate(455,741)" font-size="6" style="fill:#65737E">GSDMB</text>
+<text transform="translate(975,495) rotate(-90)" font-size="6" style="fill:#65737E">FAM214A</text>
+<text transform="translate(211,618)" font-size="6" style="fill:#A7ADBA">RAP1GAP</text>
+<text transform="translate(470,473)" font-size="6" style="fill:#A7ADBA">ZNF20</text>
+<text transform="translate(420,528)" font-size="6" style="fill:#65737E">IGFBP5</text>
+<text transform="translate(1102,617)" font-size="6" style="fill:#A7ADBA">HAGHL</text>
+<text transform="translate(232,63) rotate(-90)" font-size="6" style="fill:#A7ADBA">CITED2</text>
+<text transform="translate(415,387)" font-size="6" style="fill:#A7ADBA">BTG2</text>
+<text transform="translate(543,528)" font-size="6" style="fill:#A7ADBA">PARM1</text>
+<text transform="translate(430,812)" font-size="6" style="fill:#A7ADBA">IL18R1</text>
+<text transform="translate(145,196)" font-size="6" style="fill:#A7ADBA">ZG16B</text>
+<text transform="translate(1080,834)" font-size="6" style="fill:#A7ADBA">CRIP1</text>
+<text transform="translate(125,54)" font-size="6" style="fill:#A7ADBA">POLE2</text>
+<text transform="translate(338,372)" font-size="6" style="fill:#65737E">KIF18A</text>
+<text transform="translate(352,581)" font-size="6" style="fill:#65737E">TRAPPC6A</text>
+<text transform="translate(407,1017) rotate(-90)" font-size="6" style="fill:#65737E">GPAT3</text>
+<text transform="translate(961,817)" font-size="6" style="fill:#65737E">CLEC7A</text>
+<text transform="translate(988,740) rotate(-90)" font-size="6" style="fill:#A7ADBA">BCAT1</text>
+<text transform="translate(628,306)" font-size="6" style="fill:#A7ADBA">AC000093.1</text>
+<text transform="translate(393,809)" font-size="6" style="fill:#65737E">CD109</text>
+<text transform="translate(867,654) rotate(-90)" font-size="6" style="fill:#65737E">GLIPR1</text>
+<text transform="translate(922,307)" font-size="6" style="fill:#A7ADBA">SESN3</text>
+<text transform="translate(607,536)" font-size="6" style="fill:#65737E">FAM72D</text>
+<text transform="translate(430,766)" font-size="6" style="fill:#A7ADBA">DYSF</text>
+<text transform="translate(357,493)" font-size="6" style="fill:#A7ADBA">NUSAP1</text>
+<text transform="translate(1091,859) rotate(-90)" font-size="6" style="fill:#65737E">MYEOV</text>
+<text transform="translate(272,293)" font-size="6" style="fill:#65737E">CDCA3</text>
+<text transform="translate(627,858) rotate(-90)" font-size="6" style="fill:#65737E">FAM72A</text>
+<text transform="translate(1057,162)" font-size="6" style="fill:#A7ADBA">NYNRIN</text>
+<text transform="translate(692,1011) rotate(-90)" font-size="6" style="fill:#A7ADBA">GALNT5</text>
+<text transform="translate(590,170)" font-size="6" style="fill:#65737E">TPX2</text>
+<text transform="translate(814,776)" font-size="6" style="fill:#65737E">TRIM36</text>
+<text transform="translate(1124,407)" font-size="6" style="fill:#65737E">BAIAP3</text>
+<text transform="translate(154,208)" font-size="6" style="fill:#A7ADBA">PCGF5</text>
+<text transform="translate(527,513)" font-size="6" style="fill:#A7ADBA">ARL4C</text>
+<text transform="translate(267,740)" font-size="6" style="fill:#A7ADBA">LAMC2</text>
+<text transform="translate(1070,720)" font-size="6" style="fill:#A7ADBA">SLC44A5</text>
+<text transform="translate(592,675)" font-size="6" style="fill:#65737E">TMEM265</text>
+<text transform="translate(943,539)" font-size="6" style="fill:#A7ADBA">C11orf96</text>
+<text transform="translate(1019,290)" font-size="6" style="fill:#A7ADBA">ADAM8</text>
+<text transform="translate(839,426)" font-size="6" style="fill:#A7ADBA">NOD2</text>
+<text transform="translate(665,471)" font-size="6" style="fill:#A7ADBA">MOB3C</text>
+<text transform="translate(417,547)" font-size="6" style="fill:#65737E">KBTBD8</text>
+<text transform="translate(547,901)" font-size="6" style="fill:#65737E">B3GNT5</text>
+<text transform="translate(642,991)" font-size="6" style="fill:#65737E">AL138752.2</text>
+<text transform="translate(100,759)" font-size="6" style="fill:#65737E">AVIL</text>
+<text transform="translate(156,700)" font-size="6" style="fill:#65737E">PCSK1N</text>
+<text transform="translate(544,452)" font-size="6" style="fill:#65737E">ARHGDIB</text>
+<text transform="translate(900,495) rotate(-90)" font-size="6" style="fill:#65737E">SLAMF7</text>
+<text transform="translate(704,474)" font-size="6" style="fill:#65737E">NEIL3</text>
+<text transform="translate(1011,257)" font-size="6" style="fill:#65737E">CYP2J2</text>
+<text transform="translate(62,684)" font-size="6" style="fill:#A7ADBA">PLPP3</text>
+<text transform="translate(468,513)" font-size="6" style="fill:#65737E">SERPINB9</text>
+<text transform="translate(1101,333)" font-size="6" style="fill:#A7ADBA">NOTCH3</text>
+<text transform="translate(879,665)" font-size="6" style="fill:#A7ADBA">GATA4</text>
+<text transform="translate(609,656)" font-size="6" style="fill:#A7ADBA">KIF1A</text>
+<text transform="translate(150,63)" font-size="6" style="fill:#A7ADBA">CDKN2C</text>
+<text transform="translate(558,390) rotate(-90)" font-size="6" style="fill:#A7ADBA">PRR5-ARHGAP8</text>
+<text transform="translate(463,851)" font-size="6" style="fill:#65737E">PKMYT1</text>
+<text transform="translate(1056,381) rotate(-90)" font-size="6" style="fill:#65737E">AC067968.1</text>
+<text transform="translate(963,334) rotate(-90)" font-size="6" style="fill:#65737E">AC011604.2</text>
+<text transform="translate(379,110)" font-size="6" style="fill:#65737E">FADS2</text>
+<text transform="translate(208,671)" font-size="6" style="fill:#A7ADBA">ETS2</text>
+<text transform="translate(31,207)" font-size="6" style="fill:#65737E">CDC20</text>
+<text transform="translate(1099,252)" font-size="6" style="fill:#A7ADBA">FYB1</text>
+<text transform="translate(122,28)" font-size="6" style="fill:#A7ADBA">PIGY</text>
+<text transform="translate(167,806)" font-size="6" style="fill:#65737E">PDGFRL</text>
+<text transform="translate(1043,445)" font-size="6" style="fill:#65737E">TRERF1</text>
+<text transform="translate(201,67)" font-size="6" style="fill:#65737E">HELB</text>
+<text transform="translate(840,1039)" font-size="6" style="fill:#65737E">CLSPN</text>
+<text transform="translate(597,416) rotate(-90)" font-size="6" style="fill:#65737E">CYBRD1</text>
+<text transform="translate(1011,349) rotate(-90)" font-size="6" style="fill:#65737E">VASH1</text>
+<text transform="translate(710,580)" font-size="6" style="fill:#D23833">TRIM25</text>
+<text transform="translate(247,872)" font-size="6" style="fill:#65737E">CCNG2</text>
+<text transform="translate(918,246)" font-size="6" style="fill:#65737E">OPLAH</text>
+<text transform="translate(96,307)" font-size="6" style="fill:#65737E">METTL7A</text>
+<text transform="translate(995,602)" font-size="6" style="fill:#D23833">LPA</text>
+<text transform="translate(315,36)" font-size="6" style="fill:#65737E">SPINK5</text>
+<text transform="translate(532,817)" font-size="6" style="fill:#65737E">LPAR6</text>
+<text transform="translate(568,562) rotate(-90)" font-size="6" style="fill:#A7ADBA">C1QTNF1</text>
+<text transform="translate(507,1053)" font-size="6" style="fill:#A7ADBA">EPHB3</text>
+<text transform="translate(308,143)" font-size="6" style="fill:#65737E">CXXC4</text>
+<text transform="translate(443,478) rotate(-90)" font-size="6" style="fill:#D23833">VDR</text>
+<text transform="translate(153,339) rotate(-90)" font-size="6" style="fill:#A7ADBA">SAT1</text>
+<text transform="translate(131,690)" font-size="6" style="fill:#A7ADBA">SLC26A2</text>
+<text transform="translate(735,1066)" font-size="6" style="fill:#A7ADBA">CRIP2</text>
+<text transform="translate(934,726)" font-size="6" style="fill:#65737E">LOX</text>
+<text transform="translate(363,93)" font-size="6" style="fill:#A7ADBA">GASK1B</text>
+<text transform="translate(260,479)" font-size="6" style="fill:#65737E">A4GALT</text>
+<text transform="translate(78,183)" font-size="6" style="fill:#65737E">TK1</text>
+<text transform="translate(662,478)" font-size="6" style="fill:#A7ADBA">ANLN</text>
+<text transform="translate(169,815)" font-size="6" style="fill:#65737E">SPOCK2</text>
+<text transform="translate(648,675)" font-size="6" style="fill:#65737E">UNC13A</text>
+<text transform="translate(554,339)" font-size="6" style="fill:#65737E">IL20RB</text>
+<text transform="translate(598,365)" font-size="6" style="fill:#65737E">OPTN</text>
+<text transform="translate(757,419)" font-size="6" style="fill:#A7ADBA">CPXM1</text>
+<text transform="translate(278,317)" font-size="6" style="fill:#A7ADBA">UNC13D</text>
+<text transform="translate(144,431)" font-size="6" style="fill:#65737E">NAV3</text>
+<text transform="translate(1167,610) rotate(-90)" font-size="6" style="fill:#65737E">AC048338.1</text>
+<text transform="translate(186,454)" font-size="6" style="fill:#A7ADBA">GNAZ</text>
+<text transform="translate(1054,116) rotate(-90)" font-size="6" style="fill:#65737E">AC118754.1</text>
+<text transform="translate(843,841)" font-size="6" style="fill:#65737E">CDH6</text>
+<text transform="translate(1134,352)" font-size="6" style="fill:#A7ADBA">TBX3</text>
+<text transform="translate(298,693) rotate(-90)" font-size="6" style="fill:#A7ADBA">AC244197.3</text>
+<text transform="translate(996,44)" font-size="6" style="fill:#A7ADBA">OIP5</text>
+<text transform="translate(978,649) rotate(-90)" font-size="6" style="fill:#65737E">RIPK2</text>
+<text transform="translate(295,711)" font-size="6" style="fill:#A7ADBA">FGFR3</text>
+<text transform="translate(112,572)" font-size="6" style="fill:#65737E">PAOX</text>
+<text transform="translate(500,215) rotate(-90)" font-size="6" style="fill:#65737E">GTSE1</text>
+<text transform="translate(841,565) rotate(-90)" font-size="6" style="fill:#A7ADBA">RAD51AP1</text>
+<text transform="translate(452,60)" font-size="6" style="fill:#65737E">CKAP2L</text>
+<text transform="translate(184,679)" font-size="6" style="fill:#A7ADBA">FBXW10</text>
+<text transform="translate(730,450) rotate(-90)" font-size="6" style="fill:#D9534F">TMEM173</text>
+<text transform="translate(839,129)" font-size="6" style="fill:#65737E">ZNF267</text>
+<text transform="translate(554,272)" font-size="6" style="fill:#65737E">FSTL3</text>
+<text transform="translate(99,49)" font-size="6" style="fill:#65737E">CTH</text>
+<text transform="translate(660,718) rotate(-90)" font-size="6" style="fill:#65737E">TNFRSF1B</text>
+<text transform="translate(889,859) rotate(-90)" font-size="6" style="fill:#A7ADBA">E2F2</text>
+<text transform="translate(175,624)" font-size="6" style="fill:#A7ADBA">CHD2</text>
+<text transform="translate(587,500) rotate(-90)" font-size="6" style="fill:#A7ADBA">AC087632.1</text>
+<text transform="translate(530,947)" font-size="6" style="fill:#A7ADBA">PBXIP1</text>
+<text transform="translate(483,812)" font-size="5" style="fill:#D9534F">SERPINA1</text>
+<text transform="translate(864,233) rotate(-90)" font-size="5" style="fill:#A7ADBA">ZBTB46</text>
+<text transform="translate(660,499)" font-size="5" style="fill:#65737E">SKA1</text>
+<text transform="translate(1001,802) rotate(-90)" font-size="5" style="fill:#65737E">SGO2</text>
+<text transform="translate(102,337)" font-size="5" style="fill:#65737E">DUSP6</text>
+<text transform="translate(263,817)" font-size="5" style="fill:#65737E">SKA3</text>
+<text transform="translate(439,233)" font-size="5" style="fill:#65737E">CENPI</text>
+<text transform="translate(826,1046)" font-size="5" style="fill:#65737E">CACNG4</text>
+</svg>

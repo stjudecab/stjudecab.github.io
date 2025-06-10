@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CAB @ St. Jude - CovidExpress</title>
+    <meta name="description" content="CovidExpress, COVID-19, COVID, sars-cov-2, database, gene, expression, RNA-seq, OASL, FURIN, IL6, TNF, RIG-I, Immune, ACE2, Virus, TMPRSS2, CRP, IL1A, PPARGC...">
+    <link rel="stylesheet" href="https://stjudecab.github.io/css/main.css">
+    <link rel="canonical" href="https://stjudecab.github.io/covidexpress/">
+    <link rel="shortcut icon" type="image/x-icon" href="https://stjudecab.github.io/images/favicon.ico">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/academicons/css/academicons.css">
+
+    
+        
+    
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1H31G58P5J"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-1H31G58P5J');
+        </script>
+        
+    
+</head>
+
+
+
+
+  <body>
+
+    
+<div class="container">
+  <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+      <div>
+        <a class="navbar-brand" href="https://stjudecab.github.io/">CAB @ St. Jude</a>
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main_nav" aria-expanded="false">
+          <span class="glyphicon glyphicon-menu-hamburger"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="main_nav">
+          <ul class="nav navbar-nav navbar-right">
+            
+            
+              
+              
+
+              
+                <li class="dropdown ">
+                  
+                  
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownGroup" role="button" data-toggle="dropdown" title="Click to toggle dropmenu" aria-haspopup="true" aria-expanded="false">
+                    <p style="text-decoration:underline;text-decoration-color:;">
+                    Groups
+                    <span class="caret"></span>
+                    </p>
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownGroup">
+                    
+                      
+                        <li>
+                          <a class="dropdown-item" href="https://stjudecab.github.io/Transcriptomics/">Transcriptomics</a>
+                        </li>
+                      
+                    
+                      
+                        <li>
+                          <a class="dropdown-item" href="https://stjudecab.github.io/Epigenetics/">Epigenetics</a>
+                        </li>
+                      
+                    
+                      
+                        <li>
+                          <a class="dropdown-item" href="https://stjudecab.github.io/Genomics/">Genomics</a>
+                        </li>
+                      
+                    
+                      
+                        <li>
+                          <a class="dropdown-item" href="https://stjudecab.github.io/Genetics/">Genetics</a>
+                        </li>
+                      
+                    
+                      
+                        <li>
+                          <a class="dropdown-item" href="https://stjudecab.github.io/DevOps/">DevOps</a>
+                        </li>
+                      
+                    
+                      
+                        <li>
+                          <a class="dropdown-item" href="https://stjudecab.github.io/alumni/">Alumni</a>
+                        </li>
+                      
+                    
+                  </ul>
+                </li>
+              
+            
+              
+              
+
+              
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                    <li class="">
+                    <a href="https://stjudecab.github.io/team/">
+                      Team
+                    </a>
+                    </li>
+                  
+                
+              
+            
+              
+              
+
+              
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                    <li class="">
+                    <a href="https://stjudecab.github.io/research/">
+                      Research
+                    </a>
+                    </li>
+                  
+                
+              
+            
+              
+              
+
+              
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                    <li class="">
+                    <a href="https://stjudecab.github.io/publications/">
+                      Publications
+                    </a>
+                    </li>
+                  
+                
+              
+            
+              
+              
+
+              
+                
+                  <li class="">
+                    <a href="https://stjudecab.github.io/code/">
+                      Code
+                    </a>
+                  </li>
+                
+              
+            
+              
+              
+
+              
+                
+                  <li class="active">
+                    <a href="https://stjudecab.github.io/covidexpress/">
+                      CovidExpress
+                    </a>
+                  </li>
+                
+              
+            
+              
+              
+
+              
+                
+                  <li class="">
+                    <a href="https://stjudecab.github.io/contact/">
+                      Contact
+                    </a>
+                  </li>
+                
+              
+            
+            <li align="center" style="padding-top: 14px;padding-bottom: 14px;">
+              <form action="/search.html" method="get">
+                <input type="text" id="search-box" name="query" style="width: 80px; height: 20px;">
+                <input type="submit" value="search" style="font-size:12px; height: 20px;">
+              </form>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script id="rendered-js">
+const $dropdown = $(".dropdown");
+const $dropdownToggle = $(".dropdown-toggle");
+const $dropdownMenu = $(".dropdown-menu");
+const showClass = "show";
+
+$(window).on("load resize", function () {
+  if (this.matchMedia("(min-width: 768px)").matches) {
+    $dropdown.hover(
+    function () {
+      const $this = $(this);
+      $this.addClass(showClass);
+      $this.find($dropdownToggle).attr("aria-expanded", "true");
+      $this.find($dropdownMenu).addClass(showClass);
+    },
+    function () {
+      const $this = $(this);
+      $this.removeClass(showClass);
+      $this.find($dropdownToggle).attr("aria-expanded", "false");
+      $this.find($dropdownMenu).removeClass(showClass);
+    });
+
+  } else {
+    $dropdown.off("mouseenter mouseleave");
+  }
+});
+</script>
+
+
+    <!-- Scrolling Progress Bar -->
+    <progress id="progress" value="0">
+      <div class="progress-container">
+        <span class="progress-bar"></span>
+      </div>
+    </progress>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div id="textid" class="col-sm-12">
+  <h2 class="no_toc" id="covidexpress-server"><a href="http://146.190.197.5/" target="_blank">CovidExpress Server</a></h2>
+<!-- [CovidExpress Server](https://stjudecab_epi.gitlab.io/covidexpressdata/){:target="_blank"} -->
+<p>(Server would sleep if no access within 30mins, please wait and refresh)</p>
+
+<hr>
+<div class="row">
+  <div class="col-sm-8">
+<ul id="markdown-toc">
+  <li><a href="#overview" id="markdown-toc-overview"><strong>Overview</strong></a></li>
+  <li><a href="#portal-usage" id="markdown-toc-portal-usage"><strong>Portal Usage</strong></a></li>
+  <li><a href="#suggested-analysis-steps" id="markdown-toc-suggested-analysis-steps"><strong>Suggested Analysis Steps</strong></a></li>
+  <li><a href="#covidexpress-metadata-explorer" id="markdown-toc-covidexpress-metadata-explorer"><strong>CovidExpress Metadata Explorer</strong></a></li>
+  <li><a href="#covidexpress-expression-data-download" id="markdown-toc-covidexpress-expression-data-download"><strong>CovidExpress Expression Data Download</strong></a></li>
+  <li><a href="#clustering-results-for-reviewing-and-download" id="markdown-toc-clustering-results-for-reviewing-and-download"><strong>Clustering Results for reviewing and Download</strong></a></li>
+  <li>
+<a href="#faqs" id="markdown-toc-faqs"><strong>FAQs</strong></a>    <ul>
+      <li><a href="#where-can-i-find-more-details" id="markdown-toc-where-can-i-find-more-details"><strong>Where can I find more details</strong></a></li>
+      <li><a href="#will-the-database-been-updated" id="markdown-toc-will-the-database-been-updated"><strong>Will the database been updated?</strong></a></li>
+      <li><a href="#can-i-compare-samples-from-different-studies" id="markdown-toc-can-i-compare-samples-from-different-studies"><strong>Can I compare samples from different studies?</strong></a></li>
+      <li><a href="#how-can-i-plot-heatmap-compare-within-group" id="markdown-toc-how-can-i-plot-heatmap-compare-within-group"><strong>How can I plot heatmap compare within group</strong></a></li>
+      <li><a href="#how-can-i-custimize-my-own-groups-for-plots" id="markdown-toc-how-can-i-custimize-my-own-groups-for-plots"><strong>How can I custimize my own groups for plots?</strong></a></li>
+      <li><a href="#how-can-i-get-differential-expressed-genesdeg-results-and-volcano-plot" id="markdown-toc-how-can-i-get-differential-expressed-genesdeg-results-and-volcano-plot"><strong>How can I get differential expressed genes(DEG) results and Volcano plot?</strong></a></li>
+      <li><a href="#more" id="markdown-toc-more">More…</a></li>
+    </ul>
+  </li>
+</ul>
+
+  </div>
+
+  <div class="col-sm-3">
+    <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/1.js?i=54woy7d9mxl&s=200&m=7&v=true&r=false&b=ffffff&n=true&c=ff0000" async="async"></script>
+
+  </div>
+</div>
+
+<p><strong>What’s New</strong></p>
+<ul>
+  <li>2021-10-08 Put up <a href="https://www.youtube.com/playlist?list=PL6mTMza0yJjaqDJSoemg6qWhgUTjh9jua" target="_blank">Video Tutorials</a>
+</li>
+  <li>2021-10-06 Setup <a href="https://gitter.im/covidexpress/community" target="_blank">Gitter Channel</a> for bug report, new study suggestion, et.al</li>
+  <li>2021-08-04 Added protocol information to meta data. Add “Split by”, “Group by” function to heatmap</li>
+  <li>2021-07-07 Poster presented at CSHL conference “COVID/SARS CoV2 Rapid Research Reports #6”</li>
+  <li>2021-06-12 &gt; 300 Vistors</li>
+  <li>2021-05-26 Update biorxiv version for figures</li>
+  <li>2021-05-18 Added DEG volcano plot, improved memory usage</li>
+  <li>2021-05-16 biorxiv submission accepted</li>
+  <li>2021-05-12 Start running at digitalocean</li>
+  <li>2021-05-08 Deposit app to heroku and digitalocean</li>
+  <li>2021-05-02 Improved GSEA run time by numba, add GSEA volcano plot</li>
+  <li>2021-04-29 Finalized GSEA results, improved GSEA results storage usage</li>
+  <li>2021-04-25 GSEA module ready</li>
+  <li>2021-03-17 Visualization module Ready</li>
+  <li>2021-03-12 Extracted gene clouds</li>
+  <li>2021-03-10 Landing page framework finalized at github.io</li>
+  <li>2021-02-24 Test idea PCA/tSNE/UMAP using ssGSEA score</li>
+  <li>2021-02-12 Finalized QC criterion</li>
+  <li>2021-01-20 Expand data to ~1500 samples</li>
+  <li>2020-11-17 Started data download and processing ~700 samples</li>
+</ul>
+
+<hr>
+<h4 id="overview"><strong>Overview</strong></h4>
+<h4 class="no_toc" id="covidexpress-an-interactive-portal-for-intuitive-investigation-on-sars-cov-2-related-transcriptomes">CovidExpress: an interactive portal for intuitive investigation on SARS-CoV-2 related transcriptomes</h4>
+
+<h4 class="no_toc" id="abstract">Abstract</h4>
+<p><a href="https://stjudecab.github.io/images/codepic/covidexpress_wordcloud_DEG.svg"><img src="https://stjudecab.github.io/images/codepic/covidexpress_wordcloud_DEG.jpg" alt="" style="width: 250px; float: right;margin-left: 30px; margin-right: 30px; border: 10px"></a>
+<a href="https://stjudecab.github.io/images/codepic/covidexpress_wordcloud_pubtator.svg"><img src="https://stjudecab.github.io/images/codepic/covidexpress_wordcloud_pubtator.jpg" alt="" style="width: 250px; float: right;margin-left: 30px; margin-right: 30px; border: 10px"></a></p>
+<div style="text-align: justify">
+  <p>Infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in humans could cause coronavirus disease 2019 (COVID-19). Since its first discovery in Dec 2019, SARS-CoV-2 has become a global pandemic and caused 2.8 million direct/indirect deaths (2021 Apr). Amongst the scientific community’s response to COVID-19, data sharing has emerged as an essential aspect of the combat against SARS-CoV-2. Despite the ever-growing studies about SARS-CoV-2 and COVID-19, to date, only a few databases were curated to enable access to gene expression data. Furthermore, these databases curated only a small set of data and do not provide easy access for investigators without computational skills to perform analyses. To fill this gap and advance open-access to the growing gene expression data on this deadly virus, we collected about 1,500 bulk RNA-seq datasets from publicly available resources, developed a database and visualization tool, named CovidExpress (https://stjudecab.github.io/covidexpress).  This open access database will allow research investigators to examine the gene expression in various tissues, cell lines, and their response to SARS-CoV-2 under different experimental conditions, accelerating the understanding of the etiology of this disease in order to inform the drug and vaccine development. Our integrative analysis of this big dataset highlights a set of commonly regulated genes in SARS-CoV-2 infected lung and nasal tissues, including OASL that were under-studied in COVID-19 related reports. Our results also suggested a potential FURIN positive feedback loop that might explain the evolutional advantage of SARS-CoV-2.</p>
+</div>
+<hr>
+<h4 id="portal-usage"><strong>Portal Usage</strong></h4>
+<ul>
+  <li><a href="https://chanzuckerberg.github.io/cellxgene/posts/gallery" target="_blank">Learn about cellxgene basical functions</a></li>
+  <li><a href="https://www.youtube.com/watch?v=NYHAFQs8PDM&list=PL6mTMza0yJjaqDJSoemg6qWhgUTjh9jua&index=3" target="_blank">Video Tutorial: CovidExpress Differential Expressed Gene(DEG) analysis feature</a></li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=--7KuPGOxgA&list=PL6mTMza0yJjaqDJSoemg6qWhgUTjh9jua&index=1" target="_blank">Video Tutorial: CovidExpress Gene Set Enrichment Analysis(GSEA) feature</a></p>
+  </li>
+  <li>Below illustrated the functional plugins we developed to help visualzation and analysis.
+<a href="https://stjudecab.github.io/images/codepic/cellxgene_gsea.jpg"><img src="https://stjudecab.github.io/images/codepic/cellxgene_gsea.jpg" alt="" style="width: 100%; margin-left: 30px; margin-right: 30px; border: 10px"></a>
+</li>
+</ul>
+
+<hr>
+<h4 id="suggested-analysis-steps"><strong>Suggested Analysis Steps</strong></h4>
+<p><a href="https://stjudecab.github.io/images/codepic/covidexpress_analysis_route.png"><img src="https://stjudecab.github.io/images/codepic/covidexpress_analysis_route.png" alt="" style="width: 100%; margin-left: 30px; margin-right: 30px; border: 10px"></a></p>
+
+<hr>
+<h4 id="covidexpress-metadata-explorer"><strong>CovidExpress Metadata Explorer</strong></h4>
+<p>We used <a href="https://datatables.net" target="_blank">jquery dataTable</a> so you could explore the meta data easily. <a href="https://stjudecab_epi.gitlab.io/covidexpressdata/CovidExpress_metadataExplorer.html" target="_blank">Open explorer page</a></p>
+
+<hr>
+<h4 id="covidexpress-expression-data-download"><strong>CovidExpress Expression Data Download</strong></h4>
+<p>h5ad file is a <a href="https://en.wikipedia.org/wiki/Hierarchical_Data_Format#HDF5" target="_blank">HDF5</a> format with annotation commonly used for single cell data. <a href="https://anndata.readthedocs.io/en/latest/fileformat-prose.html" target="_blank">Learn more about h5ad file.</a></p>
+
+<p><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/hm.integrated_withMeta_all.h5ad" target="_blank">Download h5ad file for expression (~350Mb)</a></p>
+
+<p><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/202103highQ1093.cumulative_DEG_signatures.plusPublicCOVID.gmt.gz" target="_blank">Download GMT file for genesets from our and others’ analysis(~30Mb)</a> so you could perform <a href="http://www.gsea-msigdb.org/gsea/index.jsp" target="_blank">GSEA analysis</a> using your own data.</p>
+
+<hr>
+<h4 id="clustering-results-for-reviewing-and-download"><strong>Clustering Results for reviewing and Download</strong></h4>
+<p>(see below tables for details)</p>
+<table style="border-spacing: 10px;" border="1" class="dataframe table-bordered">
+    <thead>
+        <tr style="text-align: center;">
+            <th>Score</th>
+            <th>ssGSEA</th>
+            <th>ssGSEA</th>
+            <th>ssGSEA</th>
+            <th>TPM</th>
+            <th>TPM</th>
+            <th>TPM</th>
+        </tr>
+        <tr style="text-align: right;">
+            <th>Data</th>
+            <th>COV.Significant</th>
+            <th>COV.All.Signature</th>
+            <th>MSigDB</th>
+            <th>CombinedDiff</th>
+            <th>BatchCorrected</th>
+            <th>Original</th>
+        </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>PCA.3D</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.PCA.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.PCA.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.PCA.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.PCA.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.PCA.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.PCA.3D.html" target="_blank">Open</a></td>
+    </tr>
+    <tr>
+      <th>PCA.2PCs</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.PCA.2PCs.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.PCA.2PCs.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.PCA.2PCs.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.PCA.2PCs.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.PCA.2PCs.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.PCA.2PCs.html" target="_blank">Open</a></td>
+    </tr>
+    <tr>
+      <th>PCA.grid</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.PCA.grid.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.PCA.grid.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.PCA.grid.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.PCA.grid.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.PCA.grid.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.PCA.grid.html" target="_blank">Open</a></td>
+    </tr>
+    <tr>
+      <th>PCA.components_matrix</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.PCA.components_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.PCA.components_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.PCA.components_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.PCA.components_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.PCA.components_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.PCA.components_matrix.tsv" target="_blank">Download tsv</a></td>
+    </tr>
+    <tr>
+      <th>PCA.loadings</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.PCA.loadings.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.PCA.loadings.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.PCA.loadings.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.PCA.loadings.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.PCA.loadings.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.PCA.loadings.tsv" target="_blank">Download tsv</a></td>
+    </tr>
+    <tr>
+      <th>PCA.loadings_matrix</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.PCA.loadings_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.PCA.loadings_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.PCA.loadings_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.PCA.loadings_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.PCA.loadings_matrix.tsv" target="_blank">Download tsv</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.PCA.loadings_matrix.tsv" target="_blank">Download tsv</a></td>
+    </tr>
+    <tr>
+      <th>tSNE.3D</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.tSNE.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.tSNE.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.tSNE.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.tSNE.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.tSNE.3D.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.tSNE.3D.html" target="_blank">Open</a></td>
+    </tr>
+    <tr>
+      <th>tSNE.2nc</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.tSNE.2nc.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.tSNE.2nc.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.tSNE.2nc.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.tSNE.2nc.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.tSNE.2nc.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.tSNE.2nc.html" target="_blank">Open</a></td>
+    </tr>
+    <tr>
+      <th>UMAP.3D.n_neighbors_20</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.UMAP.3D.n_neighbors_20.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.UMAP.3D.n_neighbors_20.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.UMAP.3D.n_neighbors_20.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.UMAP.3D.n_neighbors_20.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.UMAP.3D.n_neighbors_20.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.UMAP.3D.n_neighbors_20.html" target="_blank">Open</a></td>
+    </tr>
+    <tr>
+      <th>UMAP.3D.n_neighbors_10</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.UMAP.3D.n_neighbors_10.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.UMAP.3D.n_neighbors_10.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.UMAP.3D.n_neighbors_10.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.UMAP.3D.n_neighbors_10.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.UMAP.3D.n_neighbors_10.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.UMAP.3D.n_neighbors_10.html" target="_blank">Open</a></td>
+    </tr>
+    <tr>
+      <th>UMAP.3D.n_neighbors_5</th>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.Significant.Signature.UMAP.3D.n_neighbors_5.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.COV.All.Signature.UMAP.3D.n_neighbors_5.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.ssGSEA.MSigDB.UMAP.3D.n_neighbors_5.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.CombinedDiff.UMAP.3D.n_neighbors_5.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Combat.UMAP.3D.n_neighbors_5.html" target="_blank">Open</a></td>
+      <td><a href="https://stjudecab_epi.gitlab.io/covidexpressdata/Cluster/GSEA.TPM.Original.UMAP.3D.n_neighbors_5.html" target="_blank">Open</a></td>
+    </tr>
+  </tbody>
+</table>
+<p><br></p>
+
+<table style="border-spacing: 10px;" border="1" class="dataframe table-bordered">
+<thead>
+<tr style="text-align: center;">
+<th>Column/Row</th>
+<th>Meaning</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<th>Score:ssGSEA</th>
+<td>Clustering using single-sample Gene Set Enrichment Analysis Score (<a target="_blank" href="https://www.genepattern.org/modules/docs/ssGSEAProjection">ssGSEA</a>)</td>
+</tr>
+<tr>
+<th>Score:TPM</th>
+<td>Clustering using expression value Transcripts Per Million(<a target="_blank" href="https://www.rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/">TPM</a>)</td>
+</tr>
+
+<tr>
+<th>Data:COV.Significant</th>
+<td>ssGSEA score were using genesets from pre-computed differential analysis(<a target="_blank" href="https://doi.org/10.1186/gb-2014-15-2-r29">Using Voom</a>), only genes significant(fold change &gt; 2, False Discovery Rate corrected p-value &lt; 0.05) were considered for each differential analysis.</td>
+</tr>
+
+
+<tr>
+<th>Data:COV.All.Signature</th>
+<td>ssGSEA score were using genesets from pre-computed differential analysis(<a target="_blank" href="https://doi.org/10.1186/gb-2014-15-2-r29">Using Voom</a>), genes passed different levels of cutoff or top regulated genes were all considered for each differential analysis.</td>
+</tr>
+
+<tr>
+<th>Data:MSigDB</th>
+<td>ssGSEA score were using genesets from Molecular Signatures Database(<a target="_blank" href="http://www.gsea-msigdb.org/gsea/index.jsp">MSigDB</a>)</td>
+</tr>
+
+<tr>
+<th>Data:Original</th>
+<td>TPM values from RSEM method(<a target="_blank" href="https://doi.org/10.1186/1471-2105-12-323">Li and Dewey,2011,BMC Bioinformatics</a>) using STAR(<a target="_blank" href="https://doi.org/10.1093/bioinformatics/bts635">Dobin et al,2013,Bioinformatics</a>)</td>
+</tr>
+
+<tr>
+<th>Data:CombinedDiff</th>
+<td>Only used TPM values for top1000 differential expressed genes from COV Signature(Union)</td>
+</tr>
+
+<tr>
+<th>Data:BatchCorrected</th>
+<td>TPM values were corrected for batch effect using Combat(<a target="_blank" href="https://bioconductor.org/packages/release/bioc/html/sva.html">From SVA R package</a>, <a target="_blank" href="https://doi.org/10.1093/biostatistics/kxj037">Johnson et al,2007,Biostatistics</a>)</td>
+</tr>
+
+<tr>
+<td>–</td>
+</tr>
+
+<tr>
+<th>PCA.3D</th>
+<td>Three dimensions plot(PC1 vs PC2 vs PC3) from <a target="_blank" href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal component analysis</a>
+</td>
+</tr>
+<tr>
+<th>PCA.2PCs</th>
+<td>Two dimensions plot(PC1 vs PC2) from <a target="_blank" href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal component analysis</a>
+</td>
+</tr>
+<tr>
+<th>PCA.grid</th>
+<td>Two dimensions plots(Many vs Many) from <a target="_blank" href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal component analysis</a>
+</td>
+</tr>
+<tr>
+<th>PCA.components_matrix</th>
+<td>Each sample’s projection to top principal components</td>
+</tr>
+<tr>
+<th>PCA.loadings</th>
+<td>PCA <a target="_blank" href="https://scentellegher.github.io/machine-learning/2020/01/27/pca-loadings-sklearn.html">loading</a> as each geneset or gene’s loading to top principal components</td>
+</tr>
+<tr>
+<th>PCA.loadings_matrix</th>
+<td>PCA <a target="_blank" href="https://scentellegher.github.io/machine-learning/2020/01/27/pca-loadings-sklearn.html">loading matrix</a> as each geneset or gene’s correlations to top principal components</td>
+</tr>
+<tr>
+<th>tSNE.3D</th>
+<td>Three dimensions plot from <a target="_blank" href="https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding">tSNE analysis</a>
+</td>
+</tr>
+<tr>
+<th>tSNE.2D</th>
+<td>Two dimensions plot from <a target="_blank" href="https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding">tSNE analysis</a>
+</td>
+</tr>
+<tr>
+<th>UMAP.3D.n_neighbors_20</th>
+<td>Three dimensions plot from <a target="_blank" href="https://umap-learn.readthedocs.io/en/latest">UMAP analysis</a> using parameter n_neighbors = 20</td>
+</tr>
+<tr>
+<th>UMAP.3D.n_neighbors_10</th>
+<td>Three dimensions plot from <a target="_blank" href="https://umap-learn.readthedocs.io/en/latest">UMAP analysis</a> using parameter n_neighbors = 10</td>
+</tr>
+<tr>
+<th>UMAP.3D.n_neighbors_5</th>
+<td>Three dimensions plot from <a target="_blank" href="https://umap-learn.readthedocs.io/en/latest">UMAP analysis</a> using parameter n_neighbors = 5</td>
+</tr>
+
+
+</tbody>
+</table>
+<p><br></p>
+
+<hr>
+<h4 id="faqs"><strong>FAQs</strong></h4>
+
+<h5 id="where-can-i-find-more-details"><strong>Where can I find more details</strong></h5>
+<p>More details could be found in our pre-print <a href="https://www.biorxiv.org/content/10.1101/2021.05.14.444026v1" target="_blank">BIORXIV/2021/444026</a></p>
+
+<h5 id="will-the-database-been-updated"><strong>Will the database been updated?</strong></h5>
+<p>Yes, we plan to update the database either Quarterly or if we found 10 new studies from public resources. Suggestion of new studies is welcome and appreciated, simple <a href="mailto:beisi.xu#stjude.org?subject=%5BCovidexpress%5D">Email Us</a> or let us know in <a href="https://gitter.im/covidexpress/community" target="_blank">Our Gitter Channel</a></p>
+
+<h5 id="can-i-compare-samples-from-different-studies"><strong>Can I compare samples from different studies?</strong></h5>
+<p>We strongly recommend only compare samples from the same study. Our ssGSEA approach mainly aimed at help visual so investigator could find the samples easier, but not able to overcome the batch effect. We tried batch effect correction methods such as Combat, sva, Combat-seq, quantiles normalization, they indeed reduced the batch effect. However, for many published studies, we failed reproduce the top reported genes using the corrected expression values. Thus we decided provide original TPM values as log2(TPM+1). We are investigating more on this topic and might update later if we found better solution allow meta studies.</p>
+
+<h5 id="how-can-i-plot-heatmap-compare-within-group"><strong>How can I plot heatmap compare within group</strong></h5>
+<p>You could select the samples by checkbox on the left, then choose which meta data to split by and which meta data to group by. see below for example:
+<a href="https://stjudecab.github.io/images/codepic/covidexpress_heatmap.jpg"><img src="https://stjudecab.github.io/images/codepic/covidexpress_heatmap.jpg" alt="" style="width: 100%; margin-left: 30px; margin-right: 30px; border: 10px"></a></p>
+
+<h5 id="how-can-i-custimize-my-own-groups-for-plots"><strong>How can I custimize my own groups for plots?</strong></h5>
+<p>Simple click “creat new category” on the left, select the samples and add to new groups. see below. 
+<a href="https://stjudecab.github.io/images/codepic/covidexpress_add_group.jpg"><img src="https://stjudecab.github.io/images/codepic/covidexpress_add_group.jpg" alt="" style="width: 100%; margin-left: 30px; margin-right: 30px; border: 10px"></a></p>
+
+<h5 id="how-can-i-get-differential-expressed-genesdeg-results-and-volcano-plot"><strong>How can I get differential expressed genes(DEG) results and Volcano plot?</strong></h5>
+<p>You could select the samples by checkbox on the left or lasso and put them into either group 1 or group2, and then compare, see below for steps.
+<a href="https://stjudecab.github.io/images/codepic/covidexpress_DEG_volcano.jpg"><img src="https://stjudecab.github.io/images/codepic/covidexpress_DEG_volcano.jpg" alt="" style="width: 100%; margin-left: 30px; margin-right: 30px; border: 10px"></a></p>
+
+<h5 id="more">More…</h5>
+
+<h5 class="no_toc" id="what-does-diff-groups-mean-in-split-by-or-group-by-meta-data"><strong>What does “Diff. groups” mean in “Split by” or “Group by” meta data</strong></h5>
+<p>Those were the samples you selected either checkbox or lasso function after you click “1:” or “2:” for differential expression analysis. For details, check “Compare expression of multiple genes” part of <a href="https://chanzuckerberg.github.io/cellxgene/posts/gallery" target="_blank">Learn about cellxgene basical functions</a></p>
+
+<h5 class="no_toc" id="why-the-gsea-results-different-when-i-re-run"><strong>Why the GSEA results different when I re-run</strong></h5>
+<p>To reduce the time use, our GSEA run permutation 100 times, this increased variation of enrichment score calculation. In our tests, the exactly value might be different but the stable signal remains the same. We suggest use the GSEA plot as evidence. We will also implement the feature to allow user select permutation times later.</p>
+
+<h5 class="no_toc" id="why-i-encountered-unexpected-http-response-400-bad-request"><strong>Why I encountered “Unexpected HTTP response 400, BAD REQUEST”</strong></h5>
+<p>This usually happens because the group you tried to plot doesn’t contain samples. We went through many tests and tried to avoid this. You could also try <a href="https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DAndroid&hl=en" target="_blank">open a browser using in private/incognito mode</a> and let us know in <a href="https://gitter.im/covidexpress/community" target="_blank">Our Gitter Channel</a></p>
+
+<h5 class="no_toc" id="why-i-encountered-unexpected-http-error-or-failure-loading-source"><strong>Why I encountered “Unexpected HTTP error” or “Failure loading source”?</strong></h5>
+<p>This usually happens when an user tried to plot his customized sample group annotation but didn’t add samples to that group. As tempory solution, please <a href="https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DAndroid&hl=en" target="_blank">open a browser using in private/incognito mode</a> and let us know in <a href="https://gitter.im/covidexpress/community" target="_blank">Our Gitter Channel</a></p>
+
+<h5 class="no_toc" id="why-the-download-button-for-figures-didnt-work"><strong>Why the download button for figures didn’t work</strong></h5>
+<p>There are some technical difficulties to allow that feature due to the javascript plugin used. You could still download the high resolution svg figure using right-click -&gt; “save image as”.</p>
+
+<h5 class="no_toc" id="how-do-report-bugs"><strong>How do report bugs</strong></h5>
+<p>Please let us know in <a href="https://gitter.im/covidexpress/community" target="_blank">Our Gitter Channel</a></p>
+
+</div>
+
+      </div>
+    </div>
+
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+
+
+			<ul class="nav navbar-nav navbar-right">
+<!--			<li><a href="https://www.stjude.cloud/" target="_blank">St. Jude Cloud</a></li>
+-->
+                <li><a href="https://www.stjude.org/" target="_blank">St. Jude</a></li>
+                <li><a href="https://stjudecab.github.io/about">About</a></li>
+				<li><a href="https://stjudecab.github.io/recruitment">Recruitment</a></li>
+			</ul>
+
+		
+	  </div>
+	</div>
+  </div>
+</div>
+
+
+  
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://stjudecab.github.io/js/bootstrap.min.js"></script>
+
+
+  </body>
+
+  <!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+</html>
