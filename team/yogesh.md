@@ -10,7 +10,7 @@ googlescholar: 6ytUlPAAAAAJ
 myncbi:
 photo: tm_yogesh.jpg
 stjude: k/yogesh-kumar
-orcid: 000-0002-7187-8078
+orcid: 0000-0002-7187-8078
 linkedin: yogesh-kumar-1a7825b
 bibfile:
 years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
