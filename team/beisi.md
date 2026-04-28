@@ -5,7 +5,7 @@ position: Principal Bioinformatics Research Scientist(Epigenetics)
 handle: beisi
 email: beisi.xu@stjude.org
 twitter:
-github: stjudecab
+github: xubeisi
 googlescholar: PIPGxWoAAAAJ
 myncbi: 1zofdYmKS0FQg
 photo: tm_beisi.jpg

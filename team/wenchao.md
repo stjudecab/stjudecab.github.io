@@ -5,7 +5,7 @@ position: Bioinformatics Software Engineer(DevOps)
 handle: wenchao
 email: wenchao.zhang@stjude.org
 twitter:
-github: 
+github: wzhang42
 googlescholar: HVfLT8AAAAAJ
 photo: tm_wenchao.png
 stjude: z/wenchao-zhang

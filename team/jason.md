@@ -5,12 +5,12 @@ position: Lead Bioinformatics Analyst
 handle: jason
 email: jason.myers@stjude.org
 twitter:
-github: stjudecab
-googlescholar: 
+github: jrm3215
+googlescholar: omrDyVIAAAAJ
 photo: tm_jason.jpg
 stjude: 
-orcid: 
-linkedin: 
+orcid: 0000-0002-0341-0860
+linkedin: jrm3215
 bibfile: tm_jason
 years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013,2012,2011,2010]
 scholar_first_names_underline: Jason

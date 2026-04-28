@@ -5,7 +5,7 @@ position: Senior Bioinformatics Research Scientist(Genomics)
 handle: Beifang
 email: beifang.niu@stjude.org
 twitter:
-github: stjudecab
+github: Beifang
 googlescholar: GS6CPtgAAAAJ
 photo: tm_beifang.jpg
 stjude: x/beifang-niu

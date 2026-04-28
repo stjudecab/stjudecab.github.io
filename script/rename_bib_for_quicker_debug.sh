@@ -11,6 +11,9 @@ if [ $# -lt 1 ]
 then
     echo "Usage: rename_bib_for_quicker_debug.sh rename|recover"
     echo "#.bib took long time to build so move them for debug"
+    echo "conda activate /research_jude/rgs01_jude/groups/cab/projects/Control/common/cab_epi/condaenv/iobuild"
+    echo "bundle exec jekyll serve --host \$(hostname -i) --port 5050 --livereload"
+    echo "ggg \"update\""
     exit
 fi
 

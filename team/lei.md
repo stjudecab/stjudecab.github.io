@@ -5,7 +5,7 @@ position: Sr. Bioinoformatics Research Scientist
 handle: lei
 email: lei.li@stjude.org
 twitter:
-github: stjudecab
+github: LeiLi-Uchicago
 googlescholar: 3qt2VoAAAAAJ
 myncbi: 
 photo: tm_lei.jpg

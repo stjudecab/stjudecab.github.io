@@ -5,7 +5,7 @@ position: Senior Bioinformatics Research Scientist
 handle: guang
 email: guang.yang@stjude.org
 twitter:
-github: stjudecab
+github: gyang0920
 googlescholar: sh83_9kAAAAJ
 photo: tm_guang.jpg
 linkedin: guang-yang-b0b175123

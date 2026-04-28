@@ -5,7 +5,7 @@ position: Principal Bioinformatics Research Scientist(Genomics)
 handle: ticheng
 email: ti-cheng.chang@stjude.org
 twitter:
-github: stjudecab
+github: disonchang
 googlescholar: 0E-2k8wAAAAJ
 myncbi:
 photo: tm_ticheng.jpg

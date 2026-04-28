@@ -10,6 +10,6 @@ Thank you for your interest in joining the St. Jude.
 
 ### Open positions
 
-- [Apply with Employee referrals](https://myjob.io/zx33NUU){:target="_blank"}
+- [Apply with Employee referrals](https://myjob.io/ryChzBW){:target="_blank"}
 
-Search at [St. Jude Career Page](https://talent.stjude.org/careers/jobs?keywords=bioinformatics&sortBy=relevance&page=1){:target="_blank"} for more opening. 
+Search at [St. Jude Career Page](https://talent.stjude.org/careers/SearchJobs/bioinformatics?listFilterMode=1&jobRecordsPerPage=20&){:target="_blank"} for more opening. 

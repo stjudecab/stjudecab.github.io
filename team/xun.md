@@ -5,7 +5,7 @@ position: Bioinformatics Resch Scientist
 handle: xun
 email: xun.zhu@stjude.org
 twitter:
-github: stjudecab
+github: xz-stjude
 googlescholar: iMHMSRsAAAAJ
 photo: tm_xun.jpg
 stjude: z/xun-zhu

@@ -17,13 +17,18 @@
   name: Team
 - link: /research/
   name: Research
+  sublinks:
+    - name: HighLight
+      link: /research/
+    - name: CovidExpress
+      link: /covidexpress/
 - link: /publications/
   name: Publications
 - link: /code/
   name: Code
   iscommon: yes
-- link: /covidexpress/
-  name: CovidExpress
+- link: /skills/
+  name: Skills
   iscommon: yes
 - link: /contact/
   name: Contact
