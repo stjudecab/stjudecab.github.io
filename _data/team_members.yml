@@ -41,6 +41,13 @@
   posgroup: 1
   group: Genomics
 
+- name: Beifang Niu
+  photo: tm_beifang.jpg
+  info: Sr. Bioinformatics Research Scientist
+  url: beifang
+  posgroup: 1
+  group: Genomics
+
 - name: Lei Li
   photo: tm_lei.jpg
   info: Lead-Bioinformatics Research Scientist

@@ -49,11 +49,6 @@ For a [full list (GEO\|SRA\|Browser\|Code) see below](#full-list)
   {% endcapture %}
   {% assign npaper = npaper | plus: 0 %}
   {% if npaper > 0 %}
-## Featured
-
-<div class="publications_highlight">
-  {% bibliography -f {{ page.bibfile }} --template bib_highlight -q @*[highlight] %}
-</div>
 {% endif %}
 
 </div>

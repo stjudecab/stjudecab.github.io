@@ -22,6 +22,9 @@
 - link: /code/
   name: Code
   iscommon: yes
+- link: /skills/
+  name: Skills
+  iscommon: yes
 - link: /covidexpress/
   name: CovidExpress
   iscommon: yes
