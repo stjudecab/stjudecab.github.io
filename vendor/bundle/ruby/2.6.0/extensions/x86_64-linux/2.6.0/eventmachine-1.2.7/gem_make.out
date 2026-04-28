@@ -1,0 +1,25 @@
+current directory: /home/bniu/workspace-2025/developing/stjudecab.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/bniu/local_install/miniconda/envs/iobuild/bin/ruby -I /home/bniu/local_install/miniconda/envs/iobuild/lib/ruby/2.6.0 -r ./siteconf20260428-593940-qlad32.rb extconf.rb
+creating Makefile
+
+current directory: /home/bniu/workspace-2025/developing/stjudecab.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/bniu/workspace-2025/developing/stjudecab.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+In file included from /home/bniu/local_install/miniconda/envs/iobuild/include/ruby-2.6.0/ruby/ruby.h:2111,
+                 from /home/bniu/local_install/miniconda/envs/iobuild/include/ruby-2.6.0/ruby.h:33,
+                 from rubymain.cpp:25:
+/home/bniu/local_install/miniconda/envs/iobuild/include/ruby-2.6.0/ruby/intern.h:56:33: warning: ISO C++17 does not allow 'register' storage class specifier [-Wregister]
+   56 | void rb_mem_clear(register VALUE*, register long);
+      |                                 ^
+/home/bniu/local_install/miniconda/envs/iobuild/include/ruby-2.6.0/ruby/intern.h:56:45: warning: ISO C++17 does not allow 'register' storage class specifier [-Wregister]
+   56 | void rb_mem_clear(register VALUE*, register long);
+      |                                             ^~~~
+linking shared-object fastfilereaderext.so
+
+current directory: /home/bniu/workspace-2025/developing/stjudecab.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260428-593940-8rphuo

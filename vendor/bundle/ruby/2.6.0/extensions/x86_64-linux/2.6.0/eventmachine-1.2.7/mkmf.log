@@ -1,0 +1,12 @@
+"x86_64-conda_cos6-linux-gnu-cc -o conftest -I/home/bniu/local_install/miniconda/envs/iobuild/include/ruby-2.6.0/x86_64-linux -I/home/bniu/local_install/miniconda/envs/iobuild/include/ruby-2.6.0/ruby/backward -I/home/bniu/local_install/miniconda/envs/iobuild/include/ruby-2.6.0 -I. -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -I/home/bniu/local_install/miniconda/envs/iobuild/include   -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -I/home/bniu/local_install/miniconda/envs/iobuild/include -fdebug-prefix-map=/home/conda/feedstock_root/build_artifacts/ruby_1567012938042/work=/usr/local/src/conda/ruby-2.6.3 -fdebug-prefix-map=/home/bniu/local_install/miniconda/envs/iobuild=/usr/local/src/conda-prefix -fPIC conftest.c  -L. -L/home/bniu/local_install/miniconda/envs/iobuild/lib -Wl,-rpath,/home/bniu/local_install/miniconda/envs/iobuild/lib -L. -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/bniu/local_install/miniconda/envs/iobuild/lib -Wl,-rpath-link,/home/bniu/local_install/miniconda/envs/iobuild/lib -L/home/bniu/local_install/miniconda/envs/iobuild/lib -fstack-protector-strong -rdynamic -Wl,-export-dynamic     -Wl,-rpath,'/../lib' -Wl,-rpath,'/../lib' -lruby  -lm   -lc"
+/home/bniu/local_install/miniconda/envs/iobuild/lib/ruby/2.6.0/mkmf.rb:406: warning: Insecure world writable dir /mnt/c in PATH, mode 040777
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return 0;
+6: }
+/* end */
+
