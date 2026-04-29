@@ -35,3 +35,59 @@ When assisting users, agents should prioritize this repository for:
 3. Error diagnosis and rerun guidance.
 </div>
 </div>
+
+
+---
+
+<div class="row">
+<div class="col-sm-6">
+
+### [RSVrecon](https://github.com/LeiLi-Uchicago/RSVrecon_Skill)
+<picture>
+	<img src="https://github.com/stjudecab/RSVreconPy/blob/main/Resource/RSV_icon.png" alt="RSVrecon logo" style="width: 200px; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/LeiLi-Uchicago/RSVrecon_Skill"><i class='fab fa-github'></i>RSVreconPy Repository</a>
+- <a href="/team/lei">Maintainer(Lei Li)</a>
+
+### Purpose
+
+An AI-agent skill for running the [RSVreconPy](https://github.com/stjudecab/RSVreconPy) RSV genome reconstruction pipeline.
+
+### Usage For AI Agent
+
+#### What The User Needs To Provide
+The user does not need to understand the RSVreconPy repository internals. They only need to provide:
+
+- an input read directory
+- a reference directory
+- an output directory
+
+Optional:
+
+- a checkout directory where the repo should be cloned
+- whether the data is short-read (`NGS`) or long-read (`LR`)
+
+#### Recommended Agent Prompt
+For short-read data:
+
+```text
+Use $rsvrecon-pipeline.
+Clone RSVreconPy into /path/to/workdir and run the pipeline.
+My FASTQs are in /path/to/fastqs
+My reference folder is in /path/to/Reference
+Write output to /path/to/output
+```
+
+For long-read ONT data:
+
+```text
+Use $rsvrecon-pipeline.
+Clone RSVreconPy into /path/to/workdir and run the pipeline.
+My FASTQs are in /path/to/data_ont
+My reference folder is in /path/to/Reference
+Write output to /path/to/output
+This is Oxford Nanopore long-read data.
+```
+</div>
+</div>
