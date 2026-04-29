@@ -51,3 +51,4 @@ It's developed by [Dr. Beisi Xu](https://github.com/xubeisi) based on [bedtools 
 - <a href="https://my-bedtools2.readthedocs.io/en/latest"><i class='fa fa-book'></i> Manual</a>
 
 </div>
+</div>
