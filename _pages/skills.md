@@ -20,7 +20,7 @@ permalink: /skills/
 </picture>
 
 - <a href="https://github.com/Beifang/pacsomatic_skill"><i class='fab fa-github'></i>Repository</a>
-- <a href="/team/beifang">Maintainer(Beifang Niu)</a>
+- <a href="https://stjudecab.github.io/Genomics/">Maintainer (genomics group)</a>
 
 ### Purpose
 
@@ -82,6 +82,42 @@ My FASTQs are in /path/to/data_ont
 My reference folder is in /path/to/Reference
 Write output to /path/to/output
 This is Oxford Nanopore long-read data.
+```
+</div>
+</div>
+
+---
+
+<div class="row">
+<div class="col-sm-6">
+
+### [RHtyper](https://github.com/Beifang/rhtype-skill)
+<picture>
+	<img src="/images/codepic/rhtype_logo.png" alt="RHtype logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/Beifang/rhtype-skill"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Genomics/">Maintainer (genomics group)</a>
+
+### Purpose
+
+Agent-oriented skill repository for running [RHtyper v1.1](https://github.com/disonchang/RHtyper) to predict RHD/RHCE Rh blood group genotypes from WGS/WES BAM files with automated setup, validation, and reporting.
+
+### Minimal Test Prompts
+
+Copy any of the following prompts to test the skill with a public BAM file:
+
+#### hg19 (30x WGS, GIAB NA12878, public)
+
+```text
+Please run Rh blood group genotyping on this BAM file (hg19, WGS):
+https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/RMNISTHS_30xdownsample.bam
+```
+
+#### Local file (simplest)
+
+```text
+Please run RHD/RHCE blood group genotyping on /data/patient001.bam (hg38, WGS).
 ```
 </div>
 </div>
