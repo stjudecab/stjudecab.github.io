@@ -84,11 +84,6 @@ Write output to /path/to/output
 This is Oxford Nanopore long-read data.
 ```
 </div>
-</div>
-
----
-
-<div class="row">
 <div class="col-sm-6">
 
 ### [RHtyper](https://github.com/Beifang/rhtype-skill)
