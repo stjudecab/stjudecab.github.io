@@ -7,7 +7,10 @@ permalink: /skills/
 ---
 
 ## Agent Skills
+{:.no_toc}
 
+* TOC
+{:toc .toc-levels-3}
 ---
 
 <div class="row">
@@ -22,11 +25,11 @@ permalink: /skills/
 - <a href="https://github.com/Beifang/pacsomatic_skill"><i class='fab fa-github'></i>Repository</a>
 - <a href="https://stjudecab.github.io/Genomics/">Maintainer (genomics group)</a>
 
-### Purpose
+#### Purpose
 
 Agent-oriented skill repository for helping users operate pacsomatic workflow ( <https://nf-co.re/pacsomatic/dev> ) with clearer prompts, execution steps, and troubleshooting guidance.
 
-### Usage For AI Agent
+#### Usage For AI Agent
 
 When assisting users, agents should prioritize this repository for:
 
@@ -44,11 +47,11 @@ When assisting users, agents should prioritize this repository for:
 - <a href="https://github.com/LeiLi-Uchicago/RSVrecon_Skill"><i class='fab fa-github'></i>RSVreconPy Repository</a>
 - <a href="/team/lei">Maintainer(Lei Li)</a>
 
-### Purpose
+#### Purpose
 
 An AI-agent skill for running the [RSVreconPy](https://github.com/stjudecab/RSVreconPy) RSV genome reconstruction pipeline.
 
-### Usage For AI Agent
+#### Usage For AI Agent
 
 #### What The User Needs To Provide
 The user does not need to understand the RSVreconPy repository internals. They only need to provide:
@@ -94,11 +97,11 @@ This is Oxford Nanopore long-read data.
 - <a href="https://github.com/Beifang/rhtype-skill"><i class='fab fa-github'></i>Repository</a>
 - <a href="https://stjudecab.github.io/Genomics/">Maintainer (genomics group)</a>
 
-### Purpose
+#### Purpose
 
 Agent-oriented skill repository for running [RHtyper v1.1](https://github.com/disonchang/RHtyper) to predict RHD/RHCE Rh blood group genotypes from WGS/WES BAM files with automated setup, validation, and reporting.
 
-### Minimal Test Prompts
+#### Minimal Test Prompts
 
 Copy any of the following prompts to test the skill with a public BAM file:
 
