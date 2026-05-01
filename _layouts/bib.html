@@ -3,17 +3,24 @@
 <div class="row">
   <div class="col-sm-2 abbr">
   {% if entry.abbr %}
-    <abbr class="badge"><a href="https://doi.org/{{ entry.doi }}" target="_blank">{{ entry.abbr }}</a></abbr>
+    {% assign badge_label = entry.abbr %}
   {% else %}
     {% if entry.booktitle %}
-      <abbr class="badge"><a href="https://doi.org/{{ entry.doi }}" target="_blank">BookChapter</a></abbr>
+      {% assign badge_label = "BookChapter" %}
     {% else %}
       {% if entry.journal %}
-        <abbr class="badge"><a href="https://doi.org/{{ entry.doi }}" target="_blank">{{ entry.journal | slice: 0, 20 }}</a></abbr>
+        {% assign badge_label = entry.journal | slice: 0, 20 %}
       {% else %}
-        <abbr class="badge"><a href="https://doi.org/{{ entry.doi }}" target="_blank">Journal</a></abbr>
+        {% assign badge_label = "Journal" %}
       {% endif %}
     {% endif %}
+  {% endif %}
+  {% if entry.doi %}
+    <abbr class="badge"><a href="https://doi.org/{{ entry.doi }}" target="_blank">{{ badge_label }}</a></abbr>
+  {% elsif entry.url %}
+    <abbr class="badge"><a href="{{ entry.url }}" target="_blank">{{ badge_label }}</a></abbr>
+  {% else %}
+    <abbr class="badge"><a href="https://doi.org" target="_blank">{{ badge_label }}</a></abbr>
   {% endif %}
   </div>
 

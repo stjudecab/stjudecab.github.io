@@ -27,12 +27,18 @@
   group:
 
 - name: Mohammad Shabbir Hasan
-  #photo: tm_mohammadshabbir.jpg
-  photo: blank.jpg
+  photo: tm_mohammad.jpg
   info: Sr. Bioinformatics Research Scientist
-  url: mohammadshabbir
+  url: mohammad
   posgroup: 1
   group: Genetics
+
+- name: Hasan AI Reza
+  photo: tm_hasan.jpg
+  info: Bioinformatics Research Scientist
+  url: hasan
+  posgroup: 1
+  group: Epigenetics
 
 - name: Hongjian Jin
   photo: tm_hongjian.jpg
