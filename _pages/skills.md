@@ -171,7 +171,7 @@ Write output to /path/to/output
 
 ## CAB-aiSkills
 
-Portable **agent skills** from the [CAB-aiSkills](https://github.com/stjudecab/CAB-aiSkills) toolbox (St Jude CAB Epigenetics). Each skill is a self-contained folder with `SKILL.md`, scripts, and documentation for Cursor and other agent clients.
+Portable **agent skills** from the [CAB-aiSkills](https://github.com/stjudecab/CAB-aiSkills) toolbox (St Jude CAB). Each skill is a self-contained folder with `SKILL.md`, scripts, and documentation for Cursor and other agent clients.
 
 <div class="row">
 <div class="col-sm-6">
