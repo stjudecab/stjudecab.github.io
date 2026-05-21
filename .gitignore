@@ -1,5 +1,38 @@
-_site/*
-.sass-cache/*
-_sass/bootstrap/*
-.jekyll-cache/*
+# Jekyll build output and caches
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
+
+# Bundler / Ruby (local gem installs)
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs and local env (never commit secrets)
+*.log
+.env
+.env.*
+
+# Python helpers under script/ or code/ (local runs)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Optional local scratch (not published site content)
+tmp/

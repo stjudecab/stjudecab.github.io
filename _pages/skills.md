@@ -166,3 +166,132 @@ Write output to /path/to/output
 ```
 </div>
 </div>
+
+---
+
+## CAB-aiSkills
+
+Portable **agent skills** from the [CAB-aiSkills](https://github.com/stjudecab/CAB-aiSkills) toolbox (St Jude CAB Epigenetics). Each skill is a self-contained folder with `SKILL.md`, scripts, and documentation for Cursor and other agent clients.
+
+<div class="row">
+<div class="col-sm-6">
+
+### [volcano-grid-plot](https://github.com/stjudecab/CAB-aiSkills/tree/main/volcano-grid-plot)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/volcano-grid-plot/assets/CAB-aiSkills_volcano-grid-plot.svg" alt="volcano-grid-plot logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/volcano-grid-plot"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a>
+
+#### Purpose
+
+Build **publication-ready grids of Volcano and/or MA plots** from multiple differential gene-expression or differential binding tables (RNA-seq, ChIP-seq, ATAC-seq, Cut&Run, multi-omics). Auto-detects or harmonizes column names for log2FC, p-value/FDR, gene/region IDs, and average expression; supports highlighting genes of interest.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill for volcano plot grids, MA plot grids, multi-panel DE figures, or timecourse differential visualization.
+
+**Example prompt:**
+
+```text
+Plot GSE202762 EGF timepoints from volcano-grid-plot/examples in natural order as a volcano grid. Highlight EGR1 on volcano and MA figures.
+```
+</div>
+<div class="col-sm-6">
+
+### [kde-correlation-scatter](https://github.com/stjudecab/CAB-aiSkills/tree/main/kde-correlation-scatter)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/kde-correlation-scatter/assets/CAB-aiSkills_kde-correlation-scatter.svg" alt="kde-correlation-scatter logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/kde-correlation-scatter"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a>
+
+#### Purpose
+
+Generate a **publication-quality 2D scatter plot with KDE density background** comparing two differential experiments (RNA-seq, ChIP-seq, ATAC-seq, Cut&Run, or mixed multi-omics). Supports annotation-vs-annotation, region-vs-region, and rank-vs-rank modes with Pearson/Spearman correlation and quadrant counts.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill for 2D scatter plots, KDE correlation plots, directional p-value plots, rank-rank correlation, or comparing two differential result files.
+
+**Example prompt:**
+
+```text
+Make a KDE correlation scatter comparing contrast_A.regulation.tsv and contrast_B.regulation.tsv using directional p-values; write figures under ./plots.
+```
+</div>
+<div class="col-sm-6">
+
+### [reproducible-peaks](https://github.com/stjudecab/CAB-aiSkills/tree/main/reproducible-peaks)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/reproducible-peaks/assets/CAB-aiSkills_reproducible-peaks.svg" alt="reproducible-peaks logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/reproducible-peaks"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a>
+
+#### Purpose
+
+Generate **reproducible ChIP-seq or ATAC-seq peak sets** across biological replicates with **ChIP-R** from narrowPeak, broadPeak, or SICER BED inputs. Infers MACS2 with/without control (`noC_`), broad peaks, and SICER conversion; logs commands and environment for reproducibility.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill for reproducible peaks, ChIP-R, ChIP-seq replicate overlap, narrowPeak/broadPeak merging, or CTCF/histone replicate peak sets.
+
+**Example prompt:**
+
+```text
+Generate reproducible CTCF peaks with ChIP-R using the two BED files in reproducible-peaks/examples and save outputs under agentResults/.
+```
+</div>
+<div class="col-sm-6">
+
+### [pathway-enrichment-enrichr](https://github.com/stjudecab/CAB-aiSkills/tree/main/pathway-enrichment-enrichr)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/pathway-enrichment-enrichr/assets/CAB-aiSkills_pathway-enrichment-enrichr.svg" alt="pathway-enrichment-enrichr logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/pathway-enrichment-enrichr"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a>
+
+#### Purpose
+
+Run **Enrichr pathway enrichment** for one gene list or many lists (GMT or TSV manifest). Produces merged tables, **Excel** workbooks, **PDF** bar charts for top pathways, and for batch runs **heatmaps** and **dot plots**.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill for Enrichr pathway enrichment, GO/KEGG/Reactome enrichment tables, GMT batch enrichment, multi-sample pathway dot plots or heatmaps, or exporting enrichment results to Excel/PDF.
+
+**Example prompt:**
+
+```text
+Run Enrichr pathway enrichment on my gene list genes.txt, use library preset stjudehg, and write Excel summaries and PDF bar plots under ./enrichr_out.
+```
+</div>
+<div class="col-sm-6">
+
+### [tables-to-excel](https://github.com/stjudecab/CAB-aiSkills/tree/main/tables-to-excel)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/tables-to-excel/assets/CAB-aiSkills_tables-to-excel.svg" alt="tables-to-excel logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/tables-to-excel"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a>
+
+#### Purpose
+
+Merge **CSV, TSV, or tab-delimited TXT** tables into a single **multi-sheet `.xlsx`** workbook with a first-sheet **`NameDictionary`** mapping each worksheet name to the absolute path of its source file for provenance and auditability.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill to consolidate DEG tables, gene lists, QC summaries, or any flat tables into one shareable Excel bundle without manual copy-paste.
+
+**Example prompt:**
+
+```text
+Merge table1.tsv, table2.csv, and table3.txt into one Excel file with a NameDictionary sheet; save as ./combined_tables.xlsx.
+```
+</div>
+</div>
