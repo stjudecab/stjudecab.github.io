@@ -270,6 +270,7 @@ When assisting users, agents should use this skill for Enrichr pathway enrichmen
 Run Enrichr pathway enrichment on my gene list genes.txt, use library preset stjudehg, and write Excel summaries and PDF bar plots under ./enrichr_out.
 ```
 </div>
+<div class="clearfix"></div>
 <div class="col-sm-6">
 
 ### [tables-to-excel](https://github.com/stjudecab/CAB-aiSkills/tree/main/tables-to-excel)
