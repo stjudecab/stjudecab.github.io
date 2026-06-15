@@ -307,7 +307,7 @@ Merge table1.tsv, table2.csv, and table3.txt into one Excel file with a NameDict
 
 #### Purpose
 
-Performs **nearby-gene annotation, genomic feature assignment, reporting, visualization, and GSEA-ready export generation** using header free **.bed**, gzipped **.bed.gz**, or limma-voom output **.vout** file.
+Performs **nearby-gene annotation, genomic feature assignment, reporting, visualization, and GSEA-ready export generation** using header free **`.bed`**, gzipped **`.bed.gz`**, or limma-voom output **`.vout`** file.
 
 #### Usage For AI Agent
 
