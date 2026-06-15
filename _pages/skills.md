@@ -294,4 +294,28 @@ When assisting users, agents should use this skill to consolidate DEG tables, ge
 Merge table1.tsv, table2.csv, and table3.txt into one Excel file with a NameDictionary sheet; save as ./combined_tables.xlsx.
 ```
 </div>
+<div class="col-sm-6">
+
+### [genomic-regions-annotation](https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-regions-annotation)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main//genomic-regions-annotation/assets/CAB-aiSkills_genomic_regions_annotation.svg" alt="genomic-regions-annotation logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-regions-annotation"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group, Hasan Al Reza)</a>
+
+#### Purpose
+
+Performs **nearby-gene annotation, genomic feature assignment, reporting, visualization, and GSEA-ready export generation** using header free **.bed**, gzipped **.bed.gz**, or limma-voom output **.vout** file.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill to annotate the genomic region files, generate pie and bar plots, summarize results to tsv and excel files, and organize all the results accordingly.
+
+**Example prompt:**
+
+```text
+Run genomic region annotation on header-free BED files in peaks/ using genome build hg38, and write outputs under annotations/.
+```
+</div>
 </div>
