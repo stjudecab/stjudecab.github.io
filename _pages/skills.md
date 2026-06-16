@@ -303,7 +303,7 @@ Merge table1.tsv, table2.csv, and table3.txt into one Excel file with a NameDict
 </picture>
 
 - <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-regions-annotation"><i class='fab fa-github'></i>Repository</a>
-- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a> | <a href="/team/hasan">Maintainer(Hasan)</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a> || <a href="/team/hasan">(Hasan)</a>
 
 #### Purpose
 
