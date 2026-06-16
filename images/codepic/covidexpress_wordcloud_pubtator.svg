@@ -1,0 +1,857 @@
+<svg id="svgImage" xmlns="http://www.w3.org/2000/svg" width="1050" height="800"><style>text{font-family:'Courier New';font-weight:bold;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white "><style>#tooltip {dominant-baseline: hanging; }</style></rect>
+<text transform="translate(186,398)" font-size="150" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="ACE2">ACE2</text>
+<text transform="translate(322,487)" font-size="96" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="IL6">IL6</text>
+<text transform="translate(363,219)" font-size="87" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="CRP">CRP</text>
+<text transform="translate(261,280)" font-size="73" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="TMPRSS2">TMPRSS2</text>
+<text transform="translate(362,552)" font-size="69" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="TNF">TNF</text>
+<text transform="translate(233,558)" font-size="67" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="ACE">ACE</text>
+<text transform="translate(261,516) rotate(-90)" font-size="61" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="CD4">CD4</text>
+<text transform="translate(228,599)" font-size="60" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="CD8A">CD8A</text>
+<text transform="translate(204,296) rotate(-90)" font-size="51" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="AGT">AGT</text>
+<text transform="translate(31,387)" font-size="51" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="IL1A">IL1A</text>
+<text transform="translate(241,161)" font-size="48" style="fill:#EFA366" class="tooltip-trigger" data-tooltip-text="IFNG">IFNG</text>
+<text transform="translate(602,351) rotate(-90)" font-size="44" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="IFNA1">IFNA1</text>
+<text transform="translate(519,587) rotate(-90)" font-size="44" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="SLC17A5">SLC17A5</text>
+<text transform="translate(223,192)" font-size="42" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="INS">INS</text>
+<text transform="translate(571,379)" font-size="41" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="DPP4">DPP4</text>
+<text transform="translate(261,226)" font-size="40" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="FUT3">FUT3</text>
+<text transform="translate(404,158)" font-size="40" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="IL10">IL10</text>
+<text transform="translate(377,577)" font-size="39" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="NFKB1">NFKB1</text>
+<text transform="translate(82,519)" font-size="38" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="FURIN">FURIN</text>
+<text transform="translate(544,403)" font-size="37" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="VTN">VTN</text>
+<text transform="translate(521,475)" font-size="37" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="CTSB">CTSB</text>
+<text transform="translate(151,438)" font-size="36" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="FGB">FGB</text>
+<text transform="translate(118,344)" font-size="36" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="REN">REN</text>
+<text transform="translate(536,498)" font-size="35" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="IL8">IL8</text>
+<text transform="translate(608,241)" font-size="35" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="ALB">ALB</text>
+<text transform="translate(300,421)" font-size="34" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="MFSD11">MFSD11</text>
+<text transform="translate(187,664)" font-size="34" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="APP">APP</text>
+<text transform="translate(381,601)" font-size="33" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="GNAI1">GNAI1</text>
+<text transform="translate(484,606)" font-size="32" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="F2">F2</text>
+<text transform="translate(529,437)" font-size="32" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="NLRP3">NLRP3</text>
+<text transform="translate(228,300)" font-size="32" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="CXCL10">CXCL10</text>
+<text transform="translate(141,462)" font-size="32" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="CCL2">CCL2</text>
+<text transform="translate(613,513)" font-size="31" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="IL2">IL2</text>
+<text transform="translate(265,508)" font-size="29" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="TLR4">TLR4</text>
+<text transform="translate(388,134) rotate(-90)" font-size="29" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="CD79A">CD79A</text>
+<text transform="translate(352,626)" font-size="29" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="CSF2">CSF2</text>
+<text transform="translate(62,245)" font-size="29" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="IL17A">IL17A</text>
+<text transform="translate(365,300)" font-size="29" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="AGTR1">AGTR1</text>
+<text transform="translate(216,573) rotate(-90)" font-size="29" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="SH2D3A">SH2D3A</text>
+<text transform="translate(178,107)" font-size="28" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="GPT">GPT</text>
+<text transform="translate(522,145) rotate(-90)" font-size="28" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="VEGFA">VEGFA</text>
+<text transform="translate(350,702)" font-size="28" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="IL6R">IL6R</text>
+<text transform="translate(521,516)" font-size="28" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="IFNA2">IFNA2</text>
+<text transform="translate(560,378) rotate(-90)" font-size="28" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="AICDA">AICDA</text>
+<text transform="translate(334,504)" font-size="27" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="INPP5D">INPP5D</text>
+<text transform="translate(507,646)" font-size="27" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="CTSL">CTSL</text>
+<text transform="translate(509,220)" font-size="26" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="F11R">F11R</text>
+<text transform="translate(165,320) rotate(-90)" font-size="26" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="NFE2L2">NFE2L2</text>
+<text transform="translate(221,289) rotate(-90)" font-size="26" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="ADAM17">ADAM17</text>
+<text transform="translate(450,297)" font-size="22" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="COL14A1">COL14A1</text>
+<text transform="translate(426,614)" font-size="22" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="VWF">VWF</text>
+<text transform="translate(267,468)" font-size="22" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="MTOR">MTOR</text>
+<text transform="translate(626,538)" font-size="22" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="CSF3">CSF3</text>
+<text transform="translate(358,39)" font-size="22" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="IL4">IL4</text>
+<text transform="translate(635,202)" font-size="22" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="BSG">BSG</text>
+<text transform="translate(236,613)" font-size="20" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="HLA-DRB1">HLA-DRB1</text>
+<text transform="translate(79,535)" font-size="20" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CS">CS</text>
+<text transform="translate(315,360)" font-size="20" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="HLA-A">HLA-A</text>
+<text transform="translate(524,663)" font-size="20" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="ABO">ABO</text>
+<text transform="translate(623,555)" font-size="20" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="PAH">PAH</text>
+<text transform="translate(130,406)" font-size="20" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="CCL3">CCL3</text>
+<text transform="translate(208,83)" font-size="20" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CAT">CAT</text>
+<text transform="translate(131,476)" font-size="20" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="IL1B">IL1B</text>
+<text transform="translate(264,484)" font-size="20" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="KNG1">KNG1</text>
+<text transform="translate(418,414)" font-size="20" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="TWIST1">TWIST1</text>
+<text transform="translate(374,152)" font-size="20" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="F3">F3</text>
+<text transform="translate(238,273) rotate(-90)" font-size="20" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CMPK1">CMPK1</text>
+<text transform="translate(180,638)" font-size="20" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="CYP3A4">CYP3A4</text>
+<text transform="translate(63,219)" font-size="20" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="HMGB1">HMGB1</text>
+<text transform="translate(75,555)" font-size="20" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="AKT1">AKT1</text>
+<text transform="translate(653,392)" font-size="20" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="IFNB1">IFNB1</text>
+<text transform="translate(274,435)" font-size="20" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="NPPB">NPPB</text>
+<text transform="translate(667,357)" font-size="20" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="EGFR">EGFR</text>
+<text transform="translate(546,128) rotate(-90)" font-size="20" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="SQLE">SQLE</text>
+<text transform="translate(358,661)" font-size="20" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="DES">DES</text>
+<text transform="translate(186,127)" font-size="20" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="DDX58">DDX58</text>
+<text transform="translate(530,540)" font-size="20" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="IL18">IL18</text>
+<text transform="translate(340,715)" font-size="20" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="RNF130">RNF130</text>
+<text transform="translate(439,501)" font-size="20" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="MAPT">MAPT</text>
+<text transform="translate(298,186)" font-size="20" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="TNNI3">TNNI3</text>
+<text transform="translate(135,489)" font-size="20" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="STAT1">STAT1</text>
+<text transform="translate(353,641)" font-size="20" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="HFM1">HFM1</text>
+<text transform="translate(667,371)" font-size="20" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="STAT3">STAT3</text>
+<text transform="translate(459,355) rotate(-90)" font-size="20" style="fill:#EFA366" class="tooltip-trigger" data-tooltip-text="IL7">IL7</text>
+<text transform="translate(27,400)" font-size="20" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="ABCC8">ABCC8</text>
+<text transform="translate(261,448)" font-size="20" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="BANK1">BANK1</text>
+<text transform="translate(617,354) rotate(-90)" font-size="20" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="SPRR2A">SPRR2A</text>
+<text transform="translate(352,674)" font-size="20" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="HHIP">HHIP</text>
+<text transform="translate(150,357)" font-size="20" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="AGER">AGER</text>
+<text transform="translate(253,268) rotate(-90)" font-size="20" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="SLC4A1">SLC4A1</text>
+<text transform="translate(363,124) rotate(-90)" font-size="20" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="HSPA5">HSPA5</text>
+<text transform="translate(497,624)" font-size="20" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="TLR3">TLR3</text>
+<text transform="translate(195,678)" font-size="19" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="IL2RA">IL2RA</text>
+<text transform="translate(404,231)" font-size="19" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="SERPINE1">SERPINE1</text>
+<text transform="translate(503,675)" font-size="19" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="ISG15">ISG15</text>
+<text transform="translate(560,115) rotate(-90)" font-size="19" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="BTK">BTK</text>
+<text transform="translate(624,213)" font-size="19" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="HLA-B">HLA-B</text>
+<text transform="translate(531,449)" font-size="18" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SERPINC1">SERPINC1</text>
+<text transform="translate(77,198)" font-size="18" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="TGFA">TGFA</text>
+<text transform="translate(294,625)" font-size="18" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="GPHA2">GPHA2</text>
+<text transform="translate(397,130)" font-size="18" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="NRP1">NRP1</text>
+<text transform="translate(143,301) rotate(-90)" font-size="18" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="FANCE">FANCE</text>
+<text transform="translate(246,316)" font-size="18" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="TLR7">TLR7</text>
+<text transform="translate(328,50)" font-size="18" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="SHE">SHE</text>
+<text transform="translate(572,345) rotate(-90)" font-size="18" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="MAPK1">MAPK1</text>
+<text transform="translate(137,461) rotate(-90)" font-size="18" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="PARP1">PARP1</text>
+<text transform="translate(102,529)" font-size="17" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="PTPRC">PTPRC</text>
+<text transform="translate(152,368)" font-size="17" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="IRF3">IRF3</text>
+<text transform="translate(184,408)" font-size="16" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="ELAVL2">ELAVL2</text>
+<text transform="translate(304,371)" font-size="16" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="TP53">TP53</text>
+<text transform="translate(273,366) rotate(-90)" font-size="16" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="HLA-C">HLA-C</text>
+<text transform="translate(81,568)" font-size="16" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="HAS1">HAS1</text>
+<text transform="translate(612,388)" font-size="16" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="EFS">EFS</text>
+<text transform="translate(527,550)" font-size="16" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="NEU1">NEU1</text>
+<text transform="translate(360,232)" font-size="16" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="GAD1">GAD1</text>
+<text transform="translate(34,411)" font-size="16" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="AHR">AHR</text>
+<text transform="translate(178,306)" font-size="16" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="DAPK3">DAPK3</text>
+<text transform="translate(522,563)" font-size="16" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="PLG">PLG</text>
+<text transform="translate(357,161)" font-size="15" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="IFIH1">IFIH1</text>
+<text transform="translate(458,399) rotate(-90)" font-size="15" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="ERBB2">ERBB2</text>
+<text transform="translate(357,458)" font-size="15" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="MAVS">MAVS</text>
+<text transform="translate(309,195)" font-size="15" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="MAPK14">MAPK14</text>
+<text transform="translate(539,412)" font-size="15" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="ICAM1">ICAM1</text>
+<text transform="translate(491,230)" font-size="15" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="IL1RN">IL1RN</text>
+<text transform="translate(518,189)" font-size="15" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="CCL5">CCL5</text>
+<text transform="translate(312,339)" font-size="15" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="MPO">MPO</text>
+<text transform="translate(674,402)" font-size="15" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="HIF1A">HIF1A</text>
+<text transform="translate(225,567) rotate(-90)" font-size="15" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="FCGR3B">FCGR3B</text>
+<text transform="translate(586,412)" font-size="14" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="TMEM37">TMEM37</text>
+<text transform="translate(27,352)" font-size="14" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="PLXNA2">PLXNA2</text>
+<text transform="translate(377,197)" font-size="14" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="ABCB1">ABCB1</text>
+<text transform="translate(421,426)" font-size="14" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="C5AR1">C5AR1</text>
+<text transform="translate(524,198)" font-size="14" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CD274">CD274</text>
+<text transform="translate(301,128)" font-size="14" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="NR1I3">NR1I3</text>
+<text transform="translate(265,410)" font-size="14" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="LEP">LEP</text>
+<text transform="translate(460,350)" font-size="14" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="ESR1">ESR1</text>
+<text transform="translate(357,723)" font-size="14" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="ALPP">ALPP</text>
+<text transform="translate(626,353) rotate(-90)" font-size="14" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="SPECC1">SPECC1</text>
+<text transform="translate(361,472)" font-size="14" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="IL13">IL13</text>
+<text transform="translate(72,535) rotate(-90)" font-size="14" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="ANG">ANG</text>
+<text transform="translate(501,132) rotate(-90)" font-size="14" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="SERPINA1">SERPINA1</text>
+<text transform="translate(407,455)" font-size="14" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="SLTM">SLTM</text>
+<text transform="translate(329,59)" font-size="14" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="CASP1">CASP1</text>
+<text transform="translate(294,234)" font-size="12" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SLC35G1">SLC35G1</text>
+<text transform="translate(623,185)" font-size="12" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="JAK2">JAK2</text>
+<text transform="translate(530,132) rotate(-90)" font-size="12" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="SLC5A2">SLC5A2</text>
+<text transform="translate(538,379) rotate(-90)" font-size="12" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="APOE">APOE</text>
+<text transform="translate(397,83) rotate(-90)" font-size="12" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="BCAR1">BCAR1</text>
+<text transform="translate(401,308)" font-size="12" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="TGFB1">TGFB1</text>
+<text transform="translate(318,516)" font-size="12" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="ANPEP">ANPEP</text>
+<text transform="translate(217,621)" font-size="12" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="NELFCD">NELFCD</text>
+<text transform="translate(355,308)" font-size="12" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="CLEC4M">CLEC4M</text>
+<text transform="translate(505,683)" font-size="12" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="HMOX1">HMOX1</text>
+<text transform="translate(422,624)" font-size="12" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="MAS1L">MAS1L</text>
+<text transform="translate(360,549) rotate(-90)" font-size="12" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="FANCB">FANCB</text>
+<text transform="translate(222,146)" font-size="12" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="CCR5">CCR5</text>
+<text transform="translate(623,249)" font-size="12" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="KRT18">KRT18</text>
+<text transform="translate(608,521)" font-size="12" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="ADAMTS13">ADAMTS13</text>
+<text transform="translate(109,538)" font-size="12" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="POLI">POLI</text>
+<text transform="translate(310,170)" font-size="12" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="DDX41">DDX41</text>
+<text transform="translate(341,427)" font-size="10" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="LOC102723407">LOC102723407</text>
+<text transform="translate(543,228)" font-size="10" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="PTGS2">PTGS2</text>
+<text transform="translate(207,684)" font-size="10" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="FASTK">FASTK</text>
+<text transform="translate(364,680)" font-size="10" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="ATP6V0A2">ATP6V0A2</text>
+<text transform="translate(95,393)" font-size="10" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="COX8A">COX8A</text>
+<text transform="translate(162,528)" font-size="10" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="NR3C1">NR3C1</text>
+<text transform="translate(620,397)" font-size="10" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="BID">BID</text>
+<text transform="translate(322,450)" font-size="10" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="MSC">MSC</text>
+<text transform="translate(524,569)" font-size="10" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="CD14">CD14</text>
+<text transform="translate(319,459)" font-size="10" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CFTR">CFTR</text>
+<text transform="translate(684,540) rotate(-90)" font-size="10" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="MAPK8">MAPK8</text>
+<text transform="translate(219,153)" font-size="10" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="VDR">VDR</text>
+<text transform="translate(635,571)" font-size="10" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="MUC1">MUC1</text>
+<text transform="translate(539,343) rotate(-90)" font-size="10" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="TUBE1">TUBE1</text>
+<text transform="translate(432,364) rotate(-90)" font-size="10" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="F2R">F2R</text>
+<text transform="translate(421,433)" font-size="10" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="MYD88">MYD88</text>
+<text transform="translate(566,522)" font-size="10" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="RRAD">RRAD</text>
+<text transform="translate(522,74)" font-size="10" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="SFTPD">SFTPD</text>
+<text transform="translate(183,336)" font-size="10" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="SOD1">SOD1</text>
+<text transform="translate(166,378)" font-size="10" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="NOS2">NOS2</text>
+<text transform="translate(684,335)" font-size="10" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="SIRT1">SIRT1</text>
+<text transform="translate(681,408)" font-size="10" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="MME">MME</text>
+<text transform="translate(198,133)" font-size="10" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="VHLL">VHLL</text>
+<text transform="translate(488,331)" font-size="10" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="FAT1">FAT1</text>
+<text transform="translate(198,183)" font-size="10" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="INSR">INSR</text>
+<text transform="translate(266,514)" font-size="10" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="PPP1CA">PPP1CA</text>
+<text transform="translate(270,198)" font-size="10" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="ITGAM">ITGAM</text>
+<text transform="translate(118,314)" font-size="10" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="AAK1">AAK1</text>
+<text transform="translate(74,251)" font-size="10" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="CXCL9">CXCL9</text>
+<text transform="translate(242,276)" font-size="10" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="F10">F10</text>
+<text transform="translate(459,164)" font-size="10" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="ANGPT2">ANGPT2</text>
+<text transform="translate(360,368)" font-size="10" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="AR">AR</text>
+<text transform="translate(527,608) rotate(-90)" font-size="10" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CNBD2">CNBD2</text>
+<text transform="translate(431,507)" font-size="10" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="CD209">CD209</text>
+<text transform="translate(570,283) rotate(-90)" font-size="10" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="SFTPA1">SFTPA1</text>
+<text transform="translate(287,541)" font-size="10" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="CTLA4">CTLA4</text>
+<text transform="translate(441,306)" font-size="10" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="PDCD1">PDCD1</text>
+<text transform="translate(668,563) rotate(-90)" font-size="10" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="COX2">COX2</text>
+<text transform="translate(88,182)" font-size="10" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="FOXG1">FOXG1</text>
+<text transform="translate(139,412)" font-size="10" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="TNNT1">TNNT1</text>
+<text transform="translate(412,164)" font-size="10" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SLC6A19">SLC6A19</text>
+<text transform="translate(428,439)" font-size="10" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="LTF">LTF</text>
+<text transform="translate(179,547)" font-size="10" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="IL5">IL5</text>
+<text transform="translate(87,574)" font-size="10" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="CYP2D6">CYP2D6</text>
+<text transform="translate(268,416)" font-size="10" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="IDO1">IDO1</text>
+<text transform="translate(88,399)" font-size="10" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="GAPDH">GAPDH</text>
+<text transform="translate(183,312)" font-size="10" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="MB">MB</text>
+<text transform="translate(321,470)" font-size="10" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="SRI">SRI</text>
+<text transform="translate(501,151)" font-size="10" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="JAK1">JAK1</text>
+<text transform="translate(408,64) rotate(-90)" font-size="10" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="PPARG">PPARG</text>
+<text transform="translate(364,45)" font-size="10" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="FUZ">FUZ</text>
+<text transform="translate(497,157)" font-size="10" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="OXT">OXT</text>
+<text transform="translate(464,422)" font-size="10" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CD38">CD38</text>
+<text transform="translate(472,507)" font-size="10" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="VIM">VIM</text>
+<text transform="translate(513,166)" font-size="10" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="LXN">LXN</text>
+<text transform="translate(253,233)" font-size="10" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="S1PR1">S1PR1</text>
+<text transform="translate(192,76)" font-size="10" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="C3">C3</text>
+<text transform="translate(405,377)" font-size="10" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SNCA">SNCA</text>
+<text transform="translate(610,280) rotate(-90)" font-size="10" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="CASP3">CASP3</text>
+<text transform="translate(182,86)" font-size="10" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="SELP">SELP</text>
+<text transform="translate(499,655)" font-size="10" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="TCAP">TCAP</text>
+<text transform="translate(539,522)" font-size="10" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="MBL2">MBL2</text>
+<text transform="translate(190,189)" font-size="10" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="KLRC1">KLRC1</text>
+<text transform="translate(511,373)" font-size="10" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="PC">PC</text>
+<text transform="translate(489,570) rotate(-90)" font-size="10" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="TOMM70A">TOMM70A</text>
+<text transform="translate(121,380) rotate(-90)" font-size="10" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="HAVCR2">HAVCR2</text>
+<text transform="translate(239,584)" font-size="10" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="TBK1">TBK1</text>
+<text transform="translate(499,481)" font-size="10" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="IFITM3">IFITM3</text>
+<text transform="translate(182,471)" font-size="10" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="EPO">EPO</text>
+<text transform="translate(166,318)" font-size="10" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="NOS3">NOS3</text>
+<text transform="translate(168,534)" font-size="10" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="TLR9">TLR9</text>
+<text transform="translate(319,631)" font-size="10" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="FOXP3">FOXP3</text>
+<text transform="translate(677,245) rotate(-90)" font-size="10" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="IL23A">IL23A</text>
+<text transform="translate(519,176)" font-size="10" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="RELA">RELA</text>
+<text transform="translate(462,357)" font-size="10" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="CTSG">CTSG</text>
+<text transform="translate(567,120) rotate(-90)" font-size="10" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="IFNAR1">IFNAR1</text>
+<text transform="translate(401,632)" font-size="10" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="GUSB">GUSB</text>
+<text transform="translate(610,509) rotate(-90)" font-size="10" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="ITIH4">ITIH4</text>
+<text transform="translate(489,487)" font-size="10" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="IL15">IL15</text>
+<text transform="translate(218,161)" font-size="10" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="KLK4">KLK4</text>
+<text transform="translate(341,605)" font-size="9" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="HSP90AA1">HSP90AA1</text>
+<text transform="translate(602,527)" font-size="9" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="CHAT">CHAT</text>
+<text transform="translate(207,67)" font-size="9" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="ERG">ERG</text>
+<text transform="translate(525,304)" font-size="9" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="APC">APC</text>
+<text transform="translate(19,375)" font-size="9" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="GZMB">GZMB</text>
+<text transform="translate(257,265)" font-size="9" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="MMP9">MMP9</text>
+<text transform="translate(39,418)" font-size="9" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="ELANE">ELANE</text>
+<text transform="translate(37,340)" font-size="9" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CXCR3">CXCR3</text>
+<text transform="translate(125,351)" font-size="9" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="CCL7">CCL7</text>
+<text transform="translate(348,168)" font-size="9" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="IL22">IL22</text>
+<text transform="translate(316,306)" font-size="9" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="PYCARD">PYCARD</text>
+<text transform="translate(520,487)" font-size="9" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="STAR">STAR</text>
+<text transform="translate(334,695)" font-size="9" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CD19">CD19</text>
+<text transform="translate(226,110)" font-size="9" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="TLR2">TLR2</text>
+<text transform="translate(621,561)" font-size="9" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="BCL2A1">BCL2A1</text>
+<text transform="translate(515,404)" font-size="9" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="CAMP">CAMP</text>
+<text transform="translate(308,377)" font-size="9" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="POLR3E">POLR3E</text>
+<text transform="translate(222,467) rotate(-90)" font-size="9" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="KIAA1715">KIAA1715</text>
+<text transform="translate(447,314)" font-size="9" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="BCL2">BCL2</text>
+<text transform="translate(231,550) rotate(-90)" font-size="9" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="ADIPOQ">ADIPOQ</text>
+<text transform="translate(77,369)" font-size="9" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="ENDOU">ENDOU</text>
+<text transform="translate(119,548)" font-size="9" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="TAT">TAT</text>
+<text transform="translate(680,341)" font-size="9" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="EIF2AK2">EIF2AK2</text>
+<text transform="translate(104,251)" font-size="9" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="GSK3B">GSK3B</text>
+<text transform="translate(228,96)" font-size="9" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="THBD">THBD</text>
+<text transform="translate(537,287)" font-size="9" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="NCAM1">NCAM1</text>
+<text transform="translate(544,626)" font-size="9" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="KRT20">KRT20</text>
+<text transform="translate(345,289)" font-size="9" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="NPC1">NPC1</text>
+<text transform="translate(214,379)" font-size="9" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="APOA1">APOA1</text>
+<text transform="translate(468,612)" font-size="9" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="WDTC1">WDTC1</text>
+<text transform="translate(362,344)" font-size="9" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="MX1">MX1</text>
+<text transform="translate(519,257)" font-size="9" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="CCL4">CCL4</text>
+<text transform="translate(576,224)" font-size="9" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="KRAS">KRAS</text>
+<text transform="translate(616,486) rotate(-90)" font-size="9" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="TNFRSF8">TNFRSF8</text>
+<text transform="translate(218,690)" font-size="9" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="LY6E">LY6E</text>
+<text transform="translate(246,505) rotate(-90)" font-size="9" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="AGTR2">AGTR2</text>
+<text transform="translate(337,34)" font-size="9" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="CCR7">CCR7</text>
+<text transform="translate(160,385)" font-size="9" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="IRF7">IRF7</text>
+<text transform="translate(631,173)" font-size="9" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="PLAT">PLAT</text>
+<text transform="translate(342,296)" font-size="9" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="BRD2">BRD2</text>
+<text transform="translate(485,337)" font-size="9" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="VCAM1">VCAM1</text>
+<text transform="translate(258,338) rotate(-90)" font-size="9" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="PREP">PREP</text>
+<text transform="translate(82,203)" font-size="7" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="TMPRSS4">TMPRSS4</text>
+<text transform="translate(441,129)" font-size="7" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CLEC3B">CLEC3B</text>
+<text transform="translate(367,573) rotate(-90)" font-size="7" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="POMC">POMC</text>
+<text transform="translate(682,236) rotate(-90)" font-size="7" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="GALNS">GALNS</text>
+<text transform="translate(222,203)" font-size="7" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="G6PD">G6PD</text>
+<text transform="translate(71,257)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="IL1R1">IL1R1</text>
+<text transform="translate(348,129)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="ACSM3">ACSM3</text>
+<text transform="translate(165,269)" font-size="7" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="GGH">GGH</text>
+<text transform="translate(170,116)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="AVP">AVP</text>
+<text transform="translate(186,413)" font-size="7" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="IVNS1ABP">IVNS1ABP</text>
+<text transform="translate(365,447)" font-size="7" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="IL4I1">IL4I1</text>
+<text transform="translate(441,487) rotate(-90)" font-size="7" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="HLA-DQA1">HLA-DQA1</text>
+<text transform="translate(114,224)" font-size="7" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="PRKAA1">PRKAA1</text>
+<text transform="translate(304,344)" font-size="7" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CYP4F3">CYP4F3</text>
+<text transform="translate(419,147)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="ACR">ACR</text>
+<text transform="translate(182,665) rotate(-90)" font-size="7" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="IRF1">IRF1</text>
+<text transform="translate(710,380)" font-size="7" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="ASPM">ASPM</text>
+<text transform="translate(520,495)" font-size="7" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="GCG">GCG</text>
+<text transform="translate(487,404)" font-size="7" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="MARK1">MARK1</text>
+<text transform="translate(397,332)" font-size="7" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="PDLIM5">PDLIM5</text>
+<text transform="translate(311,480)" font-size="7" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="LIPC">LIPC</text>
+<text transform="translate(251,406)" font-size="7" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="PF4">PF4</text>
+<text transform="translate(181,554)" font-size="7" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="IL33">IL33</text>
+<text transform="translate(383,203)" font-size="7" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="GGT1">GGT1</text>
+<text transform="translate(668,548)" font-size="7" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="KDR">KDR</text>
+<text transform="translate(116,319)" font-size="7" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="TMEM173">TMEM173</text>
+<text transform="translate(352,271) rotate(-90)" font-size="7" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CRTC1">CRTC1</text>
+<text transform="translate(451,145) rotate(-90)" font-size="7" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="TF">TF</text>
+<text transform="translate(77,224)" font-size="7" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="WASF1">WASF1</text>
+<text transform="translate(51,376)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="SRPR">SRPR</text>
+<text transform="translate(677,505)" font-size="7" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="IL9">IL9</text>
+<text transform="translate(459,363)" font-size="7" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="GLP1R">GLP1R</text>
+<text transform="translate(182,196)" font-size="7" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CIITA">CIITA</text>
+<text transform="translate(182,341)" font-size="7" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="CALCA">CALCA</text>
+<text transform="translate(690,414)" font-size="7" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="HSPA4">HSPA4</text>
+<text transform="translate(405,468)" font-size="7" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="IGF1">IGF1</text>
+<text transform="translate(186,112)" font-size="7" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="ABL1">ABL1</text>
+<text transform="translate(469,206) rotate(-90)" font-size="7" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CDKN2A">CDKN2A</text>
+<text transform="translate(138,494)" font-size="7" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="MIXL1">MIXL1</text>
+<text transform="translate(170,260) rotate(-90)" font-size="7" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="LOC102724197">LOC102724197</text>
+<text transform="translate(290,307)" font-size="7" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CDH11">CDH11</text>
+<text transform="translate(615,197)" font-size="7" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="ZFPM1">ZFPM1</text>
+<text transform="translate(583,351)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="FN1">FN1</text>
+<text transform="translate(379,276)" font-size="7" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="HGF">HGF</text>
+<text transform="translate(626,352)" font-size="7" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="DHODH">DHODH</text>
+<text transform="translate(171,494)" font-size="7" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="ADHFE1">ADHFE1</text>
+<text transform="translate(500,660)" font-size="7" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="NR3C2">NR3C2</text>
+<text transform="translate(670,376)" font-size="7" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="TNFSF10">TNFSF10</text>
+<text transform="translate(628,440) rotate(-90)" font-size="7" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="FLT3LG">FLT3LG</text>
+<text transform="translate(206,577)" font-size="7" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="TRAF3">TRAF3</text>
+<text transform="translate(97,580)" font-size="7" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="TTLL5">TTLL5</text>
+<text transform="translate(602,216)" font-size="7" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CXCR4">CXCR4</text>
+<text transform="translate(418,444)" font-size="7" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="IMPA1">IMPA1</text>
+<text transform="translate(434,361)" font-size="7" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="CFI">CFI</text>
+<text transform="translate(111,404)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="EDN1">EDN1</text>
+<text transform="translate(221,508) rotate(-90)" font-size="7" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="MAP1LC3A">MAP1LC3A</text>
+<text transform="translate(389,115)" font-size="7" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="SMUG1">SMUG1</text>
+<text transform="translate(380,509)" font-size="7" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="BDKRB1">BDKRB1</text>
+<text transform="translate(287,268)" font-size="7" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="SRC">SRC</text>
+<text transform="translate(211,171)" font-size="7" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="PTH">PTH</text>
+<text transform="translate(475,197) rotate(-90)" font-size="7" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="AMBP">AMBP</text>
+<text transform="translate(527,574)" font-size="7" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="WASF2">WASF2</text>
+<text transform="translate(337,584) rotate(-90)" font-size="7" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="ADM">ADM</text>
+<text transform="translate(147,440) rotate(-90)" font-size="7" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="CD40LG">CD40LG</text>
+<text transform="translate(468,446)" font-size="7" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CYP1A2">CYP1A2</text>
+<text transform="translate(170,310) rotate(-90)" font-size="7" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="PODXL2">PODXL2</text>
+<text transform="translate(222,134)" font-size="7" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="CCL13">CCL13</text>
+<text transform="translate(560,651)" font-size="7" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="BECN1">BECN1</text>
+<text transform="translate(392,720)" font-size="7" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="MLC1">MLC1</text>
+<text transform="translate(547,123)" font-size="7" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="CA1">CA1</text>
+<text transform="translate(322,428)" font-size="7" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="BDNF">BDNF</text>
+<text transform="translate(340,682)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="GRAP2">GRAP2</text>
+<text transform="translate(235,464)" font-size="7" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="HAMP">HAMP</text>
+<text transform="translate(565,376) rotate(-90)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="MARCO">MARCO</text>
+<text transform="translate(631,345) rotate(-90)" font-size="7" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="MUC5AC">MUC5AC</text>
+<text transform="translate(526,413)" font-size="7" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="NHS">NHS</text>
+<text transform="translate(481,258) rotate(-90)" font-size="7" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="FCGR2B">FCGR2B</text>
+<text transform="translate(425,236)" font-size="7" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="STAT2">STAT2</text>
+<text transform="translate(65,540)" font-size="7" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="BMPR2">BMPR2</text>
+<text transform="translate(447,542) rotate(-90)" font-size="7" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="MASP2">MASP2</text>
+<text transform="translate(271,536) rotate(-90)" font-size="7" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="PTGDR">PTGDR</text>
+<text transform="translate(77,513) rotate(-90)" font-size="7" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="PER2">PER2</text>
+<text transform="translate(478,548) rotate(-90)" font-size="7" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="IL6ST">IL6ST</text>
+<text transform="translate(264,270)" font-size="7" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="VIT">VIT</text>
+<text transform="translate(360,374)" font-size="7" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="TLR8">TLR8</text>
+<text transform="translate(382,186)" font-size="7" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="EHD1">EHD1</text>
+<text transform="translate(467,470)" font-size="7" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="F8">F8</text>
+<text transform="translate(258,222) rotate(-90)" font-size="7" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="CXCL2">CXCL2</text>
+<text transform="translate(58,224)" font-size="7" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="CD69">CD69</text>
+<text transform="translate(712,386)" font-size="7" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CD46">CD46</text>
+<text transform="translate(262,146)" font-size="7" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="DMD">DMD</text>
+<text transform="translate(121,430) rotate(-90)" font-size="7" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="BCL2L1">BCL2L1</text>
+<text transform="translate(504,642) rotate(-90)" font-size="7" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="APLN">APLN</text>
+<text transform="translate(405,509)" font-size="7" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="RNF2">RNF2</text>
+<text transform="translate(356,645)" font-size="6" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="MINOS1-NBL1">MINOS1-NBL1</text>
+<text transform="translate(361,23)" font-size="6" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="TFPI">TFPI</text>
+<text transform="translate(509,234)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="C9orf3">C9orf3</text>
+<text transform="translate(501,378)" font-size="6" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="HM13">HM13</text>
+<text transform="translate(568,634)" font-size="6" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="MBP">MBP</text>
+<text transform="translate(156,389)" font-size="6" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SFTPA2">SFTPA2</text>
+<text transform="translate(501,459)" font-size="6" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="RAN">RAN</text>
+<text transform="translate(257,444) rotate(-90)" font-size="6" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="CSF1">CSF1</text>
+<text transform="translate(312,199)" font-size="6" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="LAMP3">LAMP3</text>
+<text transform="translate(357,508)" font-size="6" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="ABCB6">ABCB6</text>
+<text transform="translate(253,669) rotate(-90)" font-size="6" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="TICAM1">TICAM1</text>
+<text transform="translate(427,628)" font-size="6" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="DBP">DBP</text>
+<text transform="translate(366,727)" font-size="6" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="ANGPT1">ANGPT1</text>
+<text transform="translate(572,117) rotate(-90)" font-size="6" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SH2D3C">SH2D3C</text>
+<text transform="translate(513,687)" font-size="6" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="FASLG">FASLG</text>
+<text transform="translate(276,452)" font-size="6" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="AXL">AXL</text>
+<text transform="translate(523,442) rotate(-90)" font-size="6" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="S100A10">S100A10</text>
+<text transform="translate(242,165)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="NFKBIA">NFKBIA</text>
+<text transform="translate(381,605)" font-size="6" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="GTF2E1">GTF2E1</text>
+<text transform="translate(231,391) rotate(-90)" font-size="6" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="FOS">FOS</text>
+<text transform="translate(405,202)" font-size="6" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="ARTN">ARTN</text>
+<text transform="translate(225,67)" font-size="6" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="MYC">MYC</text>
+<text transform="translate(280,398)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CST3">CST3</text>
+<text transform="translate(361,379)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="CD27">CD27</text>
+<text transform="translate(225,441)" font-size="6" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="NAA50">NAA50</text>
+<text transform="translate(479,301)" font-size="6" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="HLA-DPA1">HLA-DPA1</text>
+<text transform="translate(268,488)" font-size="6" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="IL2RB">IL2RB</text>
+<text transform="translate(437,269) rotate(-90)" font-size="6" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="HLA-DQB1">HLA-DQB1</text>
+<text transform="translate(360,215) rotate(-90)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="TNNT2">TNNT2</text>
+<text transform="translate(390,165)" font-size="6" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="TAAR1">TAAR1</text>
+<text transform="translate(474,581)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CAV1">CAV1</text>
+<text transform="translate(51,367)" font-size="6" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="PAX5">PAX5</text>
+<text transform="translate(292,452)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="PRKAA2">PRKAA2</text>
+<text transform="translate(356,138)" font-size="6" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="IL21">IL21</text>
+<text transform="translate(388,540)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="SELE">SELE</text>
+<text transform="translate(361,537)" font-size="6" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="CYBB">CYBB</text>
+<text transform="translate(279,130)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="PPARA">PPARA</text>
+<text transform="translate(572,248)" font-size="6" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="USF2">USF2</text>
+<text transform="translate(70,404)" font-size="6" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="CA2">CA2</text>
+<text transform="translate(230,100)" font-size="6" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CXCL1">CXCL1</text>
+<text transform="translate(364,336) rotate(-90)" font-size="6" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="UTS2R">UTS2R</text>
+<text transform="translate(561,235)" font-size="6" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="HAL">HAL</text>
+<text transform="translate(218,609)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="ASZ1">ASZ1</text>
+<text transform="translate(86,539)" font-size="6" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CASP8">CASP8</text>
+<text transform="translate(671,522) rotate(-90)" font-size="6" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="EIF2AK3">EIF2AK3</text>
+<text transform="translate(489,342)" font-size="6" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="SMC2">SMC2</text>
+<text transform="translate(120,211)" font-size="6" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="ADA">ADA</text>
+<text transform="translate(282,165)" font-size="6" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="PDE4A">PDE4A</text>
+<text transform="translate(265,420)" font-size="6" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="IFIT2">IFIT2</text>
+<text transform="translate(202,111)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="BCMO1">BCMO1</text>
+<text transform="translate(651,185)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="GDF15">GDF15</text>
+<text transform="translate(296,488)" font-size="6" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="KEAP1">KEAP1</text>
+<text transform="translate(608,395)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="HP">HP</text>
+<text transform="translate(208,87)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="NT5E">NT5E</text>
+<text transform="translate(623,453) rotate(-90)" font-size="6" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="LPA">LPA</text>
+<text transform="translate(330,699)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="CERS1">CERS1</text>
+<text transform="translate(357,146)" font-size="6" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="ULK1">ULK1</text>
+<text transform="translate(489,206)" font-size="6" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CCR2">CCR2</text>
+<text transform="translate(473,150) rotate(-90)" font-size="6" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="CALM3">CALM3</text>
+<text transform="translate(372,585) rotate(-90)" font-size="6" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="APOBEC3B">APOBEC3B</text>
+<text transform="translate(111,202)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="ABCG2">ABCG2</text>
+<text transform="translate(688,532) rotate(-90)" font-size="6" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="PLXNA3">PLXNA3</text>
+<text transform="translate(331,609)" font-size="6" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="S100B">S100B</text>
+<text transform="translate(507,523) rotate(-90)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="TRIM25">TRIM25</text>
+<text transform="translate(658,249)" font-size="6" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="STAC3">STAC3</text>
+<text transform="translate(635,575)" font-size="6" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="ACCS">ACCS</text>
+<text transform="translate(259,254) rotate(-90)" font-size="6" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="GSDMD">GSDMD</text>
+<text transform="translate(187,200)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CD68">CD68</text>
+<text transform="translate(344,79) rotate(-90)" font-size="6" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="STRAP">STRAP</text>
+<text transform="translate(608,532)" font-size="6" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="ACTB">ACTB</text>
+<text transform="translate(195,622)" font-size="6" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="SFTPC">SFTPC</text>
+<text transform="translate(525,64)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="SAA1">SAA1</text>
+<text transform="translate(520,521)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="CNR2">CNR2</text>
+<text transform="translate(296,353)" font-size="6" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="CD47">CD47</text>
+<text transform="translate(367,122) rotate(-90)" font-size="6" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="CHRNA7">CHRNA7</text>
+<text transform="translate(492,539)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="MNT">MNT</text>
+<text transform="translate(272,617)" font-size="6" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="CCL20">CCL20</text>
+<text transform="translate(384,43)" font-size="6" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="PLAU">PLAU</text>
+<text transform="translate(573,228)" font-size="6" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="BEAN1">BEAN1</text>
+<text transform="translate(397,271) rotate(-90)" font-size="6" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="HAND2">HAND2</text>
+<text transform="translate(481,280) rotate(-90)" font-size="6" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="POTEF">POTEF</text>
+<text transform="translate(211,582)" font-size="6" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CD28">CD28</text>
+<text transform="translate(403,158) rotate(-90)" font-size="6" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="PLA2G1B">PLA2G1B</text>
+<text transform="translate(345,369)" font-size="6" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="PDF">PDF</text>
+<text transform="translate(605,246)" font-size="6" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="ADAR">ADAR</text>
+<text transform="translate(222,208)" font-size="6" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="APCS">APCS</text>
+<text transform="translate(378,597) rotate(-90)" font-size="6" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="DDIT3">DDIT3</text>
+<text transform="translate(332,635)" font-size="6" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="ENPEP">ENPEP</text>
+<text transform="translate(645,394) rotate(-90)" font-size="6" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="CYP2C9">CYP2C9</text>
+<text transform="translate(643,217)" font-size="6" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="MB21D1">MB21D1</text>
+<text transform="translate(228,304)" font-size="6" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="ITCH">ITCH</text>
+<text transform="translate(553,202)" font-size="6" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="LAMP1">LAMP1</text>
+<text transform="translate(222,277)" font-size="6" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="CD36">CD36</text>
+<text transform="translate(450,318)" font-size="6" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="IL7R">IL7R</text>
+<text transform="translate(412,64) rotate(-90)" font-size="6" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="ZC3HAV1">ZC3HAV1</text>
+<text transform="translate(393,106) rotate(-90)" font-size="6" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="USH1G">USH1G</text>
+<text transform="translate(286,544)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="KIAA0101">KIAA0101</text>
+<text transform="translate(112,254)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="MAP2K7">MAP2K7</text>
+<text transform="translate(213,193)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="BAX">BAX</text>
+<text transform="translate(32,365) rotate(-90)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="ALK">ALK</text>
+<text transform="translate(564,658)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="KCNIP3">KCNIP3</text>
+<text transform="translate(204,290)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="FCGR2A">FCGR2A</text>
+<text transform="translate(135,304)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="SLC7A2">SLC7A2</text>
+<text transform="translate(532,131)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="PTPN6">PTPN6</text>
+<text transform="translate(277,580)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="TAC1">TAC1</text>
+<text transform="translate(23,378)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="CXCL12">CXCL12</text>
+<text transform="translate(526,371) rotate(-90)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="SPP1">SPP1</text>
+<text transform="translate(551,553)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="CYP2C19">CYP2C19</text>
+<text transform="translate(529,465)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="SPNS1">SPNS1</text>
+<text transform="translate(390,724)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="SPINK5">SPINK5</text>
+<text transform="translate(129,390)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="TMPRSS11D">TMPRSS11D</text>
+<text transform="translate(172,537)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="SEC14L2">SEC14L2</text>
+<text transform="translate(371,164)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="TNFRSF1A">TNFRSF1A</text>
+<text transform="translate(566,350)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="MEFV">MEFV</text>
+<text transform="translate(454,167)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="ADAMTS2">ADAMTS2</text>
+<text transform="translate(300,357)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="PARP14">PARP14</text>
+<text transform="translate(528,268) rotate(-90)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="CD163">CD163</text>
+<text transform="translate(201,136)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="C10orf54">C10orf54</text>
+<text transform="translate(617,301)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="LIF">LIF</text>
+<text transform="translate(345,232)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="FBXL15">FBXL15</text>
+<text transform="translate(491,184)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="VPS51">VPS51</text>
+<text transform="translate(238,175)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="SAGE1">SAGE1</text>
+<text transform="translate(501,558)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="DHX58">DHX58</text>
+<text transform="translate(170,645)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="CTNNB1">CTNNB1</text>
+<text transform="translate(490,431)" font-size="4" style="fill:#EFA366" class="tooltip-trigger" data-tooltip-text="SERPINB1">SERPINB1</text>
+<text transform="translate(368,330)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="JUNB">JUNB</text>
+<text transform="translate(319,238)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="PADI4">PADI4</text>
+<text transform="translate(497,160)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="ZAP70">ZAP70</text>
+<text transform="translate(399,370) rotate(-90)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="COG2">COG2</text>
+<text transform="translate(442,483)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="CHDH">CHDH</text>
+<text transform="translate(671,551)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="COX1">COX1</text>
+<text transform="translate(185,669)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="CFD">CFD</text>
+<text transform="translate(290,311)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="MOG">MOG</text>
+<text transform="translate(409,604)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="ITGAX">ITGAX</text>
+<text transform="translate(393,410)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="ERAP2">ERAP2</text>
+<text transform="translate(648,349)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="PIK3C2A">PIK3C2A</text>
+<text transform="translate(585,324)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="CECR1">CECR1</text>
+<text transform="translate(279,584)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CCR6">CCR6</text>
+<text transform="translate(243,85)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="JUN">JUN</text>
+<text transform="translate(188,206)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="HBG2">HBG2</text>
+<text transform="translate(223,352)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="LGALS3">LGALS3</text>
+<text transform="translate(358,173)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="A2M">A2M</text>
+<text transform="translate(264,153)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="GAK">GAK</text>
+<text transform="translate(210,141)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="RHOA">RHOA</text>
+<text transform="translate(274,321)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SARS2">SARS2</text>
+<text transform="translate(309,517) rotate(-90)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="UPP1">UPP1</text>
+<text transform="translate(227,309)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="IFIT1">IFIT1</text>
+<text transform="translate(398,30)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="VIP">VIP</text>
+<text transform="translate(529,135)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="AGPS">AGPS</text>
+<text transform="translate(587,331)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="KLK3">KLK3</text>
+<text transform="translate(253,516)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="TRPV4">TRPV4</text>
+<text transform="translate(413,472)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SARS">SARS</text>
+<text transform="translate(122,214)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="FCGR1A">FCGR1A</text>
+<text transform="translate(238,684)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="IL17F">IL17F</text>
+<text transform="translate(547,77)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="CYP2C8">CYP2C8</text>
+<text transform="translate(358,218)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="LUC7L3">LUC7L3</text>
+<text transform="translate(293,260)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="BMP2K">BMP2K</text>
+<text transform="translate(260,431)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="NPS">NPS</text>
+<text transform="translate(460,617)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SERPINF2">SERPINF2</text>
+<text transform="translate(600,496) rotate(-90)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="SELENBP1">SELENBP1</text>
+<text transform="translate(618,189)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="NR2F2">NR2F2</text>
+<text transform="translate(375,483) rotate(-90)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="APOH">APOH</text>
+<text transform="translate(22,382)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="BST2">BST2</text>
+<text transform="translate(517,201)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="PICK1">PICK1</text>
+<text transform="translate(397,340)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="TYK2">TYK2</text>
+<text transform="translate(439,627)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="RPS10">RPS10</text>
+<text transform="translate(704,405)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="MARCKS">MARCKS</text>
+<text transform="translate(352,552)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="APEX1">APEX1</text>
+<text transform="translate(525,307)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="ISM1">ISM1</text>
+<text transform="translate(434,351)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="CCL11">CCL11</text>
+<text transform="translate(614,491)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="IFNL1">IFNL1</text>
+<text transform="translate(577,531)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="HHEX">HHEX</text>
+<text transform="translate(527,580)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="PPIG">PPIG</text>
+<text transform="translate(489,490)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="BDKRB2">BDKRB2</text>
+<text transform="translate(355,656) rotate(-90)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="RIN2">RIN2</text>
+<text transform="translate(61,248)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="CALCR">CALCR</text>
+<text transform="translate(358,618)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="MIF">MIF</text>
+<text transform="translate(125,354)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="PENK">PENK</text>
+<text transform="translate(610,207)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="HDAC9">HDAC9</text>
+<text transform="translate(535,309)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="TEK">TEK</text>
+<text transform="translate(522,531)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="ENG">ENG</text>
+<text transform="translate(528,604)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="PARG">PARG</text>
+<text transform="translate(614,538)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="TRAF6">TRAF6</text>
+<text transform="translate(559,669)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="IL3">IL3</text>
+<text transform="translate(340,539)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="SELL">SELL</text>
+<text transform="translate(118,562)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="SQSTM1">SQSTM1</text>
+<text transform="translate(572,353)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="PDXP">PDXP</text>
+<text transform="translate(112,238) rotate(-90)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="IFNA17">IFNA17</text>
+<text transform="translate(352,62)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="TMEM27">TMEM27</text>
+<text transform="translate(84,357)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="L1CAM">L1CAM</text>
+<text transform="translate(401,67)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="OCLN">OCLN</text>
+<text transform="translate(202,465)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="SOCS1">SOCS1</text>
+<text transform="translate(254,197)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="SUCLA2">SUCLA2</text>
+<text transform="translate(142,532)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="NR4A1">NR4A1</text>
+<text transform="translate(185,324)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="PTX3">PTX3</text>
+<text transform="translate(613,252)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="IKBKG">IKBKG</text>
+<text transform="translate(495,165)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="ITGAL">ITGAL</text>
+<text transform="translate(48,421)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="GNRH1">GNRH1</text>
+<text transform="translate(122,554)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="PTEN">PTEN</text>
+<text transform="translate(649,387)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="TXN">TXN</text>
+<text transform="translate(329,115)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="S100A8">S100A8</text>
+<text transform="translate(240,151)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="MAF">MAF</text>
+<text transform="translate(459,367)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="SLC25A6">SLC25A6</text>
+<text transform="translate(405,635)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="FMOD">FMOD</text>
+<text transform="translate(658,395)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="SCN5A">SCN5A</text>
+<text transform="translate(415,409) rotate(-90)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="BRAF">BRAF</text>
+<text transform="translate(523,144)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="JTB">JTB</text>
+<text transform="translate(541,679)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="MUC5B">MUC5B</text>
+<text transform="translate(94,254)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="BTG3">BTG3</text>
+<text transform="translate(490,188)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="PTBP1">PTBP1</text>
+<text transform="translate(365,542)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="GSK3A">GSK3A</text>
+<text transform="translate(452,267)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="TRPV1">TRPV1</text>
+<text transform="translate(475,594)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="CYCS">CYCS</text>
+<text transform="translate(267,372)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="CXCR2">CXCR2</text>
+<text transform="translate(627,216)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="SELPLG">SELPLG</text>
+<text transform="translate(561,239)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="P2RY12">P2RY12</text>
+<text transform="translate(117,437)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="EGF">EGF</text>
+<text transform="translate(242,183)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="HRC">HRC</text>
+<text transform="translate(520,536)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="A1BG">A1BG</text>
+<text transform="translate(438,184)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="USB1">USB1</text>
+<text transform="translate(170,120)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="FOXJ1">FOXJ1</text>
+<text transform="translate(118,257)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SPHK1">SPHK1</text>
+<text transform="translate(223,601)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="JAK3">JAK3</text>
+<text transform="translate(121,304)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="INSRR">INSRR</text>
+<text transform="translate(498,249)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="ADSL">ADSL</text>
+<text transform="translate(279,561)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="LYZ">LYZ</text>
+<text transform="translate(365,335)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="PRKAB1">PRKAB1</text>
+<text transform="translate(248,126) rotate(-90)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="CEACAM5">CEACAM5</text>
+<text transform="translate(152,371)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="KRT31">KRT31</text>
+<text transform="translate(244,641)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="LCN2">LCN2</text>
+<text transform="translate(403,234)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="PPARGC1A">PPARGC1A</text>
+<text transform="translate(363,182) rotate(-90)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="TLR5">TLR5</text>
+<text transform="translate(304,628)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="IBTK">IBTK</text>
+<text transform="translate(227,164)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="BRCA1">BRCA1</text>
+<text transform="translate(498,545)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="S100A9">S100A9</text>
+<text transform="translate(525,78)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="MLN">MLN</text>
+<text transform="translate(533,392)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="SPHK2">SPHK2</text>
+<text transform="translate(413,460)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="XIRP1">XIRP1</text>
+<text transform="translate(349,347)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="HEBP1">HEBP1</text>
+<text transform="translate(550,488)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="NOD2">NOD2</text>
+<text transform="translate(75,205) rotate(-90)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="MYOM2">MYOM2</text>
+<text transform="translate(484,245) rotate(-90)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="ATP4A">ATP4A</text>
+<text transform="translate(462,339) rotate(-90)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="HIST1H4F">HIST1H4F</text>
+<text transform="translate(585,240)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="NRG1">NRG1</text>
+<text transform="translate(714,349)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="PLAUR">PLAUR</text>
+<text transform="translate(171,409)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="KRT6B">KRT6B</text>
+<text transform="translate(539,378)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="CXCL11">CXCL11</text>
+<text transform="translate(300,570) rotate(-90)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="SOCS3">SOCS3</text>
+<text transform="translate(254,681) rotate(-90)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="GFAP">GFAP</text>
+<text transform="translate(395,414)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="WFDC2">WFDC2</text>
+<text transform="translate(149,511)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CD3E">CD3E</text>
+<text transform="translate(169,109) rotate(-90)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="CSHL1">CSHL1</text>
+<text transform="translate(187,538)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="ERN1">ERN1</text>
+<text transform="translate(568,486)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="FAM3B">FAM3B</text>
+<text transform="translate(561,662)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="FGF2">FGF2</text>
+<text transform="translate(72,516)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="XPO1">XPO1</text>
+<text transform="translate(520,449)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="CDH5">CDH5</text>
+<text transform="translate(495,609)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="KLRK1">KLRK1</text>
+<text transform="translate(488,525) rotate(-90)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="APOBEC3G">APOBEC3G</text>
+<text transform="translate(269,376)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="PRAC1">PRAC1</text>
+<text transform="translate(551,268)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CXCR5">CXCR5</text>
+<text transform="translate(537,533)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="C5">C5</text>
+<text transform="translate(275,326)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="ETV6">ETV6</text>
+<text transform="translate(92,372)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="OPRM1">OPRM1</text>
+<text transform="translate(356,397)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="IRF9">IRF9</text>
+<text transform="translate(290,157)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="BLM">BLM</text>
+<text transform="translate(340,142)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="SAG">SAG</text>
+<text transform="translate(59,237) rotate(-90)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="NRSN1">NRSN1</text>
+<text transform="translate(327,473)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="CEACAM8">CEACAM8</text>
+<text transform="translate(563,544)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="CX3CR1">CX3CR1</text>
+<text transform="translate(243,129)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="C1QA">C1QA</text>
+<text transform="translate(226,86)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="GAST">GAST</text>
+<text transform="translate(266,165)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="TRIM21">TRIM21</text>
+<text transform="translate(317,380)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="RPP30">RPP30</text>
+<text transform="translate(571,213)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="PAGR1">PAGR1</text>
+<text transform="translate(583,415)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="IFITM1">IFITM1</text>
+<text transform="translate(458,590)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="LDLR">LDLR</text>
+<text transform="translate(239,587)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="S100A12">S100A12</text>
+<text transform="translate(412,115)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="AIM2">AIM2</text>
+<text transform="translate(536,290)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="KIAA0020">KIAA0020</text>
+<text transform="translate(294,288)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="SULT1E1">SULT1E1</text>
+<text transform="translate(566,287)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="NEFL">NEFL</text>
+<text transform="translate(363,149)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="MAS1">MAS1</text>
+<text transform="translate(223,641)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="TTF2">TTF2</text>
+<text transform="translate(411,707)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CXCL3">CXCL3</text>
+<text transform="translate(573,270) rotate(-90)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="SERPINA10">SERPINA10</text>
+<text transform="translate(364,683)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="EIF2A">EIF2A</text>
+<text transform="translate(540,252)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="GAL">GAL</text>
+<text transform="translate(458,171)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="FGF7">FGF7</text>
+<text transform="translate(239,291)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="MTX1">MTX1</text>
+<text transform="translate(323,217)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SERPING1">SERPING1</text>
+<text transform="translate(328,62)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="AFP">AFP</text>
+<text transform="translate(330,344)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="AGTRAP">AGTRAP</text>
+<text transform="translate(453,594)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CSN1S1">CSN1S1</text>
+<text transform="translate(660,179) rotate(-90)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="PGR">PGR</text>
+<text transform="translate(233,411)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="ERAP1">ERAP1</text>
+<text transform="translate(397,75)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="PRL">PRL</text>
+<text transform="translate(286,419)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="SFTPB">SFTPB</text>
+<text transform="translate(64,408)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="SLAMF1">SLAMF1</text>
+<text transform="translate(539,415)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="P2RX7">P2RX7</text>
+<text transform="translate(371,430)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="TBX21">TBX21</text>
+<text transform="translate(273,330)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="ELK3">ELK3</text>
+<text transform="translate(495,233)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="PRPF6">PRPF6</text>
+<text transform="translate(249,625)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="CENPJ">CENPJ</text>
+<text transform="translate(180,293)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="TPCN2">TPCN2</text>
+<text transform="translate(194,485) rotate(-90)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="PECAM1">PECAM1</text>
+<text transform="translate(462,371)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="AZU1">AZU1</text>
+<text transform="translate(376,683)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="HFE">HFE</text>
+<text transform="translate(587,300)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="MUL1">MUL1</text>
+<text transform="translate(271,517)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="STMN1">STMN1</text>
+<text transform="translate(295,168)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="PSMD1">PSMD1</text>
+<text transform="translate(619,466) rotate(-90)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CARTPT">CARTPT</text>
+<text transform="translate(462,507)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CD34">CD34</text>
+<text transform="translate(640,227)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="PARP9">PARP9</text>
+<text transform="translate(537,399)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="MGEA5">MGEA5</text>
+<text transform="translate(342,718)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="PCSK1N">PCSK1N</text>
+<text transform="translate(24,363) rotate(-90)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="PGP">PGP</text>
+<text transform="translate(316,484)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="FNDC5">FNDC5</text>
+<text transform="translate(393,656)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="LAG3">LAG3</text>
+<text transform="translate(206,210)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="KLK13">KLK13</text>
+<text transform="translate(557,425)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="BGLAP">BGLAP</text>
+<text transform="translate(221,212)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="CABIN1">CABIN1</text>
+<text transform="translate(511,301)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="FICD">FICD</text>
+<text transform="translate(497,268)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="HDAC2">HDAC2</text>
+<text transform="translate(368,251)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="MAPK3">MAPK3</text>
+<text transform="translate(539,216) rotate(-90)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="TFPI2">TFPI2</text>
+<text transform="translate(235,393) rotate(-90)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="MRPS22">MRPS22</text>
+<text transform="translate(135,354)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="NPTX1">NPTX1</text>
+<text transform="translate(392,136) rotate(-90)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="SNAP91">SNAP91</text>
+<text transform="translate(112,336)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="CFH">CFH</text>
+<text transform="translate(686,232) rotate(-90)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="RARRES3">RARRES3</text>
+<text transform="translate(261,451)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="PTGS1">PTGS1</text>
+<text transform="translate(606,235) rotate(-90)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="SERPINB2">SERPINB2</text>
+<text transform="translate(461,391) rotate(-90)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="ANXA1">ANXA1</text>
+<text transform="translate(287,531)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="MBTPS2">MBTPS2</text>
+<text transform="translate(714,390)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="ACSL1">ACSL1</text>
+<text transform="translate(208,641)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="ENTPD1">ENTPD1</text>
+<text transform="translate(388,235)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="PTPN11">PTPN11</text>
+<text transform="translate(260,352) rotate(-90)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="NSMAF">NSMAF</text>
+<text transform="translate(308,471)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="DECR1">DECR1</text>
+<text transform="translate(531,346)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="CFLAR">CFLAR</text>
+<text transform="translate(377,235)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="NEB">NEB</text>
+<text transform="translate(169,413)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="C5orf42">C5orf42</text>
+<text transform="translate(611,277)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="OAS1">OAS1</text>
+<text transform="translate(185,558)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="G3BP1">G3BP1</text>
+<text transform="translate(408,150) rotate(-90)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="ALLC">ALLC</text>
+<text transform="translate(63,543)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="ITGB3">ITGB3</text>
+<text transform="translate(289,548)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="LARP1">LARP1</text>
+<text transform="translate(555,415)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="HLA-DPB1">HLA-DPB1</text>
+<text transform="translate(571,642)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="PDE5A">PDE5A</text>
+<text transform="translate(366,80) rotate(-90)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="SLC25A10">SLC25A10</text>
+<text transform="translate(556,557)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="AFM">AFM</text>
+<text transform="translate(209,174)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="AKR1B1">AKR1B1</text>
+<text transform="translate(625,504)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="PROC">PROC</text>
+<text transform="translate(239,687)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="ARG1">ARG1</text>
+<text transform="translate(413,413)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="KL">KL</text>
+<text transform="translate(476,586)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="HPN">HPN</text>
+<text transform="translate(484,234)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="CD40">CD40</text>
+<text transform="translate(146,289) rotate(-90)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="RNASE1">RNASE1</text>
+<text transform="translate(270,602)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="PTGES">PTGES</text>
+<text transform="translate(229,195)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="ADRB2">ADRB2</text>
+<text transform="translate(240,196)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="RAF1">RAF1</text>
+<text transform="translate(439,442)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="CDH1">CDH1</text>
+<text transform="translate(56,239)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="PAK1">PAK1</text>
+<text transform="translate(517,509)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="TTN">TTN</text>
+<text transform="translate(564,395)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="SKP2">SKP2</text>
+<text transform="translate(328,561)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="C4BPA">C4BPA</text>
+<text transform="translate(524,524)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="PCSK9">PCSK9</text>
+<text transform="translate(481,449)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="HMGN4">HMGN4</text>
+<text transform="translate(335,198)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="HLA-E">HLA-E</text>
+<text transform="translate(280,621)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="ANXA5">ANXA5</text>
+<text transform="translate(213,309)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="MBNL1">MBNL1</text>
+<text transform="translate(410,249)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="UCN3">UCN3</text>
+<text transform="translate(698,375)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="SOD2">SOD2</text>
+<text transform="translate(527,608)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="TBL1X">TBL1X</text>
+<text transform="translate(696,418)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="FPR2">FPR2</text>
+<text transform="translate(93,377)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="GEN1">GEN1</text>
+<text transform="translate(185,658) rotate(-90)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="GPR182">GPR182</text>
+<text transform="translate(494,669)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="IFNL3">IFNL3</text>
+<text transform="translate(172,513) rotate(-90)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="CCR1">CCR1</text>
+<text transform="translate(140,535)" font-size="4" style="fill:#EF6666" class="tooltip-trigger" data-tooltip-text="ATN1">ATN1</text>
+<text transform="translate(367,48)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="CD177">CD177</text>
+<text transform="translate(276,366) rotate(-90)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="TNFAIP3">TNFAIP3</text>
+<text transform="translate(459,234)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="DEFB4B">DEFB4B</text>
+<text transform="translate(276,349) rotate(-90)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="DNASE1">DNASE1</text>
+<text transform="translate(174,310) rotate(-90)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="ATP8A2">ATP8A2</text>
+<text transform="translate(296,414) rotate(-90)" font-size="4" style="fill:#E77619" class="tooltip-trigger" data-tooltip-text="IFNAR2">IFNAR2</text>
+<text transform="translate(188,225)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="IL37">IL37</text>
+<text transform="translate(150,242)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="F12">F12</text>
+<text transform="translate(579,397)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="HBA1">HBA1</text>
+<text transform="translate(657,566)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="LTBP3">LTBP3</text>
+<text transform="translate(186,130)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="RORC">RORC</text>
+<text transform="translate(155,333)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="MOS">MOS</text>
+<text transform="translate(234,540) rotate(-90)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="ACACA">ACACA</text>
+<text transform="translate(507,627)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="PAPPA">PAPPA</text>
+<text transform="translate(138,223)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="CH25H">CH25H</text>
+<text transform="translate(433,205)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="KIN">KIN</text>
+<text transform="translate(425,631)" font-size="4" style="fill:#4C4C4C" class="tooltip-trigger" data-tooltip-text="CPQ">CPQ</text>
+<text transform="translate(591,520)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="AQP4">AQP4</text>
+<text transform="translate(152,375)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="NFASC">NFASC</text>
+<text transform="translate(173,109) rotate(-90)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="CX3CL1">CX3CL1</text>
+<text transform="translate(455,251)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="NAAA">NAAA</text>
+<text transform="translate(455,152) rotate(-90)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="SLC7A1">SLC7A1</text>
+<text transform="translate(225,561)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="KCTD1">KCTD1</text>
+<text transform="translate(531,201)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="NAMPT">NAMPT</text>
+<text transform="translate(376,96)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="MASP1">MASP1</text>
+<text transform="translate(285,229)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="SYK">SYK</text>
+<text transform="translate(244,77)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="CD44">CD44</text>
+<text transform="translate(557,469)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="LBP">LBP</text>
+<text transform="translate(514,156)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="SAR1A">SAR1A</text>
+<text transform="translate(546,127)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="KCNH2">KCNH2</text>
+<text transform="translate(520,214)" font-size="4" style="fill:#E71919" class="tooltip-trigger" data-tooltip-text="GPR4">GPR4</text>
+<text transform="translate(222,433)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="CXCR6">CXCR6</text>
+<text transform="translate(506,220) rotate(-90)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="SPINT1">SPINT1</text>
+<text transform="translate(624,400)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="NLRP12">NLRP12</text>
+<text transform="translate(674,520) rotate(-90)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="SLC2A4">SLC2A4</text>
+<text transform="translate(571,480)" font-size="4" style="fill:#EC4C4C" class="tooltip-trigger" data-tooltip-text="RB1">RB1</text>
+<text transform="translate(386,446)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="CD5">CD5</text>
+<text transform="translate(330,65)" font-size="4" style="fill:#000000" class="tooltip-trigger" data-tooltip-text="FAS">FAS</text>
+<text transform="translate(518,627)" font-size="4" style="fill:#EC944C" class="tooltip-trigger" data-tooltip-text="ZBP1">ZBP1</text>
+<text transform="translate(173,124)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="PRTN3">PRTN3</text>
+<text transform="translate(404,533) rotate(-90)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="SLC2A1">SLC2A1</text>
+<text transform="translate(418,611)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="SYNM">SYNM</text>
+<text transform="translate(444,458) rotate(-90)" font-size="4" style="fill:#E50000" class="tooltip-trigger" data-tooltip-text="PLP1">PLP1</text>
+<text transform="translate(166,439)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="KAT5">KAT5</text>
+<text transform="translate(718,354)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="MRC1">MRC1</text>
+<text transform="translate(180,265)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="ATG5">ATG5</text>
+<text transform="translate(552,560)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="TJP1">TJP1</text>
+<text transform="translate(620,296) rotate(-90)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="TNFRSF25">TNFRSF25</text>
+<text transform="translate(414,181)" font-size="4" style="fill:#E56700" class="tooltip-trigger" data-tooltip-text="ATM">ATM</text>
+<text transform="translate(168,282) rotate(-90)" font-size="4" style="fill:#666666" class="tooltip-trigger" data-tooltip-text="MEGF8">MEGF8</text>
+<text transform="translate(525,248) rotate(-90)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="STAT5A">STAT5A</text>
+<text transform="translate(219,425) rotate(-90)" font-size="4" style="fill:#323232" class="tooltip-trigger" data-tooltip-text="NUP98">NUP98</text>
+<text transform="translate(216,586)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="CWC15">CWC15</text>
+<text transform="translate(349,309) rotate(-90)" font-size="4" style="fill:#EA3232" class="tooltip-trigger" data-tooltip-text="CEP250">CEP250</text>
+<text transform="translate(640,501)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="GDF10">GDF10</text>
+<text transform="translate(301,586) rotate(-90)" font-size="4" style="fill:#191919" class="tooltip-trigger" data-tooltip-text="ADORA2A">ADORA2A</text>
+<text transform="translate(522,550) rotate(-90)" font-size="4" style="fill:#EA8532" class="tooltip-trigger" data-tooltip-text="WASF3">WASF3</text>
+
+                            <g id="tooltip" visibility="hidden">
+                                <rect width="80" height="74" fill="black" style="stroke:black;stroke-width:10" opacity="0.8" rx="10" ry="10"/>
+                                <text x="4" y="6" font-size="100" style="fill:white">Tooltip</text>
+                            </g>
+
+                            <script type="text/ecmascript"><![CDATA[
+                                (function() {
+                                    var svg = document.getElementById('svgImage');
+                                    var tooltip = svg.getElementById('tooltip');
+                                    var tooltipText = tooltip.getElementsByTagName('text')[0];
+                                    var tooltipRects = tooltip.getElementsByTagName('rect');
+                                    var triggers = svg.getElementsByClassName('tooltip-trigger');
+
+                                    for (var i = 0; i < triggers.length; i++) {
+                                        triggers[i].addEventListener('mousemove', showTooltip);
+                                        triggers[i].addEventListener('mouseout', hideTooltip);
+                                    }
+
+                                    function showTooltip(evt) {
+                                        var CTM = svg.getScreenCTM();
+                                        var x = (evt.clientX - CTM.e + 1) / CTM.a;
+                                        var y = (evt.clientY - CTM.f + 1) / CTM.d;
+                                        tooltip.setAttributeNS(null, "transform", "translate(" + x + " " + y + ")");
+                                        tooltip.setAttributeNS(null, "visibility", "visible");
+
+                                        tooltipText.firstChild.data = evt.target.getAttributeNS(null, "data-tooltip-text");
+                                        var length = tooltipText.getComputedTextLength();
+                                        for (var i = 0; i < tooltipRects.length; i++) {
+                                            tooltipRects[i].setAttributeNS(null, "width", length + 8);
+                                        }
+                                    }
+
+                                    function hideTooltip(evt) {
+                                        tooltip.setAttributeNS(null, "visibility", "hidden");
+                                    }
+                                })()
+                            ]]></script>
+
+                            </svg>
+                        
