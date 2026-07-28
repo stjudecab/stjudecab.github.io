@@ -319,4 +319,102 @@ When assisting users, agents should use this skill to annotate the genomic regio
 Run genomic region annotation on header-free BED files in peaks/ using genome build hg38, and write outputs under annotations/.
 ```
 </div>
+<div class="clearfix"></div>
+<div class="col-sm-6">
+
+### [custom-ES-plot-GSEApy](https://github.com/stjudecab/CAB-aiSkills/tree/main/custom-ES-plot-GSEApy)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/custom-ES-plot-GSEApy/assets/CAB-aiSkills_custom-ES-plot-GSEApy.svg" alt="custom-ES-plot-GSEApy logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/custom-ES-plot-GSEApy"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a>
+
+#### Purpose
+
+Generate **GSEA enrichment score (ES) plots** and **statistics text files** from saved **GSEApy `pre_res` pickle** files or **Broad Institute GSEA desktop output directories**, with support for exact gene sets, regex patterns, and `allGeneSets` — including non-significant gene sets omitted from default exports.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill for custom GSEA enrichment score visualization, replotting Broad GSEA results, GSEApy pickle inspection, or exporting GSEA statistics and figures.
+
+**Example prompt:**
+
+```text
+From GSEApy_prerank.pre_res.RNA.KO_48h_vs_WT_48h.pkl, plot enrichment for all CTCF_peaks.* gene sets and save PNG/PDF/TXT under agentResults/.
+```
+</div>
+<div class="col-sm-6">
+
+### [genomic-set-analysis](https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-set-analysis)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/genomic-set-analysis/assets/CAB-aiSkills_genomic-set-analysis.svg" alt="genomic-set-analysis logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-set-analysis"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a>
+
+#### Purpose
+
+**Order-independent overlap analysis** of genomic region sets (ChIP-seq, ATAC-seq, CUT&Tag, CUT&RUN, narrowPeak/broadPeak/BED) or gene sets (GMT) using **Intervene** (Venn / UpSet / pairwise), producing membership matrices and mutually exclusive per-sector files. Optionally chains **`genomic-regions-annotation`** and **`pathway-enrichment-enrichr`** skills for comprehensive downstream analysis.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill for overlapping genomic region sets, generating Venn/UpSet diagrams, performing set intersection analysis, or running multi-omics overlap with integrated annotation and pathway enrichment.
+
+**Example prompt:**
+
+```text
+Overlap the three BED files in peaks/ using Intervene, annotate results against hg38, and run pathway enrichment for each intersection and original file; write outputs under agentResults/.
+```
+</div>
+<div class="clearfix"></div>
+<div class="col-sm-6">
+
+### [bioinformatics-reporting](https://github.com/stjudecab/CAB-aiSkills/tree/main/bioinformatics-reporting)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/bioinformatics-reporting/assets/CAB-aiSkills_bioinformatics-reporting.svg" alt="bioinformatics-reporting logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/bioinformatics-reporting"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a>
+
+#### Purpose
+
+Transform **existing** bioinformatics result directories into polished, evidence-grounded **Quarto HTML/PDF reports** with complete reproducibility bundles. Discovers/validates artifacts, builds normalized report models with provenance-backed metrics, renders self-contained deliverables, and verifies outputs.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill to generate scientific reports from RNA-seq, ATAC-seq, ChIP-seq, CUT&RUN/CUT&Tag, enrichment, overlap analysis, or multi-omics result collections with automated metrics and audit trails.
+
+**Example prompt:**
+
+```text
+Create a scientific bioinformatics report from the results in agentResults/my-analysis-20260709T141453Z, including overlap plots, enrichment tables, and an evidence-grounded executive summary; write HTML and PDF under agentResults/.
+```
+</div>
+<div class="col-sm-6">
+
+### [colorblind-sim](https://github.com/stjudecab/CAB-aiSkills/tree/main/colorblind-sim)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/colorblind-sim/assets/CAB-aiSkills_colorblind-sim.svg" alt="colorblind-sim logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/colorblind-sim"><i class='fab fa-github'></i>Repository</a>
+- <a href="https://stjudecab.github.io/Epigenetics/">Maintainer (Epigenetics group)</a>
+
+#### Purpose
+
+Simulate how **figures appear under color vision deficiency (CVD)** using **CBviz** (protanopia, deuteranopia, tritanopia, monochrome). Accepts PNG/JPEG/TIFF directly; auto-converts PDF (and SVG/EPS when tools available) to PNG before simulation. Outputs multi-panel preview figures plus full run audit trail.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill for colorblind-accessibility preview of figures, testing plot visibility under color vision deficiency, or generating CVD-aware figure panels.
+
+**Example prompt:**
+
+```text
+Simulate colorblindness on my volcano plot figures/volcano.png (or figure.pdf) and save the CBviz comparison panels under agentResults/.
+```
+</div>
 </div>
