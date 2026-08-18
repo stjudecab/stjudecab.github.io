@@ -434,7 +434,7 @@ Runs `bidirectional` **GenometriCorr analyses** on two **`.bed`** files and gene
 
 #### Usage For AI Agent
 
-When assisting users, agents should use this skill to find bidirectional correlation between two genomic region files, PDF correlation reports, and visualization for each chromosome and the genome overall.
+When assisting users, agents should use this skill to find bidirectional correlation between two genomic region files, PDF correlation reports, and visualizations for each chromosome and the genome overall.
 
 **Example prompt:**
 
@@ -442,7 +442,6 @@ When assisting users, agents should use this skill to find bidirectional correla
 Compare gained.bed and reference.bed with GenometriCorr using hg38, and write the reports under agentResults/.
 ```
 </div>
-<div class="clearfix"></div>
 <div class="col-sm-6">
 
 ### [tornado-plots](https://github.com/stjudecab/CAB-aiSkills/tree/main/tornado-plots)
