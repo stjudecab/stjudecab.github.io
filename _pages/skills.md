@@ -299,7 +299,7 @@ Merge table1.tsv, table2.csv, and table3.txt into one Excel file with a NameDict
 
 ### [genomic-regions-annotation](https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-regions-annotation)
 <picture>
-	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main//genomic-regions-annotation/assets/CAB-aiSkills_genomic_regions_annotation.svg" alt="genomic-regions-annotation logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/genomic-regions-annotation/assets/CAB-aiSkills_genomic_regions_annotation.svg" alt="genomic-regions-annotation logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
 </picture>
 
 - <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-regions-annotation"><i class='fab fa-github'></i>Repository</a>
@@ -415,6 +415,54 @@ When assisting users, agents should use this skill for colorblind-accessibility 
 
 ```text
 Simulate colorblindness on my volcano plot figures/volcano.png (or figure.pdf) and save the CBviz comparison panels under agentResults/.
+```
+</div>
+<div class="col-sm-6">
+
+### [genomic-regions-correlation](https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-regions-correlation)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/genomic-regions-correlation/assets/CAB-aiSkills_genomic_regions_correlation.svg" alt="genomic-regions-correlation logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-regions-correlation"><i class='fab fa-github'></i>Repository</a>
+- <a href="/team/hasan">Maintainer (Hasan Al Reza)</a> | <a href="https://stjudecab.github.io/Epigenetics/">(Epigenetics group)</a>
+
+#### Purpose
+
+Runs `bidirectional` **GenometriCorr analyses** on two **`.bed`** files and generates **PDF correlation reports and visualizations** for the selected `genome build`.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill to find bidirectional correlation between two genomic region files, PDF correlation reports, and visualization for each chromosome and the genome overall.
+
+**Example prompt:**
+
+```text
+Compare gained.bed and reference.bed with GenometriCorr using hg38, and write the reports under agentResults/.
+```
+</div>
+<div class="col-sm-6">
+
+### [tornado-plots](https://github.com/stjudecab/CAB-aiSkills/tree/main/tornado-plots)
+<picture>
+	<img src="https://raw.githubusercontent.com/stjudecab/CAB-aiSkills/main/tornado-plots/assets/CAB-aiSkills_tornado_plots.svg" alt="tornado-plots logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+</picture>
+
+- <a href="https://github.com/stjudecab/CAB-aiSkills/tree/main/tornado-plots"><i class='fab fa-github'></i>Repository</a>
+- <a href="/team/hasan">Maintainer (Hasan Al Reza)</a> | <a href="https://stjudecab.github.io/Epigenetics/">(Epigenetics group)</a>
+
+#### Purpose
+
+Generates **deepTools tornado plots and heatmaps** from **`.bed`** region files and **`.bigwig`** signal tracks using `computeMatrix reference-point` and `plotHeatmap`. Supports local execution and optional LSF bsub submission.
+
+#### Usage For AI Agent
+
+When assisting users, agents should use this skill to create symlinks to input files and generate a matrix containing scores per genomic regions, and a tornado plot.
+
+**Example prompt:**
+
+```text
+Create a tornado plot from Sample.Up2FC.Region.bed and Sample.Down2FC.Region.bed using the supplied ChIP-seq BigWig tracks, and save outputs under agentResults/.
 ```
 </div>
 </div>
