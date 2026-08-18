@@ -417,6 +417,7 @@ When assisting users, agents should use this skill for colorblind-accessibility 
 Simulate colorblindness on my volcano plot figures/volcano.png (or figure.pdf) and save the CBviz comparison panels under agentResults/.
 ```
 </div>
+<div class="clearfix"></div>
 <div class="col-sm-6">
 
 ### [genomic-regions-correlation](https://github.com/stjudecab/CAB-aiSkills/tree/main/genomic-regions-correlation)
@@ -441,6 +442,7 @@ When assisting users, agents should use this skill to find bidirectional correla
 Compare gained.bed and reference.bed with GenometriCorr using hg38, and write the reports under agentResults/.
 ```
 </div>
+<div class="clearfix"></div>
 <div class="col-sm-6">
 
 ### [tornado-plots](https://github.com/stjudecab/CAB-aiSkills/tree/main/tornado-plots)
