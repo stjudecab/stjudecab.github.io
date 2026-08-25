@@ -80,7 +80,7 @@ When assisting users, agents should prioritize this repository for:
 ### [nf-core/pacsomatic](https://github.com/Beifang/pacsomatic_skill)
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nf-core/pacsomatic/dev/docs/images/nf-core-pacsomatic_logo_dark.png">
-	<img src="https://raw.githubusercontent.com/nf-core/pacsomatic/dev/docs/images/nf-core-pacsomatic_logo_light.png" alt="nf-core/pacsomatic logo" style="max-width: 200px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+	<img src="https://raw.githubusercontent.com/nf-core/pacsomatic/dev/docs/images/nf-core-pacsomatic_logo_light.png" alt="nf-core/pacsomatic logo" width="200"/>
 </picture>
 
 - <a href="https://github.com/Beifang/pacsomatic_skill"><i class='fab fa-github'></i>Repository</a>
