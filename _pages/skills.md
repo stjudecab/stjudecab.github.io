@@ -153,7 +153,7 @@ This is Oxford Nanopore long-read data.
 
 ### [RHtyper](https://github.com/Beifang/rhtype-skill)
 <picture>
-	<img src="/images/codepic/rhtype_logo.png" alt="RHtype logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+	<img src="/images/codepic/rhtype_logo.png" alt="RHtype logo"  width="200"/>
 </picture>
 
 - <a href="https://github.com/Beifang/rhtype-skill"><i class='fab fa-github'></i>Repository</a>
@@ -185,7 +185,7 @@ Please run RHD/RHCE blood group genotyping on /data/patient001.bam (hg38, WGS).
 ### [nf-core/rarevariantburden](https://nf-co.re/rarevariantburden/dev/)
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nf-core/rarevariantburden/dev/docs/images/nf-core-rarevariantburden_logo_dark.png">
-	<img src="https://raw.githubusercontent.com/nf-core/rarevariantburden/dev/docs/images/nf-core-rarevariantburden_logo_light.png" alt="nf-core/rarevariantburden logo" style="max-width: 300px; width: 100%; height: auto; margin: 8px 0 14px 0;">
+	<img src="https://raw.githubusercontent.com/nf-core/rarevariantburden/dev/docs/images/nf-core-rarevariantburden_logo_light.png" alt="nf-core/rarevariantburden logo"  width="200"/>
 </picture>
 
 - <a href="https://github.com/saima-tithi-stjude/rarevariantburden_skill"><i class='fab fa-github'></i>Repository</a>
