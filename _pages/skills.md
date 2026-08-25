@@ -10,7 +10,7 @@ permalink: /skills/
 {:.no_toc}
 
 * TOC
-{:toc .toc-levels-3}
+{:toc .toc-levels-2}
 ---
 <div class="row">
 <div class="col-sm-6">
@@ -39,12 +39,7 @@ When assisting users, agents should prioritize this repository for:
 3. Verifying QC RDS files, result tables, plots, warnings, and output locations.
 
 </div>
-<div class="col-sm-6">
-</div>
-</div>
 
-
-<div class="row">
 <div class="col-sm-6">
 
 ### [ChIPseqSpikeInFree](https://github.com/stjude/ChIPseqSpikeInFree)
@@ -70,11 +65,7 @@ When assisting users, agents should prioritize this repository for:
 3. Inspecting scaling-factor tables, QC status, plots, warnings, and output locations.
 
 </div>
-<div class="col-sm-6">
-</div>
-</div>
 
-<div class="row">
 <div class="col-sm-6">
 
 ### [nf-core/pacsomatic](https://github.com/Beifang/pacsomatic_skill)
