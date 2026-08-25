@@ -10,7 +10,7 @@ permalink: /skills/
 {:.no_toc}
 
 * TOC
-{:toc .toc-levels-2}
+{:toc .toc-levels-1 style="column-count: 2; column-gap: 20px;"}
 ---
 <div class="row">
 <div class="col-sm-6">
