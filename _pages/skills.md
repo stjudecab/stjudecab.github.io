@@ -19,7 +19,7 @@ permalink: /skills/
 <img
   src="https://raw.githubusercontent.com/hongjianjin/imprintomeR/master/images/logo_small.png"
   alt="imprintomeR logo"
-  width="140"
+  width="150"
 />
 
 - <a href="https://github.com/hongjianjin/imprintomeR"><i class='fab fa-github'></i>Repository</a>
