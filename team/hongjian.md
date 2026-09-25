@@ -38,7 +38,8 @@ His expertise includes analyisis, integration and intepretation of epigenetics a
 
 Time        | Position                   | PI/Supervisor    | Institution                                   |
 ----------- | :-----------               | -----------      | -----------                                   |
-2019-       | Sr. Bioinformatics         | Yiping Fan       | St. Jude Children's Research Hospital         |
+2024-       | Principal Scientist        | Yiping Fan       | St. Jude Children's Research Hospital         |
+2019-2024   | Sr. Bioinformatics         | Yiping Fan       | St. Jude Children's Research Hospital         |
             | Research Scientist         |                  |                                               |
 2016-2019   | Bioinformatics             | Jinghui Zhang /  | St. Jude Children's Research Hospital         |
             | Research Scientist         | Yiping Fan       |                                               |
