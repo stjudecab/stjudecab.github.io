@@ -19,20 +19,20 @@ scholar_first_name_bold: Hongjian
 ---
 
 ### Overview
-Dr. Hongjian Jin is a Principal bioinformatics research scientist, leading transcriptomics team at St. Jude Children's Research Hospital, He is particularly interested in understanding transcriptional regulation and its roles in childhood and adult cancer.
+Dr. Hongjian Jin is a Principal Bioinformatics Research Scientist and leads the Transcriptomics Team at St. Jude Children’s Research Hospital. His research focuses on understanding transcriptional regulation and its roles in childhood and adult cancers.
 
 His expertise includes analyisis, integration and intepretation of epigenetics and transcriptomics data:
 
-- RNA-Seq, scRNA-Seq, Iso-Seq
-- ATAC-Seq, scATAC-Seq
-- ChIP-Seq, CUT&RUN CUT&TAG
+- RNA-Seq, scRNA-Seq and Iso-Seq
+- ATAC-Seq and scATAC-Seq
+- ChIP-Seq, CUT&RUN and CUT&TAG
 - FAIRE-Seq, DNase-Seq 
-- Microarry, Methylation Array
+- Microarry and Methylation Array
 
 
 ### Education
 - PhD,  Zhejiang University, Hangzhou, China (2007)
-- MS, - Zhejiang University, Hangzhou, China (2002)
+- MS,  Zhejiang University, Hangzhou, China (2002)
 
 ### Professional Experience
 
