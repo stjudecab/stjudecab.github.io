@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Hongjian Jin
-position: Sr. Bioinoformatics Research Scientist
+position: Principal Bioinoformatics Research Scientist
 handle: hongjian
 email: hongjian.jin@stjude.org
 twitter:
