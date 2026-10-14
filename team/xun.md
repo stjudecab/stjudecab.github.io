@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Xun Zhu
-position: Bioinformatics Resch Scientist
+position: Tech Lead Manager
 handle: xun
 email: xun.zhu@stjude.org
 twitter:
@@ -18,19 +18,26 @@ scholar_first_name_bold: Xun
 ---
 
 ### Overview
-Dr. Xun Zhu is a Bioinformatics Research Scientist in the Center for Applied Bioinformatics at St Jude Children's Research Hospital. His work focuses on the design and development of a next-generation bioinformatics workflow platform that would enable streamlined, collaborative, and reproducible biological data analysis.
+Dr. Xun Zhu is a Manager of Software Engineering in the Center for Applied Bioinformatics at St. Jude Children's Research Hospital. He leads the team behind Planet9, a HIPAA-aligned cloud platform where St. Jude Global partner hospitals run biomedical analyses. He built the original prototype for Planet9, and has grown the project into a global platform serving 10+ state-of-the-art analysis applications to partner hospitals in Asia, Africa, North America, South America, and Europe.
+
+Before St. Jude, he developed the single-cell RNA-Seq analysis platforms Granatum and GranatumX, and published machine learning methods for omics and medical imaging data.
 
 ### Education
 - PhD, Molecular Biosciences and Bioengineering, University of Hawaii at Manoa
+- MS, Computer Science, University of Illinois Urbana-Champaign
 - MS, Applied Mathematics, University of Southern California
 - BS, Mathematics and Applied Mathematics, Tianjin Polytechnic University
 
 ### Professional Experience
 
-Time           | Position                          | PI/Supervisor | Institution                                        |
------------    | :-----------                      | -----------   | -----------                                        |
-2019 - Current | Bioinformatics Research Scientist | Gang Wu       | St. Jude Children's Research Hospital, Memphis, TN |
-2019           | Postdoctoral Researcher           | John Shepherd | University of Hawaii Cancer Center, Honolulu, HI   |
+Time           | Position                            | PI/Supervisor | Institution                                        |
+-----------    | :-----------                        | -----------   | -----------                                        |
+2023 - Current | Manager of Software Engineering     | Gang Wu       | St. Jude Children's Research Hospital, Memphis, TN |
+2023           | Staff Software Engineer             | Gang Wu       | St. Jude Children's Research Hospital, Memphis, TN |
+2022 - 2023    | Sr. Bioinformatics Software Engineer | Gang Wu      | St. Jude Children's Research Hospital, Memphis, TN |
+2020 - 2022    | Bioinformatics Research Scientist   | Gang Wu       | St. Jude Children's Research Hospital, Memphis, TN |
+2019 - 2020    | Postdoctoral Researcher             | John Shepherd | University of Hawaii Cancer Center, Honolulu, HI   |
+2014 - 2019    | Research Assistant                  | Lana Garmire  | University of Hawaii Cancer Center, Honolulu, HI   |
 {:.custom-table}
 
 <!--more-->
